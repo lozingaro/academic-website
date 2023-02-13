@@ -1,7 +1,6 @@
 # About
 
-<!-- insert the logo jpeg from assets/images -->
-![logo](assets/images/logo.jpeg)
+![logo](assets/images/logo.png)
 
 This space collects personal projects.
 
