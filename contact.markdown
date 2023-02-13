@@ -15,10 +15,6 @@ Here is a list of some refs that could be of interest:
 - [Dblp](https://dblp.uni-trier.de/pers/hd/z/Zingaro:Stefano_Pio)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965)
 
-## Navigate
-
-Check out [didactics](didactics) and [software](software).
-
 ---
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

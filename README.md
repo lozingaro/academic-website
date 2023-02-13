@@ -1,16 +1,10 @@
-# About
+# About me
 
 ![logo](assets/images/logo.png)
 
-This space collects personal projects.
+Teacher and researcher who is [currently working](contact) as assistant professor of computer science at the University of Bologna with [M. Gabbrielli](cs.unibo.it/~gabbri).
 
-## About me
-
-I am [currently working](contact) as assistant professor of computer science at the University of Bologna with professor [M. Gabbrielli](cs.unibo.it/~gabbri).
-
-## Navigate
-
-Check out [didactics](didactics) and [software](software).
+Check out my [didactics](didactics) and [software](software).
 
 ---
 
