@@ -18,6 +18,7 @@
 
 ### Jekyll ###
 _site/
+_posts/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
