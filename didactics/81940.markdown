@@ -1,14 +1,20 @@
-# Progetto di Intelligenza Artificiale 2023
+# Intelligenza Artificiale (2023 edition)
 
-[English version](2023.en.markdown)
+I contenuti di questa pagina riguardano la realizzazione del progetto di Intelligenza Artificiale (AI) del corso di laurea magistrale in Informatica dell'Università di Bologna.
 
-I contenuti di questa pagina riguardano:
+In particolare sono presenti le seguenti sezioni:
 
 1. [la gestione dei gruppi](#gestione-dei-gruppi)
 2. [la struttura del progetto](#struttura-del-progetto)
 3. [le modalità di valutazione](#modalità-di-valutazione)
 
+🇮🇹
 **Attenzione!** In ogni momento e compatibilmente con la disponibilità del docente, è possibile concordare un ricevimento inviando [un messaggio di posta elettronica](mailto:stefanopio.zingaro@unibo.it) e specificando la motivazione nel corpo del messaggio.
+
+🇬🇧
+**Warning!** At any time and subject to the availability of the teachers, a reception can be arranged [sending an email](mailto:stefanopio.zingaro@unibo.it) and specifying the reason in the email.
+
+**Are you an Erasmus student?** [Contact me!](mailto:stefanopio.zingaro@unibo.it)
 
 ## Gestione dei gruppi
 
@@ -40,19 +46,19 @@ Chi non riuscisse a trovare un gruppo e fosse ancora intenzionato a presentare u
 
 Un esempio del corpo della **mail** con **oggetto** _CERCO GRUPPO AI_:
 
-```markdown
+```plaintext
 Annio Ennio, 123456
 A causa di impegno/lavoro part-time/full-time sono disponibile di sera e nei weekend.
 ```
 
-**Le persone senza un gruppo vengono assegnate il prima possibile senza possibilità di ulteriori modifiche.**
+**Attenzione!** Le persone senza un gruppo vengono assegnate il prima possibile.
 
 ## Struttura del progetto
 
 In generale, il progetto è composto da report (scritto) e implementazione (codice sorgente).
 I progetti possono essere proposti dai gruppi stessi o dai docenti del corso.
 I progetti proposti dai docenti sono discussi durante lezione e costituiscono soltanto una possibile traccia di lavoro (e.g., problemi, _tasks_, o _datasets_).
-Tutte le informazioni sulle proposte dei docenti verranno aggiornati _in itinere_ e sono disponibili nella [pagina dedicata all'elenco delle proposte](lists/proposals.md).
+Tutte le informazioni sulle proposte dei docenti verranno aggiornati _in itinere_ e sono disponibili nella [pagina dedicata all'elenco delle proposte](proposals.md).
 
 ## Modalità di valutazione
 

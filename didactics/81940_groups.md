@@ -1,4 +1,4 @@
-# Elenchi dei gruppi 22-23
+# Groups for the course of Artificial Intelligence (UNIBO-81940)
 
 🇮🇹
 **ATTENZIONE!** Se il colore del `nome del gruppo` è <span style="color:red">rosso</span> allora non avete correttamente aggiunto l'utente `dezingaro` come `Reporter` del progetto su `GitLab` e ci sono problemi con la registrazione del vostro gruppo.
@@ -6,7 +6,7 @@
 🇬🇧
 **WARNING!** If the colour of the `group name` is <span style="color:red">red</span> then you have not correctly added the user `dezingaro` as `Reporter` of the project on `GitLab` and there are problems with the registration of your group.
 
-## Elenco dei gruppi iscritti
+## Groups not yet examined
 
 | mAIntenance                                       |          4 |
 | :------------------------------------------------ | ---------: |
@@ -80,7 +80,7 @@
 | :---------------------------------------------------------- | ---------: |
 | [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
 
-### Gruppi che hanno svolto l'esame
+### Exam session 2022/23
 
 | hellofriend.mov                                          |          4 |
 | :------------------------------------------------------- | ---------: |
@@ -93,3 +93,100 @@
 | :------------------------------------------------------------------ | ---------: |
 | [Oskar Brandsæter Vik](mailto:oskarbrandsaeter.vik@studio.unibo.it) | 1900104618 |
 | Aldo Canfora                                                        | 0001035985 |
+
+## Exam session 2021/22
+
+| ITLandfill                                                       |          4 |
+| :--------------------------------------------------------------- | ---------: |
+| [Benetton Alessandro](mailto:alesandro.benetton@studio.unibo.it) | 0001038887 |
+| Crespan Lorenzo                                                  | 0001038888 |
+| Li Zhiguang                                                      | 0001029938 |
+| Mazzocato Luca                                                   | 0001046637 |
+
+| ComunicazioneAlternativaAumentativa🖼     |          1 |
+| :--------------------------------------- | ---------: |
+| [Sofia Cerè](sofia-cere@studio.unibo.it) | 0001057906 |
+
+| WorkInProgress                                          |          2 |
+| :------------------------------------------------------ | ---------: |
+| [Tommaso Segato](mailto:tommaso.segato@studio.unibo.it) | 0001046547 |
+| Vittoria Conte                                          | 0001007320 |
+
+| iaMAN                                                 |       3 |
+| :---------------------------------------------------- | ------: |
+| [Marco Madonna](mailto:marco.madonna@studio.unibo.it) | 1057914 |
+| Andrea D'Arpa                                         |  983830 |
+| Eleonora Pirri                                        |  983571 |
+
+| V.D.F.                                                            |          3 |
+| :---------------------------------------------------------------- | ---------: |
+| [Vallasciani Giacomo](mailto:giacomo.vallasciani@studio.unibo.it) | 0000954881 |
+| Di Maria Giuseppe                                                 | 0000954089 |
+| Fabbri Alessandro                                                 | 0000934261 |
+
+| AHI-AHI-AHI                                         |          3 |
+| :-------------------------------------------------- | ---------: |
+| [Aurora Brega](mailto:aurora.brega@studio.unibo.it) | 0001046055 |
+| Francesco Saverio Beccafichi                        | 0001052139 |
+| Francesco Piconi                                    | 0001054500 |
+
+| Leoni Turchesi Vanigliati                                    |          3 |
+| :----------------------------------------------------------- | ---------: |
+| [Gabriele Evangelista](gabriele.evangelista@studio.unibo.it) | 0001056572 |
+| Antonietta Pascarella                                        | 0001039243 |
+| Michelle Zanotti                                             | 0001038859 |
+
+| SmashAI                                                  |          1 |
+| :------------------------------------------------------- | ---------: |
+| [Gabriele Spina](mailto:gabriele.spina2@studio.unibo.it) | 0001038853 |
+
+| Creative                                              |       4 |
+| :---------------------------------------------------- | ------: |
+| [Alex Citeroni](mailto:alex.citeroni@studio.unibo.it) | 1052175 |
+| Simone Branchetti                                     | 1038801 |
+| Davide Talevi                                         | 1043409 |
+| Mirko Scozia                                          | 1053220 |
+
+| theForecasters                                            |       3 |
+| :-------------------------------------------------------- | ------: |
+| [Keran Jegasothy](mailto:keran.jegasothy@studio.unibo.it) | 1007457 |
+| Kathleen Anne Velasco                                     | 1052173 |
+| Gabriele Pasquali                                         | 1041754 |
+
+| MontyPython                                                   |          2 |
+| :------------------------------------------------------------ | ---------: |
+| [Silvano Carradori](mailto:silvano.carradori@studio.unibo.it) | 0001038791 |
+| Giulio Augello                                                | 0001043910 |
+
+| Cypher                                                        |          2 |
+| :------------------------------------------------------------ | ---------: |
+| [Veronica Livenoti](mailto:veronica.livenoti@studio.unibo.it) | 0001039022 |
+| Giuseppe Caputo                                               | 0001056533 |
+
+| Coughntrol                                                |       2 |
+| :-------------------------------------------------------- | ------: |
+| [Sergio Solmonte](mailto:sergio.solmonte@studio.unibo.it) | 1039237 |
+| Michele Stelluti                                          | 1038862 |
+
+| NOT_FOUND                                          |          1 |
+| :------------------------------------------------- | ---------: |
+| [Potena Nicandro](nicandro.potena@studio.unibo.it) | 0001000827 |
+
+| LittleBit                                                  |       4 |
+| :--------------------------------------------------------- | ------: |
+| [Bianca Raimondi](mailto:bianca.raimondi2@studio.unibo.it) | 1025069 |
+| Nicolò Pizzo                                               | 1038811 |
+| Nicola Panozzo                                             | 1044424 |
+| Diego Concetti                                             | 1039668 |
+
+| La Triade                                          |          3 |
+| :------------------------------------------------- | ---------: |
+| [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
+| Marco Benito Tomasone                              | 0001038815 |
+| Simone Boldrini                                    | 0001038792 |
+
+| CTRL+C CTRL+V                                                    |       3 |
+| :--------------------------------------------------------------- | ------: |
+| [Filippo Bartolucci](mailto:filippo.bartolucci2@studio.unibo.it) | 1039733 |
+| Alfonso Esposito                                                 | 1057171 |
+| Isabella Marasco                                                 | 1040993 |
