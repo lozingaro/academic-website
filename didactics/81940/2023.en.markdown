@@ -1,0 +1,137 @@
+# Artificial Intelligence Project Home 2022-2023
+
+[Italian version](2023.markdown)
+
+In this space we present some useful information for the realisation of the project for the Artificial Intelligence course for the Master's Degree in Computer Science at the University of Bologna, Academic Year 2022-2023.
+
+In particular, the contents of this page concern:
+
+1. [the management of groups](#group-management)
+2. [the project structure](#project-structure)
+3. [evaluation methods](#methods-of-evaluation)
+
+**At any time and subject to the availability of the teachers, a reception can be arranged by email to [tutor](mailto:stefanopio.zingaro@unibo.it) (specify the reason in the email).**
+
+## Group management
+
+Each group consists of a minimum of one (1) to a maximum of four (4) persons.
+Those wishing to take part in the examination shall communicate the composition of the group **by e-mail** to [tutor](mailto:stefanopio.zingaro@unibo.it).
+
+The message must be sent from their institutional e-mail address `@studio.unibo.it`, has as subject **WORK GROUP AI** and contains:
+
+1. The name of the group;
+2. A line for each member: surname, first name and matriculation number;
+3. A reference e-mail address to which notifications can be sent (it is the contact person's duty to communicate with the other members).
+
+An example of the body of the **mail** with **object** _GROUP AI_:
+
+```markdown
+| GROUP_NAME | NUMBER_MEMBERS |
+|:-|-:|
+| [Referent Name](mailto:nome.referente@studio.unibo.it) | freshman |
+| Component Name | freshman |
+```
+
+All information concerning groups (e.g. correct registration) can be monitored on the [group list page](list/groups.md).
+At the same address you can find, for those looking for a group, contact information for contact persons and the number of persons for each existing group.
+
+If you are unable to find a group and still wish to submit a group project, please send a message to [tutor](mailto:stefanopio.zingaro@unibo.it) with the subject line **SEARCHING GROUP AI**, specifying:
+
+- Last Name, First Name, Email;
+- Any preferences regarding working time (an attempt will be made to set up groups of people with compatible working times, subject to availability).
+
+An example of the body of the **email** with **object** _CERT GROUP AI_:
+
+```markdown
+Annio Ennio, 123456
+Due to part-time/full-time commitment/work I am available in the evenings and at weekends.
+```
+
+**Persons without a group are assigned as soon as possible without the possibility of further changes.**
+
+## Project structure
+
+In general, the project consists of report (written) and implementation (source code).
+Projects may be proposed by the groups themselves or by the course lecturers.
+Projects proposed by lecturers are discussed during the lecture and only constitute a possible working outline (e.g., problems, _tasks_, or _datasets_).
+All information on the lecturers' proposals will be updated _in itinere_ and are available on the [proposal lists page](list/proposals.md).
+
+## Methods of evaluation
+
+Overall, two products are delivered: the report (written) and the implementation (the source code).
+The [summative evaluation](https://www.universoscuola.it/valutazione-sommativa-studenti.htm) takes place through an oral examination in which the project and the delivered products are discussed.
+Questions will be addressed to all group members, who may choose how to organise the presentation of the content.
+
+By handing in the products and participating in the oral examination, group members declare that they accept the following conditions:
+
+- Whoever copies or causes part of the source code or report to be copied invalidates the project. The lecturers agreed to check the products with a plagiarism detection programme.
+
+## The report
+
+The report is a textual document that contains all the information concerning the authors, purpose and realisation of the project.
+Concretely, the report has the following characteristics:
+
+- **it has no length limits** (neither _lower bound_ nor _upper bound_),
+- is written in a font size of _12pt_,
+- is written in the preferred format (e.g., `lateX`, `docx`),
+- respects the structure of the [report template](templates/report.md),
+- is delivered in `PDF` format in the manner described in the [delivery section](#delivery).
+
+### Evaluation of the report
+
+The evaluation of the report focuses on the analysis of the writing and its ability to clearly express the concepts described, especially **through the use of examples**.
+
+In particular, the evaluation grid used is as follows:
+
+| Criterion | Description |
+|---|---|
+| **Quality of information** | Recognition of problems and their description |
+| **Use of examples** | Presence of at least one example in all implementation choices |
+| | **Analysis of Implementation Choices** | Description of your implementation choice and presence of proposed viable alternatives |
+
+## The Implementation
+
+The project is developed using the technology you prefer.
+There are no requirements regarding the technologies used.
+
+Project management **is done with the support of the `git` system**, at [this page](https://education.github.com/git-cheat-sheet-education.pdf) you can find a list of useful commands to learn how to use this collaborative writing tool.
+
+The code of the project is contained in a cloud space provided by the online service [GitLab](http://gitlab.com) and managed following the procedure described below.
+
+1. Each group member [creates an account on GitLab or logs in with their own credentials](https://gitlab.com/users/sign_in)
+2. The **group leader** creates a new project by clicking on the **+** button at the top right of the GitLab main screen, entering `AI_GroupName` as the project name and clicking **New Project**
+   - once the project has been created, the contact person adds each member of the group with `role permission` $>$ `Developer` by going to `Settings` $>$ `Members` in the menu on the left, searching for them by the username with which they registered with GitLab;
+   - the referent adds the user [`dezingaro`](https://gitlab.com/dezingaro) with `role permission` $>$ `Reporter`.
+
+### Implementation Evaluation
+
+The evaluation of the system implementation is based on the efficiency of the code.
+
+## Delivery
+
+On delivery, the repository shall contain the project sources and the report, named `REPORT_AI.pdf`.
+
+To make the handover:
+
+1. On the project page, click on the `Repository` menu item $>$ `Tags` $>$ `New Tag`
+2. Type in as `Tag Name` the name **Delivery**.
+3. Click `Create Tag` to execute the creation of the Delivery `Tag
+
+Once the Tag has been created, send a delivery notification e-mail with subject **DELIVERY TO - GROUP NAME** to [tutor](mailto:stefanopio.zingaro@unibo.it).
+
+## The demonstration (demo)
+
+Together with the documentation and source code, a script must be prepared to automate the tests.
+At least in the initial phase of the oral test, it may be useful to prepare material to be correlated with the script (e.g. _screenshots_), which will make it possible to speed up the code checking operations.
+This test suite _can_ be integrated into the source code (however, it is optional).
+
+## Timetable for the oral examination
+
+In general, the evaluation of the project will include the evaluation of the implementation and the report as set out in the oral examination.
+The date taken into account for the delivery of the project implementation and report will be the date of creation of the **Tag** on [GitLab](https://gitlab.com).
+Only after the deliveries, will the date and time of the discussion be fixed (notified to the contact person's email), **as soon as possible after delivery**.
+
+## Licence
+
+The following project is released under [GNU licence v3](LICENSE).
+Projects must be released under [compatible licences](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) or under [Creative Commons Attribution-Share Alike International 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/).
