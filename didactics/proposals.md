@@ -1,34 +1,38 @@
-# Elenchi delle proposte di progetto per il corso di AI 2022-2023
+# Project proposals
 
-Navigate one of the following descriptions:
+In the following sections you can find a list of project proposals both for in-course activities and thesis work.
 
-* [Edu_I](#edu_i)
-* [Edu_II](#edu_ii)
-* [Med_I](#med_i)
-* [Med_II](#med_ii)
-* [VOO_I](#voo_i)
+- [Project proposals](#project-proposals)
+  - [Edu\_I](#edu_i)
+    - [Edu\_I resources](#edu_i-resources)
+  - [Edu\_II](#edu_ii)
+    - [Edu\_II resources](#edu_ii-resources)
+  - [Med\_I](#med_i)
+  - [Med\_II](#med_ii)
+  - [VOO\_I](#voo_i)
+    - [VOO\_I resources](#voo_i-resources)
 
 ## Edu_I
 
 The project aims to exploit data from the academic career of a freshman student involved at University of Bologna in order to predict the **risk of dropping out** of university.
 
-### Resources
+### Edu_I resources
 
 A list of papers that can be used as a starting point for the project:
 
-* [Student Dropout Prediction](../assets/delbonifro2020.pdf)
-* [Predictive models for effective policy making against university dropout](../assets/zingaro2020.pdf)
+- [Student Dropout Prediction](../assets/delbonifro2020.pdf)
+- [Predictive models for effective policy making against university dropout](../assets/zingaro2020.pdf)
 
 ## Edu_II
 
 The project aims to exploit data from the INVALSI test (primary and secondary school) to predict **low achievement** for a specific subject (Math, Italian or English) at the end of secondary school.
 
-### Resources
+### Edu_II resources
 
 A list of papers that can be used as a starting point for the project:
 
-* [Informing predictive models against Students Dropout](../assets/zanellati2022a.pdf)
-* [Student Low Achievement Prediction](../assets/zanellati2022b.pdf)
+- [Informing predictive models against Students Dropout](../assets/zanellati2022a.pdf)
+- [Student Low Achievement Prediction](../assets/zanellati2022b.pdf)
 
 ## Med_I
 
@@ -42,8 +46,8 @@ The project aims to exploit **audio data** from the medical history of a patient
 
 The project aims to exploit data from the **chemical analysis of olive oil**-in collaboration with Carapelli Firenze S.p.A. and the University of Firenze-to predict the quality, geographical origin or cultival of a sample olive oil.
 
-### Resources
+### VOO_I resources
 
 A list of papers that can be used as a starting point for the project:
 
-* [Authentication of the geographical origin of virgin olive oils from the main worldwide producing countries: A new combination of HS-SPME-GC-MS analysis of volatile compounds and chemometrics applied to 1217 samples](../assets/cecchi(2020).pdf)
+- [Authentication of the geographical origin of virgin olive oils from the main worldwide producing countries: A new combination of HS-SPME-GC-MS analysis of volatile compounds and chemometrics applied to 1217 samples](../assets/cecchi(2020).pdf)

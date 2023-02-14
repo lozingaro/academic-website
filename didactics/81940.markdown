@@ -30,7 +30,7 @@ Un esempio del corpo della **mail** con **oggetto** _GRUPPO AI_:
 | Nome Componente | matricola |
 ```
 
-Tutte le informazioni riguardanti i gruppi (e.g., corretta registrazione) possono essere monitorate nella [pagina dedicata agli elenchi dei gruppi](lists/groups.md).
+Tutte le informazioni riguardanti i gruppi (e.g., corretta registrazione) possono essere monitorate nella [pagina dedicata agli elenchi dei gruppi](81940_groups.markdown).
 Allo stesso indirizzo è possibile trovare, per coloro che sono alla ricerca di un gruppo, le informazioni di contatto per i referenti e il numero di persone per ogni gruppo esistente.
 
 Chi non riuscisse a trovare un gruppo e fosse ancora intenzionato a presentare un progetto di gruppo, invia al [tutor](mailto:stefanopio.zingaro@unibo.it) un messaggio con oggetto **CERCO GRUPPO AI**, specificando:
