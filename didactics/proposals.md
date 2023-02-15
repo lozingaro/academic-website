@@ -15,8 +15,8 @@ The project aims to exploit data from the academic career of a freshman student 
 
 A list of papers that can be used as a starting point for the project:
 
-- [Student Dropout Prediction](../assets/delbonifro2020.pdf)
-- [Predictive models for effective policy making against university dropout](../assets/zingaro2020.pdf)
+- [Student Dropout Prediction](https://link.springer.com/chapter/10.1007/978-3-030-52237-7_11)
+- [Predictive models for effective policy making against university dropout](https://cris.unibo.it/handle/11585/910769)
 
 ## Edu_II
 
@@ -24,8 +24,8 @@ The project aims to exploit data from the INVALSI test (primary and secondary sc
 
 A list of papers that can be used as a starting point for the project:
 
-- [Informing predictive models against Students Dropout](../assets/zanellati2022a.pdf)
-- [Student Low Achievement Prediction](../assets/zanellati2022b.pdf)
+- [Informing predictive models against Students Dropout](https://cris.unibo.it/handle/11585/874372)
+- [Student Low Achievement Prediction](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_76)
 
 ## Med_I
 
@@ -37,8 +37,8 @@ The project aims to exploit **audio data** from the medical history of a patient
 
 ## VOO_I
 
-The project aims to exploit data from the **chemical analysis of olive oil**-in collaboration with Carapelli Firenze S.p.A. and the University of Firenze-to predict the quality, geographical origin or cultival of a sample olive oil.
+The project aims to exploit data from the **chemical analysis of olive oil**-in collaboration with Carapelli Firenze S.p.A. and the University of Firenze-to predict the quality, geographical origin or cultivar of a sample olive oil.
 
 A list of papers that can be used as a starting point for the project:
 
-- [Authentication of the geographical origin of virgin olive oils from the main worldwide producing countries: A new combination of HS-SPME-GC-MS analysis of volatile compounds and chemometrics applied to 1217 samples](../assets/cecchi(2020).pdf)
+- [Authentication of the geographical origin of virgin olive oils from the main worldwide producing countries: A new combination of HS-SPME-GC-MS analysis of volatile compounds and chemometrics applied to 1217 samples](https://www.sciencedirect.com/science/article/pii/S0956713520300724)
