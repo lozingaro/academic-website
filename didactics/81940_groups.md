@@ -8,6 +8,13 @@
 
 ## Groups not yet examined
 
+ | Medical GRM                                      |          4 |
+ | :----------------------------------------------- | ---------: |
+ | [Martina Daghia](martina.daghia@studio.unibo.it) | 0001097932 |
+ | Martina Zauli                                    | 0001097933 |
+ | Gabriele Fogu                                    | 0001101637 |
+ | Riccardo Spini                                   | 0001084256 |
+
 | mAIntenance                                       |          4 |
 | :------------------------------------------------ | ---------: |
 | [Elia Cannas](mailto:elia.cannas@studio.unibo.it) | 0001097520 |
