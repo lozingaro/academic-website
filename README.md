@@ -9,6 +9,12 @@
         padding: 5px;
         background-color: #fff;
     }
+    .small {
+        width: 100px;
+        height: 100px;
+        padding: 5px;
+        background-color: #fff;
+    }
 </style>
 
 ![logo](assets/images/logo.png){:.thumbnail}
@@ -19,6 +25,6 @@ Check out my [didactics](didactics) and [software](software), or reach my [conta
 
 ---
 
-<span style="width:75px">[![Support the ECDL: European Coffee Driving License.](http://www.nonsiamopirati.org/ecdlsmall.png)](http://www.nonsiamopirati.org/ecdl.html)</span>
+[![Support the ECDL: European Coffee Driving License.](http://www.nonsiamopirati.org/ecdlsmall.png)](http://www.nonsiamopirati.org/ecdl.html){:.small}
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
