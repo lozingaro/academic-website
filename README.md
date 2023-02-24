@@ -10,7 +10,7 @@
         background-color: #fff;
     }
     .small {
-        width: 100px;
+        width: 135px;
         padding: 5px;
         background-color: #fff;
     }
