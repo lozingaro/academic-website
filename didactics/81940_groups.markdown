@@ -33,7 +33,7 @@
 | [Luca Donno](mailto:luca.donno@studio.unibo.it) | 0001098545 |
 | Marco Bertoni                                   | 0001099143 |
 
-| <span style="color:red">Beat Generator</span>       |          1 |
+| Beat Generator                                      |          1 |
 | :-------------------------------------------------- | ---------: |
 | [Simon Jensen](mailto:simon.jensen@studio.unibo.it) | 1900104807 |
 
@@ -79,15 +79,15 @@
 | Alessandra Cosenza                                           | 0001052401 |
 | Alberto Paparella                                            | 0001041724 |
 
-| OkComputer                                                      |       1 |
-| :-------------------------------------------------------------- | ------: |
-| [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
-
 | ComputerScientist                                           |          1 |
 | :---------------------------------------------------------- | ---------: |
 | [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
 
 ### Exam session 2022/23
+
+| OkComputer                                                      |       1 |
+| :-------------------------------------------------------------- | ------: |
+| [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
 
 | hellofriend.mov                                          |          4 |
 | :------------------------------------------------------- | ---------: |
