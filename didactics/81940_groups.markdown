@@ -83,6 +83,10 @@
 | :---------------------------------------------------------- | ---------: |
 | [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
 
+| HOPE                                                  |      1 |
+| :---------------------------------------------------- | -----: |
+| [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
+
 ### Exam session 2022/23
 
 | OkComputer                                                      |       1 |
