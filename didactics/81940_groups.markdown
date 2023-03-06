@@ -8,12 +8,17 @@
 
 ## Groups not yet examined
 
- | Medical GRM                                      |          4 |
- | :----------------------------------------------- | ---------: |
- | [Martina Daghia](martina.daghia@studio.unibo.it) | 0001097932 |
- | Martina Zauli                                    | 0001097933 |
- | Gabriele Fogu                                    | 0001101637 |
- | Riccardo Spini                                   | 0001084256 |
+| <span style="color:red">StereotAIps</span>        |          2 |
+| :------------------------------------------------ | ---------: |
+| [Mae Sosto](mailto:mae.sosto@studio.unibo.it)     | 0001039236 |
+| [Francesco Vece](francesco.vece3@studio.unibo.it) | 0001100490 |
+
+ | Medical GRM                                             |          4 |
+ | :------------------------------------------------------ | ---------: |
+ | [Martina Daghia](mailto:martina.daghia@studio.unibo.it) | 0001097932 |
+ | Martina Zauli                                           | 0001097933 |
+ | Gabriele Fogu                                           | 0001101637 |
+ | Riccardo Spini                                          | 0001084256 |
 
 | mAIntenance                                       |          4 |
 | :------------------------------------------------ | ---------: |
@@ -32,10 +37,6 @@
 | :---------------------------------------------- | ---------: |
 | [Luca Donno](mailto:luca.donno@studio.unibo.it) | 0001098545 |
 | Marco Bertoni                                   | 0001099143 |
-
-| Beat Generator                                      |          1 |
-| :-------------------------------------------------- | ---------: |
-| [Simon Jensen](mailto:simon.jensen@studio.unibo.it) | 1900104807 |
 
 | <span style="color:red">GoodNight</span>                |          2 |
 | :------------------------------------------------------ | ---------: |
@@ -88,6 +89,10 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| Beat Generator                                      |          1 |
+| :-------------------------------------------------- | ---------: |
+| [Simon Jensen](mailto:simon.jensen@studio.unibo.it) | 1900104807 |
 
 | OkComputer                                                      |       1 |
 | :-------------------------------------------------------------- | ------: |
