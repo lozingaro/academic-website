@@ -33,7 +33,7 @@ The project aims to exploit **video data** from medical history of a patient dev
 
 ## Med_II
 
-The project aims to exploit **audio data** from the medical history of a patient to predict the risk of developing a specifi.
+The project aims to exploit **audio data** from the medical history of a patient to predict the risk of developing a specific disease (e.g. COVID-19, pneumonia).
 
 Lorenzo Vainigli developed a thesis work over this subject that can be used as a starting point for the project:
 
