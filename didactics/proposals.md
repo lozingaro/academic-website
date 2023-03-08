@@ -35,6 +35,10 @@ The project aims to exploit **video data** from medical history of a patient dev
 
 The project aims to exploit **audio data** from the medical history of a patient to predict the risk of developing a specifi.
 
+Lorenzo Vainigli developed a thesis work over this subject that can be used as a starting point for the project:
+
+- [Registrazioni vocali per la diagnosi di COVID-19 con Deep Convolutional Neural Networks](https://amslaurea.unibo.it/22896/1/Registrazioni%20vocali%20per%20la%20diagnosi%20di%20COVID-19%20con%20Deep%20Convolutional%20Neural%20Networks.pdf)
+
 ## VOO_I
 
 The project aims to exploit data from the **chemical analysis of olive oil**-in collaboration with Carapelli Firenze S.p.A. and the University of Firenze-to predict the quality, geographical origin or cultivar of a sample olive oil.
