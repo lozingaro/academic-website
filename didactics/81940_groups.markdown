@@ -8,6 +8,17 @@
 
 ## Groups not yet examined
 
+| DiSkinTipacchio                                             |          3 |
+| :---------------------------------------------------------- | ---------: |
+| [Andrea Schinoppi](mailto:andrea.schinoppi@studio.unibo.it) | 0001097628 |
+| Andrea Loretti                                              | 0001097539 |
+| Alessio Di Pasquale                                         | 0001097535 |
+
+| <span style="color:red">THE_WALKING_DEVS</span>       |          2 |
+| :---------------------------------------------------- | ---------: |
+| [Tosoroni Anna](mailto:anna.tosoroni@studio.unibo.it) | 0001102418 |
+| Castricini Luca                                       | 0001102690 |
+
 | <span style="color:red">StereotAIps</span>        |          2 |
 | :------------------------------------------------ | ---------: |
 | [Mae Sosto](mailto:mae.sosto@studio.unibo.it)     | 0001039236 |
