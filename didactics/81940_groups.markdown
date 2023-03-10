@@ -58,12 +58,6 @@
 | :---------------------------------------------------------------- | ---------: |
 | [Stefano Bucciarelli](mailto:stefano.bucciarelli@studio.unibo.it) | 0000983559 |
 
-| LearningMachines                                         |          3 |
-| :------------------------------------------------------- | ---------: |
-| [Bianco Michele](mailto:michele.bianco7@studio.unibo.it) | 0001097816 |
-| Riccardo Scotti                                          | 0001060133 |
-| Christian Preti                                          | 0001100497 |
-
 | AI miei tempi                                         |          3 |
 | :---------------------------------------------------- | ---------: |
 | [Lolli Samuele](mailto:samuele.lolli@studio.unibo.it) | 0001098784 |
@@ -100,6 +94,17 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| LearningMachines                                         |          3 |
+| :------------------------------------------------------- | ---------: |
+| [Bianco Michele](mailto:michele.bianco7@studio.unibo.it) | 0001097816 |
+| Riccardo Scotti                                          | 0001060133 |
+| Christian Preti                                          | 0001100497 |
+
+| UPO                        |           2 |
+| :------------------------- | ----------: |
+| Martin Millan Miguel Angel |  1900105678 |
+| Lopez Muñoyerro Ignacio    | 19001105680 |
 
 | Beat Generator                                      |          1 |
 | :-------------------------------------------------- | ---------: |
