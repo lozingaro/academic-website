@@ -14,7 +14,7 @@
 | Andrea Loretti                                              | 0001097539 |
 | Alessio Di Pasquale                                         | 0001097535 |
 
-| <span style="color:red">THE_WALKING_DEVS</span>       |          2 |
+| THE_WALKING_DEVS                                      |          2 |
 | :---------------------------------------------------- | ---------: |
 | [Tosoroni Anna](mailto:anna.tosoroni@studio.unibo.it) | 0001102418 |
 | Castricini Luca                                       | 0001102690 |
