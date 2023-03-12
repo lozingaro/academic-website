@@ -222,3 +222,7 @@
 | [Filippo Bartolucci](mailto:filippo.bartolucci2@studio.unibo.it) | 1039733 |
 | Alfonso Esposito                                                 | 1057171 |
 | Isabella Marasco                                                 | 1040993 |
+
+---
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

@@ -20,7 +20,7 @@
 
 Teacher and researcher who is currently working as Assistant Professor of computer science at the University of Bologna supervised by Professor [M. Gabbrielli](cs.unibo.it/~gabbri).
 
-Check out my [didactics](didactics) and [software](software), or reach my [contact](contact) page.
+Check out my [didactics](didactics)<!-- and [software](software), --> or reach my [contact](contact) page.
 
 ---
 

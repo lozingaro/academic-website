@@ -46,3 +46,7 @@ The project aims to exploit data from the **chemical analysis of olive oil**-in 
 A list of papers that can be used as a starting point for the project:
 
 - [Authentication of the geographical origin of virgin olive oils from the main worldwide producing countries: A new combination of HS-SPME-GC-MS analysis of volatile compounds and chemometrics applied to 1217 samples](https://www.sciencedirect.com/science/article/pii/S0956713520300724)
+
+---
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

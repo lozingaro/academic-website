@@ -20,7 +20,7 @@
 * Breve descrizione della soluzione proposta.
   * Come si intende affrontare la realizzazione di una soluzione?
   * Quali sono le sfide (informatiche)?
-* `[extra]` Revisione della letteratura [ˆ1].
+* `[extra]` Revisione della letteratura [^1].
   * Accenno alle soluzioni esistenti.
   * Quali fonti sono state impiegate (e.g., [Google Scholar](scholar.google.com), [arXiv](arXiv.com), [Papers with code](paperswithcode.com)?
 * In caso il gruppo sia composta da più di un componente, come è stato diviso il progetto tra i componenti del gruppo? Quali strumenti sono stati impiegati per abilitare la collaborazione?
@@ -38,7 +38,7 @@
 * Elenco delle tecnologie usate per gli esperimenti (i.e., versione del software) per la riproducibilità.
 * Risultati della configurazione migliore.
 * Studio di ablazione: comparazione tra le diverse configurazioni.
-* `[extra]` Studio di comparazione: comparazione con le soluzioni presenti in letteratura.
+* `[extra]` Studio di comparazione: comparazione con le soluzioni presenti in letteratura [^1].
 
 ## 4. Discussione e conclusioni
 
@@ -52,3 +52,7 @@
   * quali proposte ci sono per far avanzare il lavoro svolto?
 
 [^1]: Le voci `[extra]` **devono** essere discusse nei progetti dei gruppi con un numero di componenti **maggiore di due (2)** (sono opzionali per i gruppi di uno o due componenti).
+
+---
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

@@ -10,3 +10,7 @@ I contenuti di questa pagina riguardano il modulo di 20 ore del corso di sistemi
 
 🚨
 **Vuoi mettere a disposizione materiale?** Inviami il link al contenuto con una descrizione.
+
+---
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
