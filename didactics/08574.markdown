@@ -5,7 +5,7 @@ I contenuti di questa pagina riguardano il modulo di 20 ore del corso di sistemi
 ## Link utili
 
 - [Tutte le slide della decima edizione del libro di corso](https://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=11227&itemId=1119320917&resourceId=44619).
-- [La decima edizione del libro di corso](http://libgen.rs/book/index.php?md5=7312960D0FB110104EA01347F30CC98A) 🚨 per accedere a questa risorsa probabilmente i vostri DNS non vanno bene, provate [questi (che trovate nel footer della pagina)](https://www.opendns.com/) o [questa soluzione](https://www.torproject.org/) (grazie allo studente Thor).
+- [La decima edizione del libro di corso](https://tinyurl.com/2p89ecm5) 🚨 per accedere a questa risorsa probabilmente i vostri DNS non vanno bene, provate [questi (che trovate nel footer della pagina)](https://www.opendns.com/) o [questa soluzione](https://www.torproject.org/) (grazie allo studente Thor).
 - [Tutto il codice in C e Java della decima edizione](https://github.com/greggagne/osc10e).
 
 🚨
