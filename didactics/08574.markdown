@@ -12,6 +12,7 @@ I contenuti di questa pagina riguardano il modulo di 20 ore del corso di sistemi
   - [Esempio di calcolo del tempo di burst atteso](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html).
   - [Real-time CPU burst prediction with machine learning](https://link.springer.com/chapter/10.1007/978-981-19-0825-5_58).
   - [Python notebook per *simple moving average* e *exponential moving average*](../src/expected_cpu_burst.ipynb).
+- [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 
 🚨
 **Vuoi mettere a disposizione materiale?** Inviami il link al contenuto con una descrizione.
