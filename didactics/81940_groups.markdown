@@ -8,6 +8,13 @@
 
 ## Groups not yet examined
 
+| AI-OilBoys | 4 |
+| :- | -: |
+| [Manuel Placella] (mailto: manuel.placella@studio.unibo.it) | 1099701 |
+| Alessandro Tocco | 1097880 |
+| Daniele Costoli | 1098681 |
+| Giuseppe Pio Alcuni | 1100090 |
+
 | DiSkinTipacchio                                             |          3 |
 | :---------------------------------------------------------- | ---------: |
 | [Andrea Schinoppi](mailto:andrea.schinoppi@studio.unibo.it) | 0001097628 |
