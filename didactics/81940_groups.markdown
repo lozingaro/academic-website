@@ -8,12 +8,18 @@
 
 ## Groups not yet examined
 
-| AI-OilBoys | 4 |
-| :- | -: |
+| FastDTW                                                 |          3 |
+| :------------------------------------------------------ | ---------: |
+| [Gianluca Gueli](mailto:gianluca.gueli@studio.unibo.it) | 0001099548 |
+| Mattia Frega                                            | 0001102230 |
+| Gabriele Magazzú                                        | 0001102322 |
+
+| AI-OilBoys                                                  |       4 |
+| :---------------------------------------------------------- | ------: |
 | [Manuel Placella] (mailto: manuel.placella@studio.unibo.it) | 1099701 |
-| Alessandro Tocco | 1097880 |
-| Daniele Costoli | 1098681 |
-| Giuseppe Pio Alcuni | 1100090 |
+| Alessandro Tocco                                            | 1097880 |
+| Daniele Costoli                                             | 1098681 |
+| Giuseppe Pio Alcuni                                         | 1100090 |
 
 | DiSkinTipacchio                                             |          3 |
 | :---------------------------------------------------------- | ---------: |
