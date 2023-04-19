@@ -14,13 +14,6 @@
 | Mattia Frega                                            | 0001102230 |
 | Gabriele Magazzú                                        | 0001102322 |
 
-| AI-OilBoys                                                  |       4 |
-| :---------------------------------------------------------- | ------: |
-| [Manuel Placella](mailto:manuel.placella@studio.unibo.it) | 1099701 |
-| Alessandro Tocco                                            | 1097880 |
-| Daniele Costoli                                             | 1098681 |
-| Giuseppe Pio Alcuni                                         | 1100090 |
-
 | DiSkinTipacchio                                             |          3 |
 | :---------------------------------------------------------- | ---------: |
 | [Andrea Schinoppi](mailto:andrea.schinoppi@studio.unibo.it) | 0001097628 |
@@ -71,12 +64,6 @@
 | :---------------------------------------------------------------- | ---------: |
 | [Stefano Bucciarelli](mailto:stefano.bucciarelli@studio.unibo.it) | 0000983559 |
 
-| AI miei tempi                                         |          3 |
-| :---------------------------------------------------- | ---------: |
-| [Lolli Samuele](mailto:samuele.lolli@studio.unibo.it) | 0001098784 |
-| Linari Luca                                           | 0001100046 |
-| Becchi Giulio                                         | 0001102960 |
-
 | DropOut                                                           |          1 |
 | :---------------------------------------------------------------- | ---------: |
 | [Sophie Sadjoum Gruzelle](mailto:sophie.sadjoum@studio.unibo.it ) | 0000932712 |
@@ -107,6 +94,19 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| AI miei tempi                                         |          3 |
+| :---------------------------------------------------- | ---------: |
+| [Lolli Samuele](mailto:samuele.lolli@studio.unibo.it) | 0001098784 |
+| Linari Luca                                           | 0001100046 |
+| Becchi Giulio                                         | 0001102960 |
+
+| AI-OilBoys                                                  |       4 |
+| :---------------------------------------------------------- | ------: |
+| [Manuel Placella](mailto:manuel.placella@studio.unibo.it) | 1099701 |
+| Alessandro Tocco                                            | 1097880 |
+| Daniele Costoli                                             | 1098681 |
+| Giuseppe Pio Alcuni                                         | 1100090 |
 
 | LearningMachines                                         |          3 |
 | :------------------------------------------------------- | ---------: |
