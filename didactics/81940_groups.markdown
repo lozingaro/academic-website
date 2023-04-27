@@ -106,11 +106,11 @@
 | [Manuel Placella](mailto:manuel.placella@studio.unibo.it) | 1099701 |
 | Alessandro Tocco                                            | 1097880 |
 | Daniele Costoli                                             | 1098681 |
-| Giuseppe Pio Alcuni                                         | 1100090 |
+| Giuseppe Pio Salcuni                                         | 1100090 |
 
 | LearningMachines                                         |          3 |
 | :------------------------------------------------------- | ---------: |
-| [Bianco Michele](mailto:michele.bianco7@studio.unibo.it) | 0001097816 |
+| [Michele Bianco](mailto:michele.bianco7@studio.unibo.it) | 0001097816 |
 | Riccardo Scotti                                          | 0001060133 |
 | Christian Preti                                          | 0001100497 |
 
