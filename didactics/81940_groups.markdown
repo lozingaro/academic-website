@@ -37,13 +37,6 @@
  | Gabriele Fogu                                           | 0001101637 |
  | Riccardo Spini                                          | 0001084256 |
 
-| mAIntenance                                       |          4 |
-| :------------------------------------------------ | ---------: |
-| [Elia Cannas](mailto:elia.cannas@studio.unibo.it) | 0001097520 |
-| Luca Spadoni                                      | 0001099632 |
-| Emanuele Rossi                                    | 0001099633 |
-| Michele Abruzzese                                 | 0001097676 |
-
 | <span style="color:red">Deep Dreamers</span>            |          3 |
 | :------------------------------------------------------ | ---------: |
 | [Tamai Leonardo](mailto:leonardo.tamai@studio.unibo.it) | 0001098711 |
@@ -94,6 +87,13 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| mAIntenance                                       |          4 |
+| :------------------------------------------------ | ---------: |
+| [Elia Cannas](mailto:elia.cannas@studio.unibo.it) | 0001097520 |
+| Luca Spadoni                                      | 0001099632 |
+| Emanuele Rossi                                    | 0001099633 |
+| Michele Abruzzese                                 | 0001097676 |
 
 | AI miei tempi                                         |          3 |
 | :---------------------------------------------------- | ---------: |
