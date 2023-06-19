@@ -8,12 +8,6 @@
 
 ## Groups not yet examined
 
-| FastDTW                                                 |          3 |
-| :------------------------------------------------------ | ---------: |
-| [Gianluca Gueli](mailto:gianluca.gueli@studio.unibo.it) | 0001099548 |
-| Mattia Frega                                            | 0001102230 |
-| Gabriele Magazzú                                        | 0001102322 |
-
 | DiSkinTipacchio                                             |          3 |
 | :---------------------------------------------------------- | ---------: |
 | [Andrea Schinoppi](mailto:andrea.schinoppi@studio.unibo.it) | 0001097628 |
@@ -50,7 +44,7 @@
 
 | <span style="color:red">GoodNight</span>                |          2 |
 | :------------------------------------------------------ | ---------: |
-| [Gianluca Gueli](mailto:gianluca.gueli@studio.unibo.it) | 0001099548 |
+| <span style="color:red">[Gianluca Gueli](mailto:gianluca.gueli@studio.unibo.it)</span> | 0001099548 |
 | Sonia Nicoletti                                         | 0001098483 |
 
 | <span style="color:red">LightBulb</span>                          |          1 |
@@ -87,6 +81,12 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| FastDTW                                                 |          3 |
+| :------------------------------------------------------ | ---------: |
+| [Gianluca Gueli](mailto:gianluca.gueli@studio.unibo.it) | 0001099548 |
+| Mattia Frega                                            | 0001102230 |
+| Gabriele Magazzú                                        | 0001102322 |
 
 | mAIntenance                                       |          4 |
 | :------------------------------------------------ | ---------: |
