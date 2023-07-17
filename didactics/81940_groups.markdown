@@ -19,11 +19,6 @@
 | [Tosoroni Anna](mailto:anna.tosoroni@studio.unibo.it) | 0001102418 |
 | Castricini Luca                                       | 0001102690 |
 
-| <span style="color:red">StereotAIps</span>        |          2 |
-| :------------------------------------------------ | ---------: |
-| [Mae Sosto](mailto:mae.sosto@studio.unibo.it)     | 0001039236 |
-| [Francesco Vece](francesco.vece3@studio.unibo.it) | 0001100490 |
-
  | Medical GRM                                             |          4 |
  | :------------------------------------------------------ | ---------: |
  | [Martina Daghia](mailto:martina.daghia@studio.unibo.it) | 0001097932 |
@@ -81,6 +76,11 @@
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| StereotAIps                                 |          2 |
+| :------------------------------------------------ | ---------: |
+| [Mae Sosto](mailto:mae.sosto@studio.unibo.it)     | 0001039236 |
+| [Francesco Vece](francesco .vece3@studio.unibo.it) | 0001100490 |
 
 | FastDTW                                                 |          3 |
 | :------------------------------------------------------ | ---------: |
