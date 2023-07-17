@@ -17,6 +17,7 @@ A set of `Python` notebooks that can be used as a starting point for teaching ma
 * [The neural network](assets/src/nn-rulez.ipynb)
 * [The perceptron](assets/src/percettrone.ipynb)
 * [Pytorch basics tutorial](assets/src/pytorch-tutorial.ipynb)
+* [🇮🇹 Introduzione al machine learning (parte prima)](https://github.com/lozingaro/asai-er-ml.git)
 
 ---
 
