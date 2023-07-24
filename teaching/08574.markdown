@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sistemi operativi
-# permalink: /teaching/
 ---
 
 I contenuti di questa pagina riguardano il modulo di 20 ore del corso di sistemi operativi della laurea in informatica per il management.

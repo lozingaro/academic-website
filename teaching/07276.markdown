@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Informatica
-# permalink: /teaching/
 ---
 
 Programma ufficiale del corso
@@ -59,7 +58,7 @@ La prova si svolge su EOL.unibo.it, in un laboratorio attrezzato con PC. Di dura
 una prima parte consiste nella redazione di alcuni programmi Python, con correzione automatica su dati di prova; a questa parte, al momento della consegna viene immediatamente assegnato un voto compreso tra 0 e 10, con sufficienza a 5. Se questa parte è insufficiente, l'esame termina ed è globalmente insufficiente. Se la valutazione è compresa tra 5 e 10 lo studente ha accesso alla seconda parte e alla prova scritta del giorno successivo.
 la seconda parte consiste nella redazione di alcuni programmi Python, che saranno corretti e valutati manualmente dal docente assieme alla prova scritta. Anche questa parte viene erogata EOL e propone dei test automatici, ma tali test non sono definitivi per la valutazione finale. Non si possono portare testi o appunti. Si può consultare online solo la documentazione ufficiale di Python. Sul PC d'aula è disponibile Thonny.
 Il tempo complessivo di 2.5 ore viene amministrato autonomamente dallo studente; ovviamente una volta consegnata la prima parte, questa è definitiva.
-2. Prova scritta
+1. Prova scritta
 Della durata di 1 ora, è un esame scritto tradizionale, senza appunti, su carta. Viene valutato dal docente insieme alla seconda parte della prova di programmazione. All'insieme delle due viene assegnato un voto compreso tra 0 e 24, con sufficienza a 13. L'eventuale insufficienza della prova (meno di 13) rende necessario sostenere di nuovo anche la prova di programmazione, ad un appello successivo.
 Il voto finale è determinato sommando il voto (sufficiente) della prima parte della prova di programmazione (5-10), dello scritto (sufficiente: 13-24), e l'eventuale bonus per le consegne di laboratorio (0-1). Se il risultato è maggiore o uguale a 32, il voto è 30Lode.
 
