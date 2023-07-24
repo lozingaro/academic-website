@@ -1,4 +1,8 @@
-# Contacts
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
 
 You can reach me at [lab S04, dept. of computer science](http://w3w.co/rotaie.piastra.tavola) of the University of Bologna in Italy.
 
@@ -14,7 +18,3 @@ Here is a list of some refs that could be of interest:
 - [OrcId](https://orcid.org/0000-0002-8462-5651)
 - [Dblp](https://dblp.uni-trier.de/pers/hd/z/Zingaro:Stefano_Pio)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965)
-
----
-
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

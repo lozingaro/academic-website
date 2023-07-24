@@ -1,4 +1,8 @@
-# Didactics
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
 
 Over the years, I've been creating several resources for teaching and learning purposes in the fields of computer science and machine learning.
 
