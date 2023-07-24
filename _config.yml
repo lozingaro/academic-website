@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stefano P. Zingaro
+title: home
 email: stefano.zingaro@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
   License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -36,7 +36,6 @@ minima:
   skin: auto
 
 header_pages:
-  - index.markdown
   - contact.markdown
   - teaching.markdown
   - publications.markdown
