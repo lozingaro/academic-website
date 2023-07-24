@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Informatica
+permalink: /teaching/07276/
 ---
 
 Programma ufficiale del corso

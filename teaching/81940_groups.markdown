@@ -1,4 +1,8 @@
-# Groups for the course of Artificial Intelligence (UNIBO-81940)
+---
+layout: page
+title: Groups for the AI course
+permalink: /teaching/81940/groups
+---
 
 🇮🇹
 **ATTENZIONE!** Se il colore del `nome del gruppo` è <span style="color:red">rosso</span> allora non avete correttamente aggiunto l'utente `dezingaro` come `Reporter` del progetto su `GitLab` e ci sono problemi con la registrazione del vostro gruppo.

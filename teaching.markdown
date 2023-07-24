@@ -10,9 +10,9 @@ Over the years, I've been creating several resources for teaching and learning p
 
 ## Corsi impartiti nell'anno accademico 2023/2024
 
-* [UNIBO - 07276 - INFORMATICA](07276.markdown), Laurea in Statistica, I anno, secondo semestre.
-* [UNIBO - 81940 - INTELLIGENZA ARTIFICIALE](81940.markdown), Laurea magistrale in Informatica, I anno, primo semestre.
-* [UNIBO - 08574 - SISTEMI OPERATIVI](08574.markdown), Laurea in Informatica per il management, II anno, secondo semestre.
+* [UNIBO - 07276 - INFORMATICA](07276), Laurea in Statistica, I anno, secondo semestre.
+* [UNIBO - 81940 - INTELLIGENZA ARTIFICIALE](81940), Laurea magistrale in Informatica, I anno, primo semestre.
+* [UNIBO - 08574 - SISTEMI OPERATIVI](08574), Laurea in Informatica per il management, II anno, secondo semestre.
 * [Introduzione al machine learning (parte prima)](https://github.com/lozingaro/asai-er-ml.git) part of the **Advanced school on Artificial Intelligence** ([ASAI-ER](https://asai-er.github.io)) held in Bertinoro (Italy) and promoted by _Regione Emilia Romagna_ and the _Department of Computer Science and Engineering_ of the University of Bologna.
 
 ### Machine learning resources

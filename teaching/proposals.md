@@ -1,13 +1,16 @@
-# Project proposals
+---
+layout: page
+title: Project proposals
+permalink: /teaching/proposals/
+---
 
 In the following sections you can find a list of project proposals both for in-course activities and thesis work.
 
-- [Project proposals](#project-proposals)
-  - [Edu\_I](#edu_i)
-  - [Edu\_II](#edu_ii)
-  - [Med\_I](#med_i)
-  - [Med\_II](#med_ii)
-  - [VOO\_I](#voo_i)
+- [Edu\_I](#edu_i)
+- [Edu\_II](#edu_ii)
+- [Med\_I](#med_i)
+- [Med\_II](#med_ii)
+- [VOO\_I](#voo_i)
 
 ## Edu_I
 
