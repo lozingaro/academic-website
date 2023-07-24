@@ -8,11 +8,12 @@ Over the years, I've been creating several resources for teaching and learning p
 
 **Are you looking for a interesting topic for your thesis?** Check out my [proposals](didactics/proposals.md) page.
 
-## Academic courses
+## Corsi impartiti nell'anno accademico 2023/2024
 
-* [UNIBO-81940](didactics/81940.markdown) (2023 edition) part of **Artificial Intelligence** course of the Second cycle degree programme (LM) in Computer Science.
-* [UNIBO-08574](didactics/08574.markdown) (2023 edition) module of **Operating Systems** course of the First cycle degree programme (L) in Information Science for Management.
-* 🇮🇹 [Introduzione al machine learning (parte prima)](https://github.com/lozingaro/asai-er-ml.git) part of the **Advanced school on Artificial Intelligence** ([ASAI-ER](https://asai-er.github.io)) held in Bertinoro (Italy) and promoted by _Regione Emilia Romagna_ and the _Department of Computer Science and Engineering_ of the University of Bologna.
+* [UNIBO - 07276 - INFORMATICA](didactics/07276.markdown), Laurea in Statistica, I anno, secondo semestre.
+* [UNIBO - 81940 - INTELLIGENZA ARTIFICIALE](didactics/81940.markdown), Laurea magistrale in Informatica, I anno, primo semestre.
+* [UNIBO - 08574 - SISTEMI OPERATIVI](didactics/08574.markdown), Laurea in Informatica per il management, II anno, secondo semestre.
+* [Introduzione al machine learning (parte prima)](https://github.com/lozingaro/asai-er-ml.git) part of the **Advanced school on Artificial Intelligence** ([ASAI-ER](https://asai-er.github.io)) held in Bertinoro (Italy) and promoted by _Regione Emilia Romagna_ and the _Department of Computer Science and Engineering_ of the University of Bologna.
 
 ### Machine learning resources
 
@@ -22,8 +23,3 @@ A set of `Python` notebooks that can be used as a starting point for teaching ma
 * [The neural network](assets/src/nn-rulez.ipynb)
 * [The perceptron](assets/src/percettrone.ipynb)
 * [Pytorch basics tutorial](assets/src/pytorch-tutorial.ipynb)
-
-
----
-
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
