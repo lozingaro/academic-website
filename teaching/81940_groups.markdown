@@ -23,13 +23,6 @@ permalink: /teaching/81940/groups
 | [Tosoroni Anna](mailto:anna.tosoroni@studio.unibo.it) | 0001102418 |
 | Castricini Luca                                       | 0001102690 |
 
- | Medical GRM                                             |          4 |
- | :------------------------------------------------------ | ---------: |
- | [Martina Daghia](mailto:martina.daghia@studio.unibo.it) | 0001097932 |
- | Martina Zauli                                           | 0001097933 |
- | Gabriele Fogu                                           | 0001101637 |
- | Riccardo Spini                                          | 0001084256 |
-
 | <span style="color:red">Deep Dreamers</span>            |          3 |
 | :------------------------------------------------------ | ---------: |
 | [Tamai Leonardo](mailto:leonardo.tamai@studio.unibo.it) | 0001098711 |
@@ -80,6 +73,13 @@ permalink: /teaching/81940/groups
 | [Sabina Cavina](mailto:sabina.cavina@studio.unibo.it) | 891228 |
 
 ### Exam session 2022/23
+
+| Medical GRM                                             |          4 |
+| :------------------------------------------------------ | ---------: |
+| [Martina Daghia](mailto:martina.daghia@studio.unibo.it) | 0001097932 |
+| Martina Zauli                                           | 0001097933 |
+| Gabriele Fogu                                           | 0001101637 |
+| Riccardo Spini                                          | 0001084256 |
 
 | StereotAIps                                 |          2 |
 | :------------------------------------------------ | ---------: |
