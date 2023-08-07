@@ -15,6 +15,13 @@ layout: page
 
 ![logo](assets/images/logo.png){:.thumbnail}
 
-Teacher and researcher who is currently working as Assistant Professor of computer science at the University of Bologna supervised by Professor [M. Gabbrielli](cs.unibo.it/~gabbri).
+Stefano P. Zingaro
 
-Check out my [teaching](teaching) --> or reach my [contact](contact) page.
+Assistant Professor of Computer Science
+[Department of Computer Science and Engineering](http://www.cse.unibo.it/en)
+
+Research Team [FOCUS](https://team.inria.fr/focus/), [Inria Sophia Antipolis-Méditerranée](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee)
+
+His research interests are in the foundations of artificial intelligence, and on history and philosophy of computer science. 
+
+His [Erdös number](http://www.oakland.edu/enp) is 4 (via [Scedrov](http://www.cis.upenn.edu/~scedrov/) to [Blass](http://www.math.lsa.umich.edu/~ablass/) to [Martini](https://www.cs.unibo.it/~martini/index.html) to Erdös).
