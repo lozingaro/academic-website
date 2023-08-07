@@ -4,16 +4,20 @@ title: teaching
 permalink: /teaching/
 ---
 
-Over the years, I've been creating several resources for teaching and learning purposes in the fields of computer science and machine learning.
+**Are you looking for a interesting topic for your thesis?** Check out my [proposals](proposals.md).
 
-**Are you looking for a interesting topic for your thesis?** Check out my [proposals](proposals.md) page.
+### Corsi impartiti nel 2023
 
-## Corsi impartiti nell'anno accademico 2023/2024
+<!-- * [Informatica](07276), Laurea in Statistica, I anno, secondo semestre. -->
+* [Introduzione al machine learning (modulo I)](https://github.com/lozingaro/asai-er-ml), [Advanced school on Artificial Intelligence](https://asai-er.github.io), Bertinoro.
+* [Intelligenza artificiale](81940), Laurea magistrale in Informatica, I anno, primo semestre.
+* [Sistemi operativi](08574), Laurea in Informatica per il management, II anno, secondo semestre.
 
-* [UNIBO - 07276 - INFORMATICA](07276), Laurea in Statistica, I anno, secondo semestre.
-* [UNIBO - 81940 - INTELLIGENZA ARTIFICIALE](81940), Laurea magistrale in Informatica, I anno, primo semestre.
-* [UNIBO - 08574 - SISTEMI OPERATIVI](08574), Laurea in Informatica per il management, II anno, secondo semestre.
-* [Introduzione al machine learning (parte prima)](https://github.com/lozingaro/asai-er-ml.git) part of the **Advanced school on Artificial Intelligence** ([ASAI-ER](https://asai-er.github.io)) held in Bertinoro (Italy) and promoted by _Regione Emilia Romagna_ and the _Department of Computer Science and Engineering_ of the University of Bologna.
+<!-- ### Corsi impartiti negli anni precedenti -->
+
+### Opinioni degli studenti sulle attività didattiche
+
+* A.a. 2022/2023: [Laboratorio di Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497664.pdf) (CdS 8014);
 
 ### Machine learning resources
 

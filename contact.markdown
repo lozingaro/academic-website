@@ -4,12 +4,12 @@ title: contact
 permalink: /contact/
 ---
 
-You can reach me at [lab S04, dept. of computer science](http://w3w.co/rotaie.piastra.tavola) of the University of Bologna in Italy.
+You can reach me at [PP7, Via Zanolini 41, Bologna](http://w3w.co/removing.clothed.passing) in Italy.
 
-**Planning to visit me?** Please [send me an email first](mailto:stefanopio.zingaro@unibo.it) to make sure I am there.
+**Planning to visit me?** Please [send me an email first](mailto:stefano.zingaro@unibo.it) to make sure I am there.
 {: .notice--warning}
 
-My [GitHub username](https://github.com/dezingaro) is `dezingaro` and, in case you were looking for that, I do not hold _Facebook_, _Google_, _Twitter_, or _LinkedIn_ accounts.
+My [GitHub username](https://github.com/lozingaro) is `lozingaro` and, in case you were looking for that, I do not hold _Facebook_, _Google_, _Twitter_, _Researchgate_ or _LinkedIn_ accounts.
 
 I am also available on [MS Teams](https://teams.microsoft.com).
 
