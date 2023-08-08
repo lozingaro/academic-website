@@ -4,68 +4,61 @@ title: Informatica
 permalink: /teaching/07276/
 ---
 
-Programma ufficiale del corso
+## Official Course Program
 
-Materiale su virtuale.unibo.it
+- Materiale su virtuale.unibo.it
 
-Il corso di Informatica del Corso di Laurea in Matematica è composto dal corso principale (tenuto dal Prof. Simone Martini), coordinato con un corso di laboratorio, al quale collaborano i tutor didattici .
-Per gli studenti di Filosofia: il corso è mutuato dal CdL in Matematica e si tiene al secondo semestre (a partire dal 20 febbraio 2023). Siccome il corso è mutuato per 6 crediti (mentre è 8 crediti per Matematica), l'esame per gli studenti di Filosofia non comprende il test di programmazione (ma gli studenti sono benvenuti a laboratorio).
+## Course Overview
 
-Libro di testo:
+The Informatica course is part of the Laurea in Matematica degree and consists of the main course (taught by Prof. Simone Martini) along with a laboratory course. For students of Filosofia, the course is adapted from the CdL in Matematica and is held in the second semester. Students are not required to take the programming test, but they are welcome to attend the laboratory.
 
-Copertina	
-John V. Guttag
-Introduzione alla programmazione con python. Egea, 2021.
-Traduzione italiana ridotta di: Introduction to Computation and Programming Using Python Third Edition: With Application to Computational Modeling and Understanding Data
-MIT press, 2021.
+## Textbooks
 
-Altri testi:
+- John V. Guttag
+  - [Introduzione alla programmazione con Python](https://www.egeaeditore.it/ecommerce/introduzione-alla-programmazione-con-python/)
+  - Translation of "Introduction to Computation and Programming Using Python"
+  - MIT Press, 2021
 
-Un testo introduttivo, un po' più lento del libro di testo:
-Copertina Copertina	
-Allen B. Downey
+## Additional Texts
 
-Think Python: How to Think Like a Computer Scientist.
-O'Reilly Media, 2012. ISBN 978-1449330729.
-Pensare in Python: come pensare da informatico.
-Egea, 2018. ISBN 978-8823822641.
-FreeBook: oltre alla forma cartacea, è distribuito on-line gratuitamente:
-Versione inglese: PDF; HTML.
-Versione italiana: PDF.
-Un testo avanzato su Python (non introduce alla programmazione, ma descrive in profondità il linguaggio):
-Copertina	
-Mark Lutz
-Learning Python (5th edition).
-O'Reilly Media, 2013.
-In italiano è disponibile una traduzione della quarta edizione (Tecniche Nuove, 2011)
-Il sito ufficiale di Python: www.python.org
-Scaricare e installare Thonny: download
-Un ottimo interprete interattivo: pythontutor.com, che permette di visualizzare l'esecuzione sulla macchina Python, con l'evoluzione dello stato.
-Laboratorio:
-Il laboratorio si svolge nella stessa aula dove si tiene lezione, con i portatili degli studenti. Un PC ogni due studenti, in pair programming.
-È necessario installare sul portatile una versione del linguaggio di programmazione Python: si suggerisce Thonny, un ambiente di programmazione auto-contenuto per Python 3, che sarà utilizzato durante le lezioni.
-Tutto il materiale è (del corso e del lab) è disponibile sulla piattaforma Moodle del corso su virtuale.unibo.it
-, che deve essere utilizzata anche per inviare gli esercizi per casa assegnati durante il lab.
+- Allen B. Downey
+  - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python/)
+  - Translation: "Pensare in Python: come pensare da informatico"
+  - O'Reilly Media, 2012
 
-Calendario preliminare del laboratorio (2022-2023): da definire.
-Modalità d'esame:
-Il corso ha sia lezioni tradizionali che lezioni di laboratorio, con un unico esame. Ogni settimana saranno proposti in laboratorio alcuni test di autovalutazione: non sono necessari per l'esame, ma costituiscono un importante strumento per la sua preparazione. La consegna di tutti gli assegnamenti durante l'anno dà diritto ad un punto in più sulla valutazione finale.
-L'esame è costituito da due parti:
-una prova di programmazione, della durata di 2.5 ore;
-una prova scritta su carta (1 ora, non è consentita la consultazione di appunti o testi).
-Le due prove sono tenute in giorni successivi e devono essere sostenute nello stesso appello, senza eccezioni.
-1. Prova di programmazione
-La prova si svolge su EOL.unibo.it, in un laboratorio attrezzato con PC. Di durata complessiva di 2.5 ore, è a sua volta costituita da due parti:
-una prima parte consiste nella redazione di alcuni programmi Python, con correzione automatica su dati di prova; a questa parte, al momento della consegna viene immediatamente assegnato un voto compreso tra 0 e 10, con sufficienza a 5. Se questa parte è insufficiente, l'esame termina ed è globalmente insufficiente. Se la valutazione è compresa tra 5 e 10 lo studente ha accesso alla seconda parte e alla prova scritta del giorno successivo.
-la seconda parte consiste nella redazione di alcuni programmi Python, che saranno corretti e valutati manualmente dal docente assieme alla prova scritta. Anche questa parte viene erogata EOL e propone dei test automatici, ma tali test non sono definitivi per la valutazione finale. Non si possono portare testi o appunti. Si può consultare online solo la documentazione ufficiale di Python. Sul PC d'aula è disponibile Thonny.
-Il tempo complessivo di 2.5 ore viene amministrato autonomamente dallo studente; ovviamente una volta consegnata la prima parte, questa è definitiva.
-1. Prova scritta
-Della durata di 1 ora, è un esame scritto tradizionale, senza appunti, su carta. Viene valutato dal docente insieme alla seconda parte della prova di programmazione. All'insieme delle due viene assegnato un voto compreso tra 0 e 24, con sufficienza a 13. L'eventuale insufficienza della prova (meno di 13) rende necessario sostenere di nuovo anche la prova di programmazione, ad un appello successivo.
-Il voto finale è determinato sommando il voto (sufficiente) della prima parte della prova di programmazione (5-10), dello scritto (sufficiente: 13-24), e l'eventuale bonus per le consegne di laboratorio (0-1). Se il risultato è maggiore o uguale a 32, il voto è 30Lode.
+## Laboratory
 
-Per gli studenti di scienze filosofiche (per i quali l'esame è di sei crediti): l'esame non comprende la prima parte della prova di programmazione e può includere un orale.
+- The laboratory takes place in the same room as the lectures, with laptops provided for students.
+- It is recommended to install Python via [Thonny](https://thonny.org/), a self-contained Python environment.
+- All course and lab materials are available on [Moodle](https://virtuale.unibo.it/).
 
-Testi d'esame di appelli precedenti, con soluzioni:
-qui. Sono relativi ad anni in cui l'esame era interamente cartaceo e con un programma leggermente diverso. Ma la difficoltà non è molto diversa dalle prove attuali. In particolare gli esercizi 3 e 5 di questi scritti sono analoghi ai due esercizi della prova di Programmazione 2.
-Risultati esami scritti:
-qui. (Necessari username e password comunicati dal docente).
+## Examination
+
+The examination consists of both traditional lectures and laboratory sessions. Weekly self-assessment tests will be provided during the lab as preparation tools. Completing all assignments throughout the year awards an extra point in the final evaluation.
+
+The examination consists of two parts:
+
+1. Programming test (2.5 hours)
+2. Written exam on paper (1 hour, no notes or references allowed)
+
+The two parts must be completed in the same examination session.
+
+### Programming Test
+
+- Conducted on EOL.unibo.it with PC access.
+- First part includes coding exercises with automated tests. Score between 0 and 10 is assigned immediately. If the score is below 5, the exam ends. Otherwise, the student proceeds to the second part.
+- The second part involves coding exercises evaluated by the instructor and includes the written exam.
+- Total duration: 2.5 hours.
+
+### Written Exam
+
+- Traditional written exam without notes on paper.
+- Evaluated by the instructor along with the second part of the programming test.
+- Total duration: 1 hour.
+
+Final grade is determined by summing the scores of the programming test (5-10), the written exam (13-24), and potential lab bonus (0-1). If the total is 32 or more, the grade is 30Lode.
+
+<!-- ## Previous Exam Materials
+
+- [Past exam questions with solutions](link_to_exam_materials)
+- Note: The exams are from a slightly different program and format but similar in difficulty. -->

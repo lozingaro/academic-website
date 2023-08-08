@@ -1,27 +1,24 @@
 ---
-layout: page
+layout: default
+title: home
 ---
 
-<style>
-    .thumbnail {
-        width: 75px;
-        height: 75px;
-        border-radius: 50%;
-        border: 1px solid #ddd;
-        padding: 5px;
-        background-color: #fff;
-    }
-</style>
-
 ![logo](assets/images/logo.png){:.thumbnail}
+    
+Stefano (Pio) Zingaro is Junior Assistant Professor of Computer Science at the [Department of Computer Science and Engineering](//www.cse.unibo.it/en), [University of Bologna](//www.unibo.it/en). 
 
-Stefano P. Zingaro
+Research team [FOCUS](//team.inria.fr/focus/) at [Inria Sophia Antipolis-Méditerranée](//www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee).
 
-Assistant Professor of Computer Science
-[Department of Computer Science and Engineering](http://www.cse.unibo.it/en)
+### Research Interests
 
-Research Team [FOCUS](https://team.inria.fr/focus/), [Inria Sophia Antipolis-Méditerranée](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee)
+He specializes in computing, artificial intelligence, and he is interested in the history and philosophy of computer science.
 
-His research interests are in the foundations of artificial intelligence, and on history and philosophy of computer science. 
+### Erdös Number
 
-His [Erdös number](http://www.oakland.edu/enp) is 4 (via [Scedrov](http://www.cis.upenn.edu/~scedrov/) to [Blass](http://www.math.lsa.umich.edu/~ablass/) to [Martini](https://www.cs.unibo.it/~martini/index.html) to Erdös).
+Stefano P. Zingaro has an Erdös number of `4`:
+- Via [Scedrov](//www.cis.upenn.edu/~scedrov/)
+- To [Blass](//www.math.lsa.umich.edu/~ablass/)
+- To [Martini](//www.cs.unibo.it/~martini/index.html)
+- To Erdös
+
+Feel free to explore more about his work and interests on this website.

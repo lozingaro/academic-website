@@ -4,143 +4,63 @@ title: Intelligenza Artificiale
 permalink: /teaching/81940/
 ---
 
-# Intelligenza Artificiale (2023 edition)
+Welcome to the Artificial Intelligence (AI) project page for the Master's degree program in Computer Science at the University of Bologna.
 
-I contenuti di questa pagina riguardano la realizzazione del progetto di Intelligenza Artificiale (AI) del corso di laurea magistrale in Informatica dell'Università di Bologna.
+- [Group Management](#group-management)
+- [Project Structure](#project-structure)
+- [Evaluation Process](#evaluation-process)
+- [Report Guidelines](#report-guidelines)
+- [Implementation](#implementation)
+- [Submission](#submission)
+- [Demo](#demo)
+- [Project Discussion](#project-discussion)
 
-In particolare sono presenti le seguenti sezioni:
+## Group Management
 
-1. [la gestione dei gruppi](#gestione-dei-gruppi)
-2. [la struttura del progetto](#struttura-del-progetto)
-3. [le modalità di valutazione](#modalità-di-valutazione)
+- Each group consists of 1 to 4 members.
+- To participate in the exam, communicate your group composition via email to the [tutor](mailto:stefanopio.zingaro@unibo.it).
+- Email subject: **GRUPPO AI**
+- Include: Group name, member names, IDs, contact email.
 
-🇮🇹
-**Attenzione!** In ogni momento e compatibilmente con la disponibilità del docente, è possibile concordare un ricevimento inviando [un messaggio di posta elettronica](mailto:stefanopio.zingaro@unibo.it) e specificando la motivazione nel corpo del messaggio.
+For those seeking a group or individual students, visit the [group list page](groups) for contact info and existing group details.
 
-🇬🇧
-**Warning!** At any time and subject to the availability of the teachers, a reception can be arranged [sending an email](mailto:stefanopio.zingaro@unibo.it) and specifying the reason in the email.
+## Project Structure
 
-**Are you an Erasmus student?** [Contact me!](mailto:stefanopio.zingaro@unibo.it)
+- Projects can be proposed by groups or course instructors.
+- Instructors' proposals are guidelines (problems, tasks, datasets).
+- Check the [proposals page](../proposals) for instructor-proposed projects.
 
-## Gestione dei gruppi
+## Evaluation Process
 
-Ogni gruppo è composto da un minimo di una (1) ad un massimo di quattro (4) persone.
-Coloro che intendono partecipare all'esame comunicano la composizione del gruppo di lavoro **via posta elettronica** al [tutor](mailto:stefanopio.zingaro@unibo.it).
+- Two components: written report and code implementation.
+- Evaluation through an oral exam discussing the project.
+- All group members participate in discussing the project.
 
-Il messaggio deve essere inviato dalla propria mail istituzionale `@studio.unibo.it`, ha come oggetto **GRUPPO AI** e contiene:
+## Report Guidelines
 
-1. Il nome del gruppo;
-2. Una riga per ogni componente: cognome, nome e matricola;
-3. Un indirizzo di posta elettronica di riferimento a cui mandare le notifiche (è incarico del referente comunicare con gli altri membri).
+- No length limits, 12pt font, any preferred format (e.g., `lateX`, `docx`).
+- Follow the [report template](../report) structure.
+- Submit as a PDF file named `REPORT_AI.pdf`.
 
-Un esempio del corpo della **mail** con **oggetto** _GRUPPO AI_:
+## Implementation
 
-```markdown
-| NOME_GRUPPO | NUMERO_COMPONENTI |
-|:-|-:|
-| [Nome Referente](mailto:nome.referente@studio.unibo.it) | matricola |
-| Nome Componente | matricola |
-```
+- Use preferred technologies for development.
+- Use `git` for project management.
+- Store code on [GitLab](http://gitlab.com) using the provided procedure.
 
-Tutte le informazioni riguardanti i gruppi (e.g., corretta registrazione) possono essere monitorate nella [pagina dedicata agli elenchi dei gruppi](groups).
-Allo stesso indirizzo è possibile trovare, per coloro che sono alla ricerca di un gruppo, le informazioni di contatto per i referenti e il numero di persone per ogni gruppo esistente.
+## Submission
 
-Chi non riuscisse a trovare un gruppo e fosse ancora intenzionato a presentare un progetto di gruppo, invia al [tutor](mailto:stefanopio.zingaro@unibo.it) un messaggio con oggetto **CERCO GRUPPO AI**, specificando:
+1. Create a `Tag` named **Consegna** on GitLab.
+2. Notify the [tutor](mailto:stefanopio.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME**.
 
-- Cognome, Nome, Matricola, Email;
-- Eventuali preferenze legate a tempi di lavoro (si cercherà di costituire gruppi di persone con tempi di lavoro compatibili, nel limite delle disponibilità).
+## Demo
 
-Un esempio del corpo della **mail** con **oggetto** _CERCO GRUPPO AI_:
+- Prepare a script for automated testing.
+- Can include screenshots or additional material.
+- Integration with code is optional.
 
-```plaintext
-Annio Ennio, 123456
-A causa di impegno/lavoro part-time/full-time sono disponibile di sera e nei weekend.
-```
+## Project Discussion
 
-**Attenzione!** Le persone senza un gruppo vengono assegnate il prima possibile.
-
-## Struttura del progetto
-
-In generale, il progetto è composto da report (scritto) e implementazione (codice sorgente).
-I progetti possono essere proposti dai gruppi stessi o dai docenti del corso.
-I progetti proposti dai docenti sono discussi durante lezione e costituiscono soltanto una possibile traccia di lavoro (e.g., problemi, _tasks_, o _datasets_).
-Tutte le informazioni sulle proposte dei docenti verranno aggiornati _in itinere_ e sono disponibili nella [pagina dedicata all'elenco delle proposte](proposals).
-
-## Modalità di valutazione
-
-Globalmente, vengono consegnati due prodotti: il report (scritto) e l'implementazione (il codice sorgente).
-La [valutazione](https://www.universoscuola.it/valutazione-sommativa-studenti.htm) avviene mediante un esame orale nel quale vengono discussi il progetto e i prodotti consegnati.
-Le domande saranno rivolte a tutti i componenti del gruppo, i quali potranno scegliere come organizzare l'esposizione dei contenuti.
-
-Consegnando i prodotti e partecipando all'esame orale, i componenti del gruppo dichiarano di accettare le seguenti condizioni:
-
-- Chi copia o fa copiare parte del codice sorgente o del report invalida il progetto.
-- I docenti si riservano di controllare i prodotti con un programmi per il rilevamento di plagio.
-
-## Il report
-
-Il report è un documento testuale che contiene tutte le informazioni che riguardano gli autori, gli scopi e la realizzazione del progetto.
-Concretamente, il report ha le seguenti caratteristiche:
-
-- **non ha limiti di lunghezza** (né _lower bound_ né _upper bound_),
-- è scritto con font di grandezza _12pt_,
-- è scritto nel formato preferito (e.g., `lateX`, `docx`),
-- rispetta la struttura del [modello del report](templates/report.md),
-- viene consegnato in formato `PDF` nelle modalità descritte nella [sezione apposita](#consegna).
-
-### Valutazione del report
-
-La valutazione del report verte sull'analisi dello scritto e sulla sua capacità di esprimere con chiarezza i concetti descritti, soprattutto **grazie all'uso di esempi**.
-
-In particolare la griglia di valutazione usata è la seguente:
-
-| Criterio | Descrizione |
-|---|---|
-| **Qualità dell'informazione** | Riconoscimento dei problemi e loro descrizione |
-| **Uso degli esempi** | Presenza di almeno un esempio in tutte le scelte implementative |
-| **Analisi delle scelte implementative** | Descrizione  della propria scelta implementativa e presenza di proposte di alternative valide |
-
-## L'implementazione
-
-Il progetto viene sviluppato utilizzando la tecnologia che si preferisce.
-Non esistono requisiti riguardo alle tecnologie usate.
-
-La gestione del progetto **avviene col supporto del sistema `git`**, a [questa pagina](https://education.github.com/git-cheat-sheet-education.pdf) è possibile trovare una lista di comandi utili per imparare ad usare questo strumento di scrittura collaborativa.
-
-Il codice del progetto è contenuto in uno spazio in cloud fornito dal servizio online [GitLab](http://gitlab.com) e gestito seguendo la procedura descritta di seguito.
-
-1. Ogni membro del gruppo [crea un account su GitLab o accede con le proprie credenziali](https://gitlab.com/users/sign_in)
-2. Il **referente del gruppo** crea un nuovo progetto cliccando sul bottone **+** in alto a destra nella schermata principale di GitLab, inserendo `AI_NomeGruppo` come nome del progetto e cliccando su **New Project**
-   - una volta che il progetto è stato creato, il referente aggiunge ogni membro del gruppo con `role permission` $>$ `Developer` andando su `Settings` $>$ `Members` nel menù a sinistra, cercandoli in base allo username con il quale questi si sono registrati su GitLab;
-   - il referente aggiunge l'utente [`dezingaro`](https://gitlab.com/dezingaro) con `role permission` $>$ `Reporter`.
-
-### Valutazione dell'implementazione
-
-La valutazione dell'implementazione del sistema si basa sull'efficienza del codice.
-
-## Consegna
-
-Al momento della consegna, il repository dovrà contenere i sorgenti del progetto e il report, nominato `REPORT_AI.pdf`.
-
-Per effettuare la consegna:
-
-1. Nella pagina del progetto, cliccare sulla voce del menù `Repository` $>$ `Tags` $>$ `New Tag`
-2. Digitare come `Tag Name` il nome **Consegna**
-3. Cliccare su `Create Tag` per eseguire la creazione del `Tag` di consegna
-
-Una volta creato il Tag, inviare una email di notifica di consegna con soggetto **CONSEGNA AI - NOME GRUPPO** al [tutor](mailto:stefanopio.zingaro@unibo.it).
-
-## La dimostrazione (demo)
-
-Insieme alla documentazione ed al codice sorgente, dovrà essere preparato uno script che permette di automatizzare i test.
-Almeno nella fase iniziale della prova orale, può essere utile preparare del materiale da correlare allo script (ad esempio _screenshot_), che permetteranno di velocizzare le operazioni di controllo del codice.
-Tale suite di test _può_ essere integrata nel codice sorgente (è tuttavia opzionale).
-
-## Discussione del progetto
-
-In generale, la valutazione del progetto comprenderà la valutazione dell'implementazione e del report così come verranno esposte in sede di esame orale.
-La data preso in considerazione per la consegna corrisponde alla [creazione del **Tag** su GitLab](https://docs.gitlab.com/ee/topics/git/tags.html).
-
-Solo in seguito alla consegna viene fissata la data, l'orario e la sede della discussione.
-Per accelerare i tempi, è possibile notificare il tutor dell'avvenuta consegna e proporre un data entro cui effettuare l'orale giustificando la richiesta (ad esempio per esigenze di registrazione del voto prima della scadenza dell'acquisizione crediti per borsa di studio).
-
+- Evaluation includes report analysis and code implementation.
+- Exam date based on GitLab `Tag` creation.
+- Exam date and details will be scheduled after submission.

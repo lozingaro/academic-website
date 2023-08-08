@@ -1,26 +1,22 @@
 ---
 layout: page
-title: Sistemi operativi
+title: Sistemi Operativi
 permalink: /teaching/08574/
 ---
 
-I contenuti di questa pagina riguardano il modulo di 20 ore del corso di sistemi operativi della laurea in informatica per il management.
+**Want to share your notes?** Send me the link with a description.
+{{: .notice--warning}}
 
-## Link utili
+This page contains information about the 20-hour module of the Sistemi Operativi (Operating Systems) course for the Laurea in Informatica per il Management (Computer Science for Management) degree.
 
-- [Tutte le slide della decima edizione del libro di corso](https://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=11227&itemId=1119320917&resourceId=44619).
-- [La decima edizione del libro di corso](https://tinyurl.com/2p89ecm5) 🚨 per accedere a questa risorsa probabilmente i vostri DNS non vanno bene, provate [questi (che trovate nel footer della pagina)](https://www.opendns.com/) o [questa soluzione](https://www.torproject.org/) (grazie allo studente Thor).
-- [Tutto il codice in C e Java della decima edizione](https://github.com/greggagne/osc10e).
-- [Schema per algoritmi di CPU scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/#comparison).
-- Appunti su **CPU burst**:
-  - [Esempio di calcolo del tempo di burst atteso](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html).
-  - [Real-time CPU burst prediction with machine learning](https://link.springer.com/chapter/10.1007/978-981-19-0825-5_58).
-  - [Python notebook per *simple moving average* e *exponential moving average*](../src/expected_cpu_burst.ipynb).
-- [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
+## Useful Links
 
-🚨
-**Vuoi mettere a disposizione materiale?** Inviami il link al contenuto con una descrizione.
-
----
-
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Slides for the Tenth Edition of the Course Book](https://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=11227&itemId=1119320917&resourceId=44619)
+- [Tenth Edition of the Course Book](https://tinyurl.com/2p89ecm5) 🚨 (If you have DNS issues, try [alternative DNS](https://www.opendns.com/) or [this solution](https://www.torproject.org/))
+- [C and Java Code from the Tenth Edition](https://github.com/greggagne/osc10e)
+- [CPU Scheduling Algorithm Reference](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/#comparison)
+- CPU Burst Notes:
+  - [Example of Expected Burst Time Calculation](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html)
+  - [Real-time CPU Burst Prediction with Machine Learning](https://link.springer.com/chapter/10.1007/978-981-19-0825-5_58)
+  - [Python Notebook for Simple Moving Average and Exponential Moving Average](../src/expected_cpu_burst.ipynb)
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)

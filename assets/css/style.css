@@ -1,0 +1,30 @@
+.notice--warning {
+    background-color: #fff3cd;
+    border-left: 4px solid #ffc107;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.thumbnail {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.content-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-column {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.text-column {
+    flex: 2;
+}

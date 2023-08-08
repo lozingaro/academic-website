@@ -4,26 +4,28 @@ title: teaching
 permalink: /teaching/
 ---
 
-**Are you looking for a interesting topic for your thesis?** Check out my [proposals](proposals.md).
+**Looking for an interesting topic for your thesis?** Check out my [proposals](proposals). 
+{: .notice--warning}
 
-### Corsi impartiti nel 2023
+### Courses Taught in 2023
 
-<!-- * [Informatica](07276), Laurea in Statistica, I anno, secondo semestre. -->
-* [Introduzione al machine learning (modulo I)](https://github.com/lozingaro/asai-er-ml), [Advanced school on Artificial Intelligence](https://asai-er.github.io), Bertinoro.
-* [Intelligenza artificiale](81940), Laurea magistrale in Informatica, I anno, primo semestre.
-* [Sistemi operativi](08574), Laurea in Informatica per il management, II anno, secondo semestre.
+* [Introduzione al Machine Learning (Modulo I)](https://github.com/lozingaro/asai-er-ml) at [Advanced School on Artificial Intelligence](https://asai-er.github.io), Bertinoro.
+* [Intelligenza Artificiale](81940), Master's Degree in Computer Science, Year I, Semester I.
+* [Sistemi Operativi](08574), Bachelor's Degree in Computer Science for Management, Year II, Semester II.
 
-<!-- ### Corsi impartiti negli anni precedenti -->
+### Student Opinions on Teaching
 
-### Opinioni degli studenti sulle attività didattiche
+* Academic Year 2022/2023: [Laboratorio di Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497664.pdf) (CdS 8014).
+* Academic Year 2022/2023: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497120.pdf) (CdS 8014).
+* Academic Year 2019/2020: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20192460892.pdf) (CdS 8014).
 
-* A.a. 2022/2023: [Laboratorio di Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497664.pdf) (CdS 8014);
+### Previous Years' Courses
 
-### Machine learning resources
+#### Machine Learning Resources
 
 A set of `Python` notebooks that can be used as a starting point for teaching machine learning:
 
-* [Linear regression with gradient descent](src/linear-regression-w-gradient-descent.ipynb)
-* [The neural network](src/nn-rulez.ipynb)
-* [The perceptron](src/percettrone.ipynb)
-* [Pytorch basics tutorial](src/pytorch-tutorial.ipynb)
+* [Linear Regression with Gradient Descent](/assets/src/linear-regression-w-gradient-descent.ipynb)
+* [The Neural Network](../assets/src/nn-rulez.ipynb)
+* [The Perceptron](../assets/src/percettrone.ipynb)
+* [PyTorch Basics Tutorial](../assets/src/pytorch-tutorial.ipynb)
