@@ -1,3 +1,3 @@
 git pull
-jekyll build --destination ../../public_html
-
+bundle exec jekyll clean
+bundle exec jekyll build --destination ../../public_html
