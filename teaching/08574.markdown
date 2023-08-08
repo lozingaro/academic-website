@@ -5,7 +5,7 @@ permalink: /teaching/08574/
 ---
 
 **Want to share your notes?** Send me the link with a description.
-{{: .notice--warning}}
+{: .notice--warning}
 
 This page contains information about the 20-hour module of the Sistemi Operativi (Operating Systems) course for the Laurea in Informatica per il Management (Computer Science for Management) degree.
 
