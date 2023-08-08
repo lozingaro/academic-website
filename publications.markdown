@@ -4,6 +4,18 @@ title: publications
 permalink: /publications/
 ---
 
+For a formal list of publications, please refer to:
+
+- [OrcID](https://orcid.org/0000-0002-8462-5651)
+- [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zingaro:Stefano_Pio)
+
+This list includes:
+- Journal articles: `2`
+- In conference proceedings: `12`
+- Book chapters & others: `2`
+
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965) citation count: `73`  by `70` documents with _h-index_ `4`
+
 1.  **Ephemeral data handling in microservices with Tquery**  
     *Saverio Giallorenzo, Fabrizio Montesi, Larisa Safina, Stefano Pio Zingaro*  
     2022  

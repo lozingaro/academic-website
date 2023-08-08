@@ -15,14 +15,6 @@ You can find me at my office located on the first floor of `Stazione Ex-Veneta`:
 
 - GitHub: [@lozingaro](https://github.com/lozingaro)
 - Chat: Available on [MS Teams](https://teams.microsoft.com)
-- Note: I do not hold accounts on _Facebook_, _Twitter_, _Google_, _LinkedIn_, or _ResearchGate_.
-
-### Relevant References
-
-Explore more about my work through these references:
-
-- [OrcID](https://orcid.org/0000-0002-8462-5651)
-- [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zingaro:Stefano_Pio)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965)
+- Note: I do not hold accounts on _Facebook_, _Twitter_, _Google_, _LinkedIn_, or _ResearchGate_. If you find any account with my name, it is not mine.
 
 Feel free to get in touch or learn more about my research and projects.
