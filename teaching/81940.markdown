@@ -14,6 +14,7 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 - [Submission](#submission)
 - [Demo](#demo)
 - [Project Discussion](#project-discussion)
+- [Extra content for the course](#extra-content-for-the-course)
 
 ## Group Management
 
@@ -64,3 +65,12 @@ For those seeking a group or individual students, visit the [group list page](gr
 - Evaluation includes report analysis and code implementation.
 - Exam date based on GitLab `Tag` creation.
 - Exam date and details will be scheduled after submission.
+
+## Extra content for the course
+
+A set of `Python` notebooks that can be used as a starting point for teaching machine learning:
+
+* [Linear Regression with Gradient Descent](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/linear-regression-w-gradient-descent.ipynb)
+* [The Neural Network](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/nn-rulez.ipynb)
+* [The Perceptron](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/percettrone.ipynb)
+* [PyTorch Basics Tutorial](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/pytorch_classification_framework.ipynb)

@@ -18,5 +18,5 @@ This page contains information about the 20-hour module of the Sistemi Operativi
 - CPU Burst Notes:
   - [Example of Expected Burst Time Calculation](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html)
   - [Real-time CPU Burst Prediction with Machine Learning](https://link.springer.com/chapter/10.1007/978-981-19-0825-5_58)
-  - [Python Notebook for Simple Moving Average and Exponential Moving Average](../src/expected_cpu_burst.ipynb)
+  - [Python Notebook for Simple Moving Average and Exponential Moving Average](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/expected_cpu_burst.ipynb)
 - [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)

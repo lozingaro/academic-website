@@ -19,13 +19,4 @@ permalink: /teaching/
 * Academic Year 2022/2023: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497120.pdf) (CdS 8014).
 * Academic Year 2019/2020: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20192460892.pdf) (CdS 8014).
 
-### Previous Years' Courses
-
-#### Machine Learning Resources
-
-A set of `Python` notebooks that can be used as a starting point for teaching machine learning:
-
-* [Linear Regression with Gradient Descent](/assets/src/linear-regression-w-gradient-descent.ipynb)
-* [The Neural Network](../assets/src/nn-rulez.ipynb)
-* [The Perceptron](../assets/src/percettrone.ipynb)
-* [PyTorch Basics Tutorial](../assets/src/pytorch-tutorial.ipynb)
+<!-- ### Previous Years' Courses -->
