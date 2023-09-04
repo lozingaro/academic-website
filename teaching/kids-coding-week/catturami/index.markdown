@@ -18,13 +18,13 @@ Imparare i concetti di base del AI e della programmazione, creando un semplice g
 
 ### Fase 1: Preparazione
 
-1. **🌐 Andare sul sito**: Vai su `https://scratch.machinelearningforkids.co.uk`
+1. **🌐 Andare sul sito**: Vai su [https://scratch.machinelearningforkids.co.uk](https://scratch.machinelearningforkids.co.uk)
 2. **📑 Selezionare il Template**: Clicca su "Modelli di progetto" e poi su "Shoot the bug" (colpisci l'insetto).
 ![Screenshot](assets/2.png)
 
 ### Fase 2: Familiarizzazione
 
-1. **🕹️ Esplorare il Gioco**: Trova il blocco "quando viene cliccata la bandiera verde" ![Screenshot](assets/3.png) e attacca il blocco "play manually" (gioca manualmente). ![Screenshot](assets/4.png)
+1. **🕹️ Esplorare il Gioco**: Trova il blocco "quando si clicca su [bandiera verde]" ![Screenshot](assets/3.png) e attacca il blocco "play manually" (gioca manualmente). ![Screenshot](assets/4.png)
 2. **🎮 Prova a Giocare**: Usa le frecce direzionali per mirare e premi la barra spaziatrice per sparare.
 
 ### Fase 3: Raccogliere Dati
@@ -47,6 +47,7 @@ Potresti farlo scrivendo del codice per calcolare l'angolo corretto di lancio, b
 Tuttavia, per questo progetto, addestrerai il computer affinché impari autonomamente come tirare all'insetto. 
 
 Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "modello" che può prevedere se un tiro sotto un certo angolo andrà a segno o meno.
+{: .notice--warning}
 
 ---
 
@@ -54,7 +55,7 @@ Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "mode
 
 #### Parte 1: Inizializzazione
 
-1. **🌐 Aprire il Browser**: Vai su `https://machinelearningforkids.co.uk/`. ![Screenshot](assets/5.png)
+1. **🌐 Aprire il Browser**: Vai su [https://machinelearningforkids.co.uk/](https://machinelearningforkids.co.uk/). ![Screenshot](assets/5.png)
 2. **🚀 Iniziare**: Clicca su "Iniziamo".
 3. **👀 Prova Ora**: Clicca su "Prova subito".
 4. **🆕 Nuovo Progetto**: Clicca sul pulsante "+ Aggiungi un nuovo progetto".
