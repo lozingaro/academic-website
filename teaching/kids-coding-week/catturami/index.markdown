@@ -1,13 +1,13 @@
 ---
+title: Colpisci l'insetto
 layout: page
 ---
 
-# Impara a programmare un gioco con Intelligenza Artificiale
+![Screenshot](assets/1.png)
 
 ## Obiettivo
 
 Imparare i concetti di base del AI e della programmazione, creando un semplice gioco in Scratch.
-![Screenshot](assets/1.png)
 
 ## Materiale Necessario
 
