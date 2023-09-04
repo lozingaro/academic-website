@@ -9,9 +9,12 @@ permalink: /teaching/
 
 ### Courses Taught in 2023
 
+* [BBS Kids Coding Week](https://www.bbs.unibo.eu/kids-coding-week/), a workshop that aims to introduce children to computer programming ("coding") and artificial intelligence. Example of activities (in italian language) are the following:
+  * [Shoot the bug](bbs_coding_week/catturami/catturami-foglio_attività.md)
 * [Introduzione al Machine Learning (Modulo I)](https://github.com/lozingaro/asai-er-ml) at [Advanced School on Artificial Intelligence](https://asai-er.github.io), Bertinoro.
 * [Intelligenza Artificiale](81940), Master's Degree in Computer Science, Year I, Semester I.
 * [Sistemi Operativi](08574), Bachelor's Degree in Computer Science for Management, Year II, Semester II.
+<!-- * [Decision Support Systems] -->]
 
 ### Student Opinions on Teaching
 
