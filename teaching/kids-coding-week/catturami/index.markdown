@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Impara a programmare un gioco con Intelligenza Artificiale
 
 ## Obiettivo
