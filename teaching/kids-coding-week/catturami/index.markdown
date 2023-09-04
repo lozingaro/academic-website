@@ -30,14 +30,15 @@ Imparare concetti di base di Intelligenza Artificiale e della programmazione, cr
 
 1. **📝 Esempi**: Gioca diverse volte e prendi nota degli angoli e delle coordinate dove hai colpito o mancato l'insetto.
 
-### Cosa hai fatto finora?
-Fino a questo momento, hai giocato a un gioco in Scratch. Ogni volta che giochi, l'insetto si sposta in una posizione casuale. L'obiettivo del gioco è colpire l'insetto con una pallina.
-Un ostacolo è presente, quindi è necessario far rimbalzare la pallina su una parete laterale per superarlo.
-Le coordinate dell'insetto vengono visualizzate nell'angolo in basso a sinistra dello schermo del gioco, mentre l'angolo di lancio della pallina è mostrato nell'angolo in basso a destra.
-In questo progetto, intenderai far decidere al computer sotto quale angolo tirare, in base alla posizione dell'insetto. 
-Potresti farlo scrivendo del codice per calcolare l'angolo corretto di lancio, basandoti sulla posizione (potrai provarci a casa se vorrai).
-Tuttavia, per questo progetto, addestrerai il computer affinché impari autonomamente come tirare all'insetto. 
-Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "modello" che può prevedere se un tiro sotto un certo angolo andrà a segno o meno.
+**Cosa hai fatto finora?** Fino a questo momento, hai giocato a un gioco in Scratch.   
+Ogni volta che giochi, l'insetto si sposta in una posizione casuale.  
+L'obiettivo del gioco è colpire l'insetto con una pallina.  
+Un ostacolo è presente, quindi è necessario far rimbalzare la pallina su una parete laterale per superarlo.    
+Le coordinate dell'insetto vengono visualizzate nell'angolo in basso a sinistra dello schermo del gioco, mentre l'angolo di lancio della pallina è mostrato nell'angolo in basso a destra.     
+In questo progetto, vogliamo far decidere al computer a quale angolo tirare, in base alla posizione dell'insetto.     
+Potresti farlo scrivendo del codice per calcolare l'angolo corretto di lancio, basandoti sulla posizione (potrai provarci a casa se vorrai).    
+Tuttavia, per questo progetto, addestrerai il computer affinché impari autonomamente come tirare all'insetto.     
+Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "modello" che può prevedere se un tiro sotto un certo angolo andrà a segno o meno.  
 {: .notice--warning}
 
 ### Fase 4: Addestramento 
@@ -86,17 +87,13 @@ Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "mode
 8. **🔄 Aggiorna lo Script per Utilizzare il Tuo Modello**: Modifica lo script per utilizzare il tuo modello di machine learning. ![Screenshot](URL1)
 9. **🕵️ Valuta l'Efficacia del Tuo Modello**: Clicca nuovamente sulla Bandiera Verde. Quanto è efficace il tuo modello di machine learning nel scegliere gli angoli che colpiranno l'insetto?
 
----
-
-### Cosa hai fatto finora?
-
-Hai iniziato ad addestrare un computer per giocare a un gioco. Invece di scrivere regole per farlo o calcolare l'equazione per determinare l'angolo di lancio del proiettile, lo stai facendo raccogliendo esempi. Questi esempi sono utilizzati per addestrare una Intelligenza Artificiale.
-
-Il computer imparerà dai pattern negli esempi. Utilizzerà questi per fare previsioni se una posizione e un angolo porteranno a un colpo andato a segno o a un errore.
-
-Poiché hai ancora i blocchi "aggiungi dati di addestramento" nel tuo script, stai ancora raccogliendo ulteriori esempi di addestramento ogni volta che giochi. Questo significa che più tempo permetterai al tuo modello di Intelligenza Artificiale di giocare al gioco, più diventerà abile nel farlo.
-
----
+**Cosa hai fatto finora?** Hai iniziato ad addestrare un computer per giocare a un gioco.   
+Invece di scrivere regole per farlo o calcolare l'equazione per determinare l'angolo di lancio del proiettile, lo stai facendo raccogliendo esempi.   
+Questi esempi sono utilizzati per addestrare una Intelligenza Artificiale.  
+Il computer imparerà dai pattern negli esempi. Utilizzerà questi per fare previsioni se una posizione e un angolo porteranno a un colpo andato a segno o a un errore.  
+Poiché hai ancora i blocchi "aggiungi dati di addestramento" nel tuo script, stai ancora raccogliendo ulteriori esempi di addestramento ogni volta che giochi.   
+Questo significa che più tempo permetterai al tuo modello di Intelligenza Artificiale di giocare al gioco, più diventerà abile nel farlo.
+{: .notice--warning}
 
 ### Fase 6: Comprensione del Comportamento del Modello di Apprendimento Automatico
 
@@ -114,13 +111,10 @@ Poiché hai ancora i blocchi "aggiungi dati di addestramento" nel tuo script, st
 
 6. **🔮 Verifica delle Previsioni**: Utilizza questa visualizzazione e il gioco in Scratch in modalità "gioca manualmente" per vedere quali previsioni sta facendo il tuo modello di apprendimento automatico e se sono corrette.
 
----
-
-### Cosa Hai Fatto Finora?
-
-In questa fase, hai addestrato un modello di apprendimento automatico noto come "albero decisionale classificatore" (*decision tree classifier*). La visualizzazione ti consente di comprendere come il tuo modello effettua previsioni. È un modo efficace per osservare quali schemi il computer ha individuato nei dati di addestramento che hai raccolto.
-
----
+**Cosa Hai Fatto Finora?** In questa fase, hai addestrato un modello di apprendimento automatico noto come "albero decisionale classificatore" (*decision tree classifier*).   
+La visualizzazione ti consente di comprendere come il tuo modello effettua previsioni.   
+È un modo efficace per osservare quali schemi il computer ha individuato nei dati di addestramento che hai raccolto.
+{: .notice--warning}
 
 ### È un Buon Utilizzo dell'Apprendimento Automatico?
 
