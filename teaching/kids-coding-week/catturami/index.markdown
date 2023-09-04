@@ -7,18 +7,17 @@ layout: page
 
 ## Obiettivo
 
-Imparare i concetti di base del AI e della programmazione, creando un semplice gioco in Scratch.
+Imparare concetti di base di Intelligenza Artificiale e della programmazione, creando un semplice gioco in Scratch.
 
-## Materiale Necessario
+## Materiale necessario
 
 - Un computer con accesso a Internet
-- Accesso a [Scratch per Machine Learning 4 Kids](https://scratch.machinelearningforkids.co.uk/)
 
 ## Istruzioni
 
 ### Fase 1: Preparazione
 
-1. **🌐 Andare sul sito**: Vai su [https://scratch.machinelearningforkids.co.uk](https://scratch.machinelearningforkids.co.uk)
+1. **🌐 Andare sul sito**: Vai su [Scratch](https://scratch.machinelearningforkids.co.uk)
 2. **📑 Selezionare il Template**: Clicca su "Modelli di progetto" e poi su "Shoot the bug" (colpisci l'insetto).
 ![Screenshot](assets/2.png)
 
@@ -31,25 +30,15 @@ Imparare i concetti di base del AI e della programmazione, creando un semplice g
 
 1. **📝 Esempi**: Gioca diverse volte e prendi nota degli angoli e delle coordinate dove hai colpito o mancato l'insetto.
 
----
-
 ### Cosa hai fatto finora?
-
 Fino a questo momento, hai giocato a un gioco in Scratch. Ogni volta che giochi, l'insetto si sposta in una posizione casuale. L'obiettivo del gioco è colpire l'insetto con una pallina.
-
 Un ostacolo è presente, quindi è necessario far rimbalzare la pallina su una parete laterale per superarlo.
-
 Le coordinate dell'insetto vengono visualizzate nell'angolo in basso a sinistra dello schermo del gioco, mentre l'angolo di lancio della pallina è mostrato nell'angolo in basso a destra.
-
 In questo progetto, intenderai far decidere al computer sotto quale angolo tirare, in base alla posizione dell'insetto. 
-
-Potresti farlo scrivendo del codice per calcolare l'angolo corretto di lancio, basandoti sulla posizione (potrai provarci a casa se vorrai).   
+Potresti farlo scrivendo del codice per calcolare l'angolo corretto di lancio, basandoti sulla posizione (potrai provarci a casa se vorrai).
 Tuttavia, per questo progetto, addestrerai il computer affinché impari autonomamente come tirare all'insetto. 
-
 Raccoglierai esempi del gioco in azione e li utilizzerai per addestrare un "modello" che può prevedere se un tiro sotto un certo angolo andrà a segno o meno.
 {: .notice--warning}
-
----
 
 ### Fase 4: Addestramento 
 
