@@ -8,7 +8,7 @@ You can find me at my office located on the first floor of `Stazione Ex-Veneta`:
 - Office: PP7
 - Address: [Via Zanolini 41, Bologna, Italy](http://w3w.co/removing.clothed.passing)
 
-**Planning to visit?** Please, [email me](mailto:stefano.zingaro@unibo.it) in advance.
+**Planning to visit?** Please, [email me](mailto:stefano.zingaro@unibo.it) in advance
 {: .notice--warning}
 
 ### Online Presence

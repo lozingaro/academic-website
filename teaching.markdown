@@ -4,22 +4,24 @@ title: teaching
 permalink: /teaching/
 ---
 
-**Looking for an interesting topic for your thesis?** Check out my [proposals](proposals). 
+**Looking for a topic for your thesis or want to propose one?** Check out  [this page](proposals)
 {: .notice--warning}
 
-### Courses Taught in 2023
+### Courses taught in 2023
 
-* [BBS Kids Coding Week](https://www.bbs.unibo.eu/kids-coding-week/), a workshop that aims to introduce children to computer programming ("coding") and artificial intelligence. Example of activities (in italian language) are the following:
-  * [Shoot the bug](kids-coding-week/catturami/)
-* [Introduzione al Machine Learning (Modulo I)](https://github.com/lozingaro/asai-er-ml) at [Advanced School on Artificial Intelligence](https://asai-er.github.io), Bertinoro.
-* [Intelligenza Artificiale](81940), Master's Degree in Computer Science, Year I, Semester I.
-* [Sistemi Operativi](08574), Bachelor's Degree in Computer Science for Management, Year II, Semester II.
-<!-- * [Decision Support Systems] -->]
+* [Intelligenza Artificiale](kids-coding-week), Bologna Business School [kids coding week](https://www.bbs.unibo.eu/kids-coding-week/)
+* [Introduzione al Machine Learning](https://github.com/lozingaro/asai-er-ml) (Modulo I), [Advanced School on Artificial Intelligence](https://asai-er.github.io)
+* [Decision Support Systems](), [Master in Artificial Intelligence and Innovation Management](https://www.bbs.unibo.eu/master-fulltime/digital-technology-management-artificial-intelligence-2/#presentazione)
+* [Intelligenza Artificiale](81940), Second cycle degree programme (LM) in Computer Science
+* [Sistemi Operativi](08574), First cycle degree programme (L) in Information Science for Management
 
-### Student Opinions on Teaching
 
-* Academic Year 2022/2023: [Laboratorio di Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497664.pdf) (CdS 8014).
-* Academic Year 2022/2023: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20222497120.pdf) (CdS 8014).
-* Academic Year 2019/2020: [Sistemi Operativi, Modulo 2](../assets/pdf/Resoconto-20192460892.pdf) (CdS 8014).
+### Student opinions on teaching
+
+* Academic year 2022/2023: 
+  * Laboratorio di Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20222497664.pdf)
+  * Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20222497120.pdf)
+* Academic year 2019/2020: 
+  * Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20192460892.pdf)
 
 <!-- ### Previous Years' Courses -->

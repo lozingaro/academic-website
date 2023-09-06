@@ -1,3 +1,11 @@
+.notice--info {
+    background-color: #e1f8ff;
+    border-left: 4px solid #83e2ff;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
 .notice--warning {
     background-color: #fff3cd;
     border-left: 4px solid #ffc107;
