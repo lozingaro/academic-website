@@ -21,14 +21,12 @@
 title: stefano zingaro
 email: stefano.zingaro@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
-  License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cs.unibo.it/~stefanopio.zingaro" # the base hostname & protocol for your site, e.g. http://example.com
+  academic web page for sharing resources
+baseurl: "/~stefanopio.zingaro" # the subpath of your site, e.g. /blog
+url: "https://cs.unibo.it" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 minima:
   skin: auto
@@ -59,3 +57,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - build.sh
+  - README.md
+  - LICENSE
