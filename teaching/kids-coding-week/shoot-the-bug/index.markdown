@@ -118,50 +118,104 @@ Ripeti l'azione, creando un secondo contenitore chiamato `miss`.
 
 ![Screenshot](assets/11.png)
 
-**📈 Aggiungi Dati di Addestramento a 'hit' e 'miss'**: Aggiungi un blocco `add training data` al gruppo di blocchi `hit` ed uno al gruppo di blocchi `miss`. 
+**📈 Aggiungi Dati di Addestramento a 'hit'**: Aggiungi un blocco `add training data` al gruppo di blocchi `hit`.  
+*Questo aggiungerà un esempio di addestramento alle etichette `hit` ogni volta che colpisci l'insetto.*  
+*Assicurati di aggiungere le nostre variabili `x` e `angle` nei posti giusti.* 
 
-![Screen recording](assets/12.mov)
+![Screenshot](assets/12.png)
 
-1.  **🎮 Test del Gioco**: Clicca sulla `Bandiera Verde` e gioca. Prova a colpire l'insetto! ![Screenshot](URL1)
-2.  **🔄 Ritorna alla Piattaforma di ML**: Nella finestra del tuo altro browser ancora aperta sullo strumento di machine learning, clicca su `< Back to project` in alto a sinistra.
-3.  **🏋️ Addestramento del Modello**: Clicca su `Train`. ![Screenshot](URL1)
+**📈 Aggiungi Dati di Addestramento a 'miss'**: Aggiungi un blocco `add training data` al gruppo di blocchi `miss`.  
+*Questo aggiungerà un esempio di addestramento alle etichette `miss` ogni volta che manchi l'insetto.*  
+*Assicurati di aggiungere le nostre variabili `x` e `angle` nei posti giusti.* 
 
+![Screenshot](assets/13.png)
+
+**🎮 Test del Gioco**: Clicca sulla `Bandiera Verde` e gioca. Prova a colpire l'insetto! 
+
+![Screenshot](assets/14.png)
+
+**🔄 Ritorna alla Piattaforma di ML**: Nella finestra del browser ancora aperta sullo strumento di machine learning, clicca su `< Ritorna ai progetti` in alto a sinistra.
+
+**🏋️ Addestramento del Modello**: Clicca su `Addestramento`.   
+*Controlla che `x` e `angle` del tiro che hai appena fatto sia stato aggiunto agli esempi di addestramento tra le etichette corrette.*
+
+![Screenshot](assets/15.png)
 
 ### Fase 5: Test e Miglioramento del Modello
 
-1. **🔄 Ritorna a Scratch**: Gioca al gioco altre quattordici volte. Potrebbe essere più semplice giocare in modalità schermo intero.
-2. **📊 Controlla gli Esempi di Addestramento**: Cerca di colpire più tiri possibili, ma non preoccuparti se ne manchi alcuni. ![Screenshot](URL1)
-3. **🔄 Aggiorna lo gruppo di blocchi**: Modifica lo gruppo di blocchi `quando viene cliccata la bandiera verde` in modo che utilizzi `gioca in modo casuale` invece di `gioca manualmente`. Questo renderà il campione di esempi più diversificato. ![Screenshot](URL1)
-4. **🚀 Raccogli Altri Esempi**: Clicca sulla Bandiera Verde per raccogliere altri esempi. Fai questo almeno altre trenta volte. ![Screenshot](URL1)
-5. **🔮 Utilizza il Modello di Apprendimento**: Modifica lo gruppo di blocchi `quando viene cliccata la bandiera verde` in modo che utilizzi `gioca usando il modello di machine learning` invece di `gioca in modo casuale`. ![Screenshot](URL1)
-6. **🧠 Addestra un Nuovo Modello**: Aggiungi un blocco `addestra un nuovo modello di machine learning` allo gruppo di blocchi `quando viene cliccata la bandiera verde`. ![Screenshot](URL1)
-7. **🔍 Trova lo gruppo di blocchi di Scelta Direzione**: Trova lo gruppo di blocchi `scegli la direzione usando il machine learning`. ![Screenshot](URL1)
-8. **🔄 Aggiorna lo gruppo di blocchi per Utilizzare il Tuo Modello**: Modifica lo gruppo di blocchi per utilizzare il tuo modello di machine learning. ![Screenshot](URL1)
-9. **🕵️ Valuta l'Efficacia del Tuo Modello**: Clicca nuovamente sulla Bandiera Verde. Quanto è efficace il tuo modello di machine learning nel scegliere gli angoli che colpiranno l'insetto?
+**🔄 Ritorna a Scratch**: Gioca al gioco altre **quattordici** volte. Potrebbe essere più semplice giocare in modalità schermo intero.
+
+**📊 Controlla gli Esempi di Addestramento**: Cerca di colpire più tiri possibili, ma non preoccuparti se ne manchi alcuni. 
+
+![Screenshot](assets/16.png)
+
+**🔄 Aggiorna il gruppo di blocchi**: Modifica il gruppo di blocchi `quando si clicca su [la bandiera verde]` in modo che usi `play randomly` (gioca casualmente) invece di `play manually` (gioca manualmente). 
+*Usare il gioco casuale ti darà un miglior mix di di esempi e renderà più veloce e facile collezionare esempi!*
+
+![Screenshot](assets/17.png)
+
+**🚀 Raccogli Altri Esempi**: Clicca sulla Bandiera Verde per raccogliere altri esempi. 
+Fallo almeno *trenta* volte!
+
+![Screenshot](assets/18.png)
+
+**🔮 Utilizza il Modello di Apprendimento**: Modifica il gruppo di blocchi `quando si clicca su [la bandiera verde]` in modo che usi `play using machine learning model` (giocan usando il modello di apprendimento automatico) invece di `play randomly` (gioca casualmente). 
+ 
+![Screenshot](assets/19.png)
+
+**🧠 Addestra un Nuovo Modello**: Aggiungi un blocco `formare un nuovo modello di apprendimento automatico` al blocco `quando si clicca su [la bandiera verde]`. 
+
+![Screenshot](assets/20.png)
+
+**🔍 Trova il gruppo di blocchi di Scelta Direzione**: Trova il gruppo di blocchi `choose direction using machine learning` (scegli la direzione usi il machine learning). 
+
+![Screenshot](assets/21.png)
+
+**🔄 Aggiorna il gruppo di blocchi per Utilizzare il Tuo Modello**: Modifica il gruppo di blocchi per utilizzare il tuo modello di machine learning.  
+*In questo modo il computer deciderà casualmente a che angolo tirare, ma sceglierà questo angolo solo se il modello di machine learning prevede che il tiro andrà a segno (hit).*
+
+![Screenshot](assets/22.png)
+
+**🕵️ Valuta l'Efficacia del Tuo Modello**: Prova qualche tiro!   
+Quanto è efficace il tuo modello di machine learning nel scegliere gli angoli che colpiranno l'insetto? **Tanto**, **poco** o **per niente**?
 
 **Cosa hai fatto finora?** Hai iniziato ad addestrare un computer per giocare a un gioco.   
-Invece di scrivere regole per farlo o calcolare l'equazione per determinare l'angolo di lancio del proiettile, lo stai facendo raccogliendo esempi.   
+Invece di scrivere regole per farlo o calcolare l'equazione per determinare l'angolo di lancio della palla, lo stai facendo raccogliendo esempi.   
 Questi esempi sono utilizzati per addestrare una Intelligenza Artificiale.  
-Il computer imparerà dai pattern negli esempi. Utilizzerà questi per fare previsioni se una posizione e un angolo porteranno a un colpo andato a segno o a un errore.  
-Poiché hai ancora i blocchi `aggiungi dati di addestramento` nel tuo gruppo di blocchi, stai ancora raccogliendo ulteriori esempi di addestramento ogni volta che giochi.   
-Questo significa che più tempo permetterai al tuo modello di Intelligenza Artificiale di giocare al gioco, più diventerà abile nel farlo.
+Il computer imparerà dagli esempi. 
+Utilizzerà questi per fare previsioni se una posizione e un angolo porteranno a un colpo andato a segno o a un errore.  
+Poiché hai ancora i blocchi `add training data` (aggiungi dati di addestramento) nel tuo gruppo di blocchi `hit` e `miss`, stai ancora raccogliendo ulteriori esempi di addestramento ogni volta che giochi.   
+Questo significa che più tempo permetterai al tuo modello di Intelligenza Artificiale di giocare al gioco, più diventerà abile nel farlo!!
 {: .notice--warning}
 
 ### Fase 6: Comprensione del Comportamento del Modello di Apprendimento Automatico
 
-> **Nota**: Questa sezione è facoltativa per i bambini sotto i 9 anni poiché richiede una conoscenza più profonda dei concetti di coordinata e angolo.
+> **Nota**: Questa sezione è **avanzata** poiché richiede una conoscenza profonda dei concetti di coordinata e angolo. Se te la senti vai avanti oppure passa alla sezione 
 
-1. **📊 Analisi degli Errori del Modello**: Quante volte il tuo modello di apprendimento automatico sta sbagliando? Se sbaglia troppo spesso, potrebbe essere perché non hai fornito abbastanza esempi di colpi andati a segno. Cambia il gioco in modalità `gioca manualmente` e usa nuovamente i tasti freccia. Raccogli altri dieci esempi di `colpo a segno`. Poi torna alla modalità `gioca usando il modello di apprendimento automatico` e verifica se ciò ha sortito effetto.
+**📊 Analisi degli Errori del Modello**: Quante volte il tuo modello di apprendimento automatico sta sbagliando (ad esempio su 10 tiri)? Se sbaglia troppo spesso (numero di errori maggiore di 7), potrebbe essere perché non hai fornito abbastanza esempi di colpi andati a segno.   
+Cambia il gioco in modalità manuale (gioca manualmente) e usa nuovamente i tasti freccia.   
+Raccogli almeno altri **dieci** colpi andati a segno.
+Poi, torna alla modalità di gioco con il modello di apprendimento automatico e verifica se è migliorato.
 
-2. **🎯 Raccolta di Esempi di Addestramento**: Continua a raccogliere esempi di addestramento fino a quando il tuo modello di apprendimento automatico non inizia a migliorare nel gioco. Quanti esempi ha richiesto il tuo modello? ![Screenshot](URL1)
+**🎯 Raccolta di Esempi di Addestramento**: Continua a raccogliere esempi di addestramento fino a quando il tuo modello di apprendimento automatico non inizia a migliorare nel gioco.   
+*Di quanti esempi ha avuto bisogno il tuo modello? (il mio ha avuto bisogno di più di 100 esempi...)* 
 
-3. **🔄 Navigazione al Progetto**: Fai clic sul collegamento `< Back to project`.
+![Screenshot](assets/23.png)
 
-4. **📚 Apprendimento e Test**: Fai clic su `Learn & Test`. ![Screenshot](URL1)
+**🔄 Navigazione al Progetto**: Fai clic su `< Ritorna ai progetti`.
 
-5. **🔍 Descrizione del Modello**: Fai clic su `Describe your model`. Questa pagina ti mostrerà un'immagine del tuo modello di apprendimento automatico. Leggi la pagina per capire cosa significa. Prova a inserire valori per la coordinata x del bug e un angolo di tiro, poi fai clic su Test per vedere come il tuo modello di apprendimento automatico fa una previsione su cosa accadrà. ![Screenshot](URL1)
+**📚 Apprendimento e Test**: Fai clic su `Impara & Testa`. 
 
-6. **🔮 Verifica delle Previsioni**: Utilizza questa visualizzazione e il gioco in Scratch in modalità `gioca manualmente` per vedere quali previsioni sta facendo il tuo modello di apprendimento automatico e se sono corrette.
+![Screenshot](assets/24.png)
+
+**🔍 Descrizione del Modello**: Fai clic su `Describe your model!`.   
+Questa pagina ti mostrerà un'immagine del tuo modello di apprendimento automatico.   
+Leggi la pagina per capire cosa significa.   
+Prova a inserire valori per la coordinata `x` e un `angle` di tiro, poi fai clic su `Prova` per vedere come il tuo modello di apprendimento automatico fa una previsione su cosa accadrà. 
+
+![Screenshot](assets/25.png)
+
+**🔮 Verifica delle Previsioni**: Utilizza questa visualizzazione e il gioco in Scratch in modalità manuale per vedere quali previsioni sta facendo il tuo modello di apprendimento automatico e se sono corrette.
 
 **Cosa Hai Fatto Finora?** In questa fase, hai addestrato un modello di apprendimento automatico noto come `albero decisionale classificatore` (*decision tree classifier*).   
 La visualizzazione ti consente di comprendere come il tuo modello effettua previsioni.   
@@ -170,12 +224,13 @@ La visualizzazione ti consente di comprendere come il tuo modello effettua previ
 
 ### È un Buon Utilizzo dell'Apprendimento Automatico?
 
-![Screenshot](URL1) 
 Riflettiamo sulle applicazioni appropriate dell'apprendimento automatico. Utilizziamo questa tecnologia quando desideriamo che i computer eseguano compiti troppo complicati per essere descritti da istruzioni esplicite.
 
 Evitiamo l'apprendimento automatico quando il tempo necessario per raccogliere esempi di addestramento supera quello per scrivere direttamente le istruzioni per il compito.
 
 Confronta lo sforzo impiegato per raccogliere gli esempi di addestramento con lo sforzo che avrebbe richiesto calcolare l'angolo di tiro. Pensi che questo gioco sia un buon uso dell'apprendimento automatico?
+
+![Screenshot](assets/26.png)
 
 E se il gioco fosse reso più difficile? Ad esempio, se ci fossero più ostacoli o se l'insetto potesse apparire a diverse altezze? Queste complicazioni renderebbero le equazioni per calcolare l'angolo di tiro molto più intricate.
 
@@ -185,17 +240,20 @@ Questo renderebbe l'apprendimento automatico un'opzione più conveniente per ges
 
 ---
 
-### Idee e Estensioni
+### Fase 7: Idee ed Estensioni
 
-Ora che hai completato il progetto, perché non provare una di queste idee, o magari inventarne una di tua iniziativa?
+Ora che hai completato il progetto, perché non provare una di queste idee, o magari crearne una tutta tua?
 
 #### Aggiungi Ostacoli Supplementari
 
-Rendi il gioco più impegnativo inserendo ulteriori ostacoli sullo schermo di gioco. Dovrai aggiornare lo gruppo di blocchi `start moving` in modo che la palla sappia da quali nuovi ostacoli rimbalzare.
+Rendi il gioco più impegnativo inserendo ulteriori ostacoli sullo schermo di gioco.  
+Dovrai aggiornare il gruppo di blocchi `start moving` in modo che la palla sappia come rimbalzare sui nuovi ostacoli.
 
 #### Utilizza le Coordinate x e y
 
-Per ridurre la quantità di addestramento necessario, abbiamo utilizzato solo una coordinata (coordinata x) permettendo all'insetto di muoversi solo da sinistra a destra. Prova a rifare il progetto consentendo all'insetto di spostarsi anche in altezza (posizione y). Dovrai aggiungere un nuovo valore numerico per memorizzare queste coordinate y quando crei il progetto di apprendimento automatico.
+Per ridurre la quantità di addestramento necessario, abbiamo utilizzato solo una coordinata (coordinata x) permettendo all'insetto di muoversi solo da sinistra a destra.  
+Prova a rifare il progetto consentendo all'insetto di spostarsi anche in altezza (posizione y).   
+Dovrai aggiungere un nuovo valore numerico per memorizzare questa coordinate quando crei il progetto di apprendimento automatico.
 
 #### Rendilo Competitivo!
 
