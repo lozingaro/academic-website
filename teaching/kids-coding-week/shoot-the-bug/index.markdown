@@ -1,5 +1,5 @@
 ---
-title: Giochiamo con l'Intelligenza Artificiale
+title: Colpisci l'Insetto
 layout: page
 ---
 
@@ -8,6 +8,9 @@ layout: page
 ## Obiettivo
 
 Imparare i concetti di base di Intelligenza Artificiale e della programmazione, creando un semplice gioco in Scratch.
+
+Puoi scaricare la versione PDF di questa attività [qui](colpisci-l-insetto.pdf).
+{: .notice--info}
 
 ## Materiale necessario
 
@@ -222,7 +225,7 @@ La visualizzazione ti consente di comprendere come il tuo modello effettua previ
 È un modo efficace per osservare quali schemi il computer ha individuato nei dati di addestramento che hai raccolto.
 {: .notice--warning}
 
-### È un Buon Utilizzo dell'Apprendimento Automatico?
+#### È un Buon Utilizzo dell'Apprendimento Automatico?
 
 Riflettiamo sulle applicazioni appropriate dell'apprendimento automatico. Utilizziamo questa tecnologia quando desideriamo che i computer eseguano compiti troppo complicati per essere descritti da istruzioni esplicite.
 
@@ -261,7 +264,7 @@ Prova ad aggiungere una variabile per tenere il punteggio e vedere se il tuo mod
 
 ---
 
-### Licenza
+## Licenza
 
 Questo foglio di progetto è distribuito sotto licenza `Creative Commons Attribution Non-Commercial Share-Alike` ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
