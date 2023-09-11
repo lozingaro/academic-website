@@ -22,7 +22,7 @@ Puoi scaricare la versione PDF di questa attività [qui](anima-viso.pdf), mentre
 
 ### Fase 1: Preparazione
 
-**🌐 Andare sul sito**: Vai su [machinelearningforkids.co.uk/pretrained](https://machinelearningforkids.co.uk/pretrained) nel tuo browser web.  
+**🌐 Andare sul sito**: Vai su [machinelearningforkids](https://machinelearningforkids.co.uk/pretrained) nel tuo browser web.  
 Questo sito mostra alcuni dei modelli di apprendimento automatico pre-addestrati che sono disponibili per te.  
 Per questo progetto, utilizzeremo il modello di rilevamento del viso.
 
