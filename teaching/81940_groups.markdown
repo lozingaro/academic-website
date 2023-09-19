@@ -9,37 +9,37 @@ permalink: /teaching/81940/groups
 
 ## Not yet examined
 
-| Name                                        | Members |
-| :------------------------------------------ | ------: |
-| DiSkinTipacchio                             |       3 |
-| THE_WALKING_DEVS                            |       2 |
-| <span style="color:red">Deep Dreamer</span> |       3 |
-| <span style="color:red">zkml</span>         |       2 |
-| <span style="color:red">GoodNight</span>    |       2 |
-| LightBulb                                   |       1 |
-| DropOut                                     |       1 |
-| SolAIsta                                    |       1 |
-| I Fantastici Quattro                        |       4 |
-| Python in my boot                           |       3 |
-| ComputerScientist                           |       1 |
-| HOPE                                        |       1 |
+| Name                                     | Members |
+| :--------------------------------------- | ------: |
+| THE_WALKING_DEVS                         |       2 |
+| Deep Dreamers                            |       3 |
+| <span style="color:red">zkml</span>      |       2 |
+| <span style="color:red">GoodNight</span> |       2 |
+| <span style="color:red">LightBulb</span> |       1 |
+| SolAIsta                                 |       1 |
+| I Fantastici Quattro                     |       4 |
+| ComputerScientist                        |       1 |
+| <span style="color:red">HOPE</span>      |       1 |
+| LearningMachines                         |       3 |
 
 ## Exam session 2022/23
 
-| Name             | Members |
-| :--------------- | ------: |
-| Medical GRM      |       4 |
-| StereotAIps      |       2 |
-| FastDTW          |       3 |
-| mAIntenance      |       4 |
-| AI miei tempi    |       3 |
-| AI-OilBoys       |       4 |
-| LearningMachines |       3 |
-| UPO              |       2 |
-| Beat Generator   |       1 |
-| OkComputer       |       1 |
-| hellofriend.mov  |       4 |
-| Erasmus          |       2 |
+| Name              | Members |
+| :---------------- | ------: |
+| Medical GRM       |       4 |
+| StereotAIps       |       2 |
+| FastDTW           |       3 |
+| mAIntenance       |       4 |
+| AI miei tempi     |       3 |
+| AI-OilBoys        |       4 |
+| UPO               |       2 |
+| Beat Generator    |       1 |
+| OkComputer        |       1 |
+| hellofriend.mov   |       4 |
+| Erasmus           |       2 |
+| DiSkinTipacchio   |       3 |
+| Python in my boot |       3 |
+| DropOut           |       1 |
 
 ## Exam session 2021/22
 
