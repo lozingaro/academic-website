@@ -22,8 +22,8 @@ title: stefano zingaro
 email: stefano.zingaro@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
   academic web page for sharing resources
-baseurl: "/~stefanopio.zingaro" # the subpath of your site, e.g. /blog
-url: "https://cs.unibo.it" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/~zingaro" 
+url: "https://cs.unibo.it" 
 
 # Build settings
 theme: minima
