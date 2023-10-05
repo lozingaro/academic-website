@@ -1,7 +1,7 @@
 ---
-Layout: Page
-Title: Machine Learning for Business
-Permalink: /teaching/bbs-ml/
+layout: page
+title: Machine Learning for Business
+permalink: /teaching/bbs-ml/
 ---
 
 ### Course Overview:
