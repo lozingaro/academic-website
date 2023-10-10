@@ -12,7 +12,6 @@ permalink: /teaching/81940/groups
 | Name                                     | Members |
 | :--------------------------------------- | ------: |
 | THE_WALKING_DEVS                         |       2 |
-| Deep Dreamers                            |       3 |
 | <span style="color:red">zkml</span>      |       2 |
 | <span style="color:red">GoodNight</span> |       2 |
 | <span style="color:red">LightBulb</span> |       1 |
@@ -26,6 +25,7 @@ permalink: /teaching/81940/groups
 
 | Name              | Members |
 | :---------------- | ------: |
+| Deep Dreamers     |       3 |
 | Medical GRM       |       4 |
 | StereotAIps       |       2 |
 | FastDTW           |       3 |

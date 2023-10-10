@@ -6,7 +6,7 @@ permalink: /teaching/bbs-ml/
 
 ### Course Overview:
 
-This course, part of the Executive Master in AI for Business programme, is designed to provide participants with a solid understanding of machine learning (ML) methods and their applications in various business domains. It goes beyond traditional learning paradigms to include hybrid models and specialised data representations. Divided into three intensive lectures, the course covers the fundamentals of machine learning, advanced business analytics tools and ethical considerations, all underpinned by real-world case studies. 
+This course is an integral part of the Executive Master in AI for Business programme and aims to provide participants with a comprehensive understanding of machine learning methodologies and their applicability in various business sectors. Consisting of three intensive lectures, the course covers fundamental machine learning principles, advanced learning paradigms, different data representations, and essential business analytics tools. The course also includes real-world case studies to ensure practical applicability. 
 
 ### Course Objectives:
 
