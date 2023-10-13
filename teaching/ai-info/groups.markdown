@@ -16,10 +16,10 @@ permalink: /teaching/81940/groups
 | <span style="color:red">GoodNight</span> |       2 |
 | <span style="color:red">LightBulb</span> |       1 |
 | SolAIsta                                 |       1 |
-| I Fantastici Quattro                     |       4 |
 | ComputerScientist                        |       1 |
 | <span style="color:red">HOPE</span>      |       1 |
 | LearningMachines                         |       3 |
+| Waste Detection                          |       3 |
 
 ## Exam session 2022/23
 
