@@ -15,7 +15,7 @@ header_pages:
   - contact.markdown
   - teaching.markdown
   - publications.markdown
-  # - talks.markdown
+  - talks.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
