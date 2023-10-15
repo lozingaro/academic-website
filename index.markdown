@@ -15,4 +15,4 @@ He specializes in programming languages, artificial intelligence, and he is inte
 
 <!-- ## Erdös Number -->
 
-Stefano P. Zingaro has an Erdös number of `4` (via [Martini](//www.cs.unibo.it/~martini/index.html) to [Scedrov](//www.cis.upenn.edu/~scedrov/) to [Blass](//www.math.lsa.umich.edu/~ablass/) to [Erdös](//en.wikipedia.org/wiki/Paul_Erd%C5%91s)).
+Stefano Zingaro has an Erdös number of `4` (via [Martini](//www.cs.unibo.it/~martini/index.html) to [Scedrov](//www.cis.upenn.edu/~scedrov/) to [Blass](//www.math.lsa.umich.edu/~ablass/) to [Erdös](//en.wikipedia.org/wiki/Paul_Erd%C5%91s)).
