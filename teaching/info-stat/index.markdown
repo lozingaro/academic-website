@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informatica
-permalink: /teaching/07276/
+permalink: /teaching/info-stat/
 ---
 
 ## Official Course Program

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intelligenza Artificiale
-permalink: /teaching/81940/
+permalink: /teaching/ai-info/
 ---
 
 Welcome to the Artificial Intelligence (AI) project page for the Master's degree program in Computer Science at the University of Bologna.

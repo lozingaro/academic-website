@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistemi Operativi
-permalink: /teaching/08574/
+permalink: /teaching/so-infoman/
 ---
 
 **Want to share your notes?** Send me the link with a description.
