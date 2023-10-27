@@ -23,12 +23,12 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 - Email subject: **GRUPPO AI**
 - Include: Group name, member names, IDs, contact email.
 
-For those seeking a group or individual students, visit the [group list page](groups) for contact info and existing group details.
+For those seeking a group, visit the [group list page](groups) for contact info and existing group details.
 
 ## Project Structure
 
 - Projects can be proposed by groups or course instructors.
-- Instructors' proposals are guidelines (problems, tasks, datasets).
+- Instructors' proposals are **just** general guidelines (problems, tasks, datasets).
 - Check the [proposals page](../proposals) for instructor-proposed projects.
 
 ## Evaluation Process
