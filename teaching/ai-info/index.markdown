@@ -59,6 +59,7 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 - Prepare a script for automated testing.
 - Can include screenshots or additional material.
 - Integration with code is optional.
+- Useful for further publication of the project on the web, e.g. on [GitHub](http://github.com).
 
 ## Project Discussion
 
