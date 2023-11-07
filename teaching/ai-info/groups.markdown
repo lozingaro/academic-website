@@ -20,6 +20,7 @@ permalink: /teaching/81940/groups
 | <span style="color:red">HOPE</span>      |       1 |
 | LearningMachines                         |       3 |
 | Waste Detection                          |       3 |
+| Polidori                                 |       1 |
 
 ## Exam session 2022/23
 
