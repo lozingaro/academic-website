@@ -3,7 +3,7 @@ layout: page
 # title: home
 ---
 
-![logo](assets/images/logo.png){:.thumbnail}
+![logo](assets/img/logo.png){:.thumbnail}
     
 Stefano (Pio) Zingaro is Junior Assistant Professor of Computer Science at the [Department of Computer Science and Engineering](//www.cse.unibo.it/en), [University of Bologna](//www.unibo.it/en). 
 
