@@ -24,7 +24,7 @@ The data were categorised into dropout and non-dropout groups.
 #### Results
 The analysis revealed significant differences in all three academic measures between dropouts and non-dropout students across all years. 
 Key findings include:
-- **Average exam grades**: Dropout students consistently had lower average exam grades than their counterparts.
+- **Average exam grades**: Dropout students consistently had lower average exam grades than their counterparts. Note that many students who dropped out did not take exams and were awarded a grade of 0 (and thus the average mark is low).
 ![Average exam grades](../../assets/img/academic-risk/avg-exam-grades.png)
 - **Number of Honours**: Where data was reliable (2018-2020), students who dropped out were awarded fewer honours.
 ![Number of Honours](../../assets/img/academic-risk/number-of-honours.png)
