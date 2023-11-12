@@ -17,7 +17,7 @@ This study analyses historical data from 2016 to 2020, focusing on the relations
 
 #### Methodology
 The datasets for each year included variables such as age at enrolment, gender, type of school, geographical location, economic class and key academic performance indicators. 
-The study focused on three variables: average exam grades, number of honours and total ECTS credits. 
+The study focused on three variables: average exam grades, number of honours and total ECTS credits at the end of the first year of enrolment. 
 The data were categorised into dropout and non-dropout groups. 
 *Welch's t-tests* were used to compare means between these groups, taking into account unequal variances and sample sizes.
 
