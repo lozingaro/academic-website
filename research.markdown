@@ -4,11 +4,11 @@ title: research
 permalink: /research/
 ---
 
-Welcome to my research page, where I share information about my ongoing scientific research and projects.
+Welcome to my research page, where I share information about my scientific research and projects.
 
 ### Ongoing Projects 
 
-* [Academic risk](academic-risk)
+* Analysis and prevention of early school leaving. Specifically, I conducted some [preliminary analyses to identify possible relevant factors](academic-risk/preliminar), and after interpreting the results, I posed some research questions. The first question is whether it is possible to use these factors to construct a reliable predictive tool for dropout (and we discuss the meaning of reliability :)). A second question concerns the possibility of [detecting significant differences in the study paths of students](academic-risk/path-analysis) who manage to obtain a minimum number of educational credits. 
 
 <!-- ### Completed Projects -->
 
