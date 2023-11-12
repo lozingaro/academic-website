@@ -24,15 +24,12 @@ The data were categorised into dropout and non-dropout groups.
 #### Results
 The analysis revealed significant differences in all three academic measures between dropouts and non-dropout students across all years. 
 Key findings include:
-- **Average exam grades**: Dropout students consistently had lower average exam grades than their counterparts (Figure 1).
+- **Average exam grades**: Dropout students consistently had lower average exam grades than their counterparts.
+![Average exam grades](../../assets/img/academic-risk/avg-exam-grades.png)
 - **Number of Honours**: Where data was reliable (2018-2020), students who dropped out were awarded fewer honours.
-- **Total ECTS credits**: Dropout students consistently earned fewer ECTS credits (Figure 2).
-
-![Average exam grades](../assets/img/academic-risk/avg-exam-grades.png){: .center-image }
-*Figure 1: Average exam grades for dropout and non-dropout students.*
-
-![Total ECTS credits](../assets/img/academic-risk/total-ects-credits.png){: .center-image }
-*Figure 2: Total ECTS credits for dropout and non-dropout students.*
+![Number of Honours](../../assets/img/academic-risk/number-of-honours.png)
+- **Total ECTS credits**: Dropout students consistently earned fewer ECTS credits.
+![Total ECTS credits](../../assets/img/academic-risk/total-ects-credits.png)
 
 #### Discussion
 The results underline the strong correlation between academic performance and dropout rates. 
