@@ -47,11 +47,13 @@ This study aims to reveal if there are notable differences in the subjects chose
 
 #### Dataset Description
 
-1. **StudentID**: Unique pseudo-identifier for each student.
-2. **AcademicYear**: Academic year of enrollment.
-3. **SubjectID**: Unique identifier for each subject/course.
-4. **Credits**: ECTS credits associated with the specific course.
-5. **ExamDate**: Date when the exam for the course was taken.
-6. **Grade**: Grade obtained in the course exam.
-7. **ProgramID**: Identifier for the program in which the student is enrolled.
+1. **StudentID**: Unique pseudo-identifier for each student
+2. **Gender**: Declared gender of the student at enrolment
+3. **AcademicYear**: Academic year of enrollment
+4. **SubjectID**: Unique identifier for each subject/course
+5. **Credits**: ECTS credits associated with the specific course
+6. **ExamDate**: Date when the exam for the course was taken
+7. **Grade**: Grade obtained in the course exam
+8. **ProgramID**: Identifier for the program in which the student is enrolled
+
 
