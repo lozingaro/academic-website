@@ -42,3 +42,16 @@ This study aims to explore the academic choices and patterns of university stude
 #### Expected Outcome
 
 This study aims to reveal if there are notable differences in the subjects chosen and their sequence between students with different credit loads, and whether these patterns hold true across various cohorts. Insights from this study could inform strategies in academic advising, curriculum development, and student support services.
+
+---
+
+#### Dataset Description
+
+1. **StudentID**: Unique pseudo-identifier for each student.
+2. **AcademicYear**: Academic year of enrollment.
+3. **SubjectID**: Unique identifier for each subject/course.
+4. **Credits**: ECTS credits associated with the specific course.
+5. **ExamDate**: Date when the exam for the course was taken.
+6. **Grade**: Grade obtained in the course exam.
+7. **ProgramID**: Identifier for the program in which the student is enrolled.
+
