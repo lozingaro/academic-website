@@ -8,7 +8,7 @@ Welcome to my research page, where I share information about my scientific resea
 
 ### Ongoing Projects
 
-* Analysis and prevention of school dropout. Specifically, I conducted some [preliminary analyses to identify possible relevant factors](academic-risk/preliminary), and after interpreting the results, I posed some research questions. The first question is whether it is possible to use these factors to construct a reliable predictive tool for dropout (and we discuss the meaning of reliability :)). A second question concerns the possibility of detecting significant differences in the study paths of students who manage to obtain a minimum number of educational credits. I focused on a specific case study from my university and [published the analysis here](academic-risk/8009).
+* Analysis and prevention of school dropout. Specifically, I conducted some [preliminary analyses to identify possible relevant factors](academic-risk/preliminary), and after interpreting the results, I posed some research questions. The first question is whether it is possible to use these factors to construct a reliable predictive tool for dropout (and we discuss the meaning of reliability :)). A second question concerns the possibility of detecting significant [differences in the study paths of students](academic-risk/path-analysis) who manage to obtain a minimum number of educational credits.
 
 <!-- ### Completed Projects -->
 
