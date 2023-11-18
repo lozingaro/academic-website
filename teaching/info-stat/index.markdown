@@ -6,7 +6,7 @@ permalink: /teaching/07276
 
 ## Official Course Program
 
-- Materiale su virtuale.unibo.it
+- Materiale su [virtuale.unibo.it](https://virtuale.unibo.it)
 
 ## Course Overview
 
