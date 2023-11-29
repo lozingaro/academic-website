@@ -10,7 +10,7 @@ permalink: /teaching/
 ### Courses taught in 2023
 
 <!-- * [Informatica](info-stat), First cycle degree programme (L) in Statistics, University of Bologna -->
-<!-- * [Machine Learning](ml-bbs), [Executive Master in Artificial Intelligence for Business](https://www.bbs.unibo.eu/master-executive/artificial-intelligence-for-business), Bologna Business School -->
+* [Machine Learning](ml-bbs), [Executive Master in Artificial Intelligence for Business](https://www.bbs.unibo.eu/master-executive/artificial-intelligence-for-business), Bologna Business School
 * [Intelligenza Artificiale](ai-info), Second cycle degree programme (LM) in Computer Science, University of Bologna
 * [Intelligenza Artificiale](kids-coding-week), Bologna Business School [kids coding week](https://www.bbs.unibo.eu/kids-coding-week/)
 * [Introduzione al Machine Learning](https://github.com/lozingaro/asai-er-ml) (Modulo I), [Advanced School on Artificial Intelligence](https://asai-er.github.io)
