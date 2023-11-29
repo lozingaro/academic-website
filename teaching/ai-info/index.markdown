@@ -18,7 +18,7 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 
 ## Group Management
 
-- Each group consists of 1 to 4 members.
+- Each group consists of 2 to 3 members. Exceptional cases (e.g., groups consisting of 1 member) can be discussed with the tutor.
 - To participate in the exam, communicate your group composition via email to the [tutor](mailto:stefanopio.zingaro@unibo.it).
 - Email subject: **GRUPPO AI**
 - Include: Group name, member names, IDs, contact email.

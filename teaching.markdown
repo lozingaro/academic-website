@@ -19,10 +19,10 @@ permalink: /teaching/
 
 ### Student opinions on teaching
 
-* Academic year 2022/2023: 
+* Academic year 2022/2023:
   * Laboratorio di Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20222497664.pdf)
   * Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20222497120.pdf)
-* Academic year 2019/2020: 
+* Academic year 2019/2020:
   * Sistemi Operativi, Modulo 2 (CdS 8014), [PDF](../assets/pdf/Resoconto-20192460892.pdf)
 
 <!-- ### Previous Years' Courses -->
