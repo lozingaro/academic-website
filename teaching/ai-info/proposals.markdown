@@ -1,7 +1,7 @@
 ---
 layout: page
 title: proposals
-permalink: /teaching/proposals/
+permalink: /teaching/ai-info/proposals
 ---
 
 In this section you will find a curated list of project proposals for integration into coursework or as a thesis or dissertation topic.

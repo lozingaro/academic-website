@@ -19,9 +19,9 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 ## Group Management
 
 - Each group consists of 2 to 3 members. Exceptional cases (e.g., groups consisting of 1 member) can be discussed with the tutor.
-- To participate in the exam, communicate your group composition via email to the [tutor](mailto:stefanopio.zingaro@unibo.it).
+- To participate in the exam, communicate your group composition via email to [me](mailto:stefanopio.zingaro@unibo.it).
 - Email subject: **GRUPPO AI**
-- Include: Group name, member names, IDs, contact email.
+- Include: Group name, member names, IDs (matricola), contact email.
 
 For those seeking a group, visit the [group list page](groups) for contact info and existing group details.
 
@@ -29,13 +29,14 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 
 - Projects can be proposed by groups or course instructors.
 - Instructors' proposals are **just** general guidelines (problems, tasks, datasets).
-- Check the [proposals page](../proposals) for instructor-proposed projects.
+- Check the [proposals page](proposals) for instructor-proposed projects.
 
 ## Evaluation Process
 
 - Two components: written report and code implementation.
 - Evaluation through an oral exam discussing the project.
 - All group members participate in discussing the project.
+- Evaluation is sufficient if a correct experimental approach is followed. Grade depends on the effort and quality of the work.
 
 ## Report Guidelines
 
@@ -45,14 +46,17 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 
 ## Implementation
 
-- Use preferred technologies for development.
+- Use preferred technologies for development, such as Java, Python or MiniZinc.
 - Use `git` for project management.
-- Store code on [GitLab](http://gitlab.com) using the provided procedure.
+- Store code on [GitLab](http://gitlab.com):
+  1. Request access to the [AI Lab CS LM group](https://gitlab.com/ai_lab_cs_lm/2023_2024).
+  2. Fork the [provided template repository](https://gitlab.com/ai_lab_cs_lm/2023_2024/ai_course_template.git).
+  3. Manage --> Members --> Invite members --> Add username `@dezingaro` --> Select role `Reporter` --> Invite.
 
 ## Submission
 
 1. Create a `Tag` named **Consegna** on GitLab.
-2. Notify the [tutor](mailto:stefanopio.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME**.
+2. Notify [me](mailto:stefanopio.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME** to arrange the project discussion.
 
 ## Demo
 
@@ -71,7 +75,7 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 
 A set of `Python` notebooks that can be used as a starting point for teaching machine learning:
 
-* [Linear Regression with Gradient Descent](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/linear-regression-w-gradient-descent.ipynb)
-* [The Neural Network](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/nn-rulez.ipynb)
-* [The Perceptron](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/percettrone.ipynb)
-* [PyTorch Basics Tutorial](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/pytorch_classification_framework.ipynb)
+- [Linear Regression with Gradient Descent](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/linear-regression-w-gradient-descent.ipynb)
+- [The Neural Network](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/nn-rulez.ipynb)
+- [The Perceptron](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/percettrone.ipynb)
+- [PyTorch Basics Tutorial](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/pytorch_classification_framework.ipynb)

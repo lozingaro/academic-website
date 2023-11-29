@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Groups for the AI Course
-permalink: /teaching/81940/groups
+permalink: /teaching/ai-info/groups
 ---
 
-**The color of your group name is <span style="color:red">red</span>?** Then, you have not correctly added the user `dezingaro` as `Reporter` of the project on `GitLab`, or there are problems with the registration of your group. Please, [contact me](mailto:stefano.zingaro@unibo.it) as soon as possible. 
+**The color of your group name is <span style="color:red">red</span>?** Then, you have not correctly added the user `dezingaro` as `Reporter` of the project on `GitLab`, or there are problems with the registration of your group. If this is the case, please, [contact me](mailto:stefano.zingaro@unibo.it) as soon as possible.
 {: .notice--warning}
 
-## Not yet examined
+## Registered, not yet examined
 
 | Name                                     | Members |
 | :--------------------------------------- | ------: |
