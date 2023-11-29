@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 ---
 
-**Looking for a topic for your project/thesis or want to propose one?** Check out [this page](proposals) and contact me!
+**Looking for a topic for your project/thesis or want to propose one?** Contact me!
 {: .notice--warning}
 
 ### Courses taught in 2023
