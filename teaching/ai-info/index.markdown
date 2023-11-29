@@ -19,7 +19,7 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 ## Group Management
 
 - Each group consists of 2 to 3 members. Exceptional cases (e.g., groups consisting of 1 member) can be discussed with the tutor.
-- To participate in the exam, communicate your group composition via email to [me](mailto:stefanopio.zingaro@unibo.it).
+- To participate in the exam, communicate your group composition via email to [me](mailto:stefano.zingaro@unibo.it).
 - Email subject: **GRUPPO AI**
 - Include: Group name, member names, IDs (matricola), contact email.
 
@@ -56,7 +56,7 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 ## Submission
 
 1. Create a `Tag` named **Consegna** on GitLab.
-2. Notify [me](mailto:stefanopio.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME** to arrange the project discussion.
+2. Notify [me](mailto:stefano.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME** to arrange the project discussion.
 
 ## Demo
 
