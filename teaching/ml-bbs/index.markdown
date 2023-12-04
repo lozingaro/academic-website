@@ -4,91 +4,70 @@ title: Machine Learning for Business
 permalink: /teaching/ml-bbs/
 ---
 
-### Course Overview
+This course, an integral part of the Executive Master in AI for Business program, aims to provide participants with a comprehensive understanding of machine learning methodologies and their applicability in various business sectors. The course includes three intensive lectures covering fundamental machine learning principles, advanced learning paradigms, different data representations, and essential business analytics tools, supplemented with real-world case studies.
 
-This course is an integral part of the Executive Master in AI for Business programme and aims to provide participants with a comprehensive understanding of machine learning methodologies and their applicability in various business sectors. Consisting of three intensive lectures, the course covers fundamental machine learning principles, advanced learning paradigms, different data representations, and essential business analytics tools. The course also includes real-world case studies to ensure practical applicability.
+## Instructor
 
-### Course Objectives
+**Professor Stefano Zingaro**  
+University of Bologna  
+Email: [stefano.zingaro@unibo.it](mailto:stefano.zingaro@unibo.it)  
+Office Hours: By appointment
 
-1. **Understand the evolution of AI and ML**: Situate machine learning within the broader landscape of artificial intelligence, covering both the historical context and the intersections of subfields.
-  
-2. **Master Advanced Learning Paradigms**: Gain a nuanced understanding of not only supervised and unsupervised learning, but also hybrid models, multi-instance learning, and self-supervised learning.
-  
-3. **Differentiating Data Representations**: Equip students with the knowledge to effectively handle different forms of data, such as tabular, pixel, token, and audio data, in ML algorithms.
+## Teaching Methods
 
-4. **Operationalising Business Analytics Tools**: Provide an overview of programming languages, libraries, and GUI-based tools relevant to machine learning in business analytics.
+- Theoretical background and interactive lectures
+- Case studies focusing on recent business scenarios
+- Hands-on labs using tools like Python and GUI-based applications
+- Teamwork and collaboration on specific assignments
+- Guest speaker lectures from industry experts
 
-5. **Integrate Ethical Considerations**: Engage in informed discussions about the ethical implications of machine learning in business, illustrated by a case study on student retention.
+## Pre-Course Readings
 
-6. **Applying ML in Business Decision Making**: Through mini-cases and hands-on demonstrations, enable participants to apply machine learning techniques to solve real-world business challenges, including customer profiling and retention.
+- "Introduction to Machine Learning" - [Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+- "Machine Learning in Business: An Overview" - [Forbes](https://www.forbes.com/advisor/business/software/ai-in-business)
+- "Critical Perspectives on Machine Learning" - [Critical Field Guide to Machine Learning](https://knowingmachines.org/critical-field-guide)
+- "Understanding AI and its Broad Impacts" - [Anatomy of an AI System](https://anatomyof.ai)
 
-7. **Facilitate Informed Decision Making**: Explore the role of machine learning in cost-benefit analyses and decision trees, with a focus on optimising business outcomes.
+## Intended Learning Outcomes (ILOs)
 
-Upon completion of this course, students will be well prepared to make informed decisions regarding the implementation and ethical considerations of machine learning in business environments.
+- Comprehensive technical mastery of AI and ML techniques
+- Hands-on experience with diverse AI and ML applications
+- Integration of AI and ML into business processes
+- Assessment of the business impact of AI
+- Ethical considerations in AI implementation
 
-### Lecture 1: Introduction to Machine Learning for Business
+## Class Schedule and Assignments
 
-#### Review of AI fundamentals relevant to ML
+### Session 1: Introduction to Machine Learning in Business
 
-- A brief summary of the history of AI: Where machine learning fits into the broader AI landscape.
-- Types of AI: Clarifying the subfields of AI, with an emphasis on machine learning and its intersection with natural language processing and robotics.
+- **Date**: December 12, 2023 – 18:30 – 21:30
+- **Location**: Online - Microsoft Teams
+- **Content**: Introduction to the course, overview of machine learning types and business applications, discussion of advanced learning paradigms and data representation, the role of machine learning in modern business decision-making.
+- **Case Study**: Predictive Analytics for Customer Retention in a Retail Business.
+- **Assignment**: Individual reflection on how machine learning can impact the participant’s current business role. Due: Second lecture.
 
-#### Advanced learning paradigms and data representation
+### Session 2: Machine Learning Tools and Techniques in Business
 
-- **Classical Paradigms**: A discussion of the differences between supervised and unsupervised learning, with examples of each.
-- **Advanced Paradigms**: Introduction to hybrid models, multi-instance learning and self-supervised learning, with examples of where these are most effective.
-- **Data Representation**: Discuss how different types of data - tabular, image-based (pixels), text-based (tokens), and audio - are handled differently in machine learning algorithms. For example, convolutional neural networks for images, recurrent neural networks for sequential data, etc.
+- **Date**: December 14, 2023 – 18:30 – 21:30
+- **Location**: Online - Microsoft Teams
+- **Content**: Business Analytics Tools, practical application of ML in business analytics, case study analysis and group discussion, Machine Learning Tools Workshop.
+- **Guest Speaker**: Mirko Savasta, Head of Quant Research @ Axyon AI
+- **Case Study**: Customer Profiling in a BMW Car Dealership.
+- **Assignment**: Analysis of the BMW dealership case study. Due: Start of Lecture 3.
 
-#### Importance of Machine Learning in Business
+### Session 3: Machine Learning in Decision Making and Explainability
 
-- Automation and predictive analytics: Discuss how machine learning brings benefits to various business functions, including automating repetitive tasks and predicting future business metrics.
+- **Date**: December 19, 2023 – 18:30 – 21:30
+- **Location**: Online - Microsoft Teams
+- **Content**: Decision trees and ensemble methods, introduction to explainability in machine learning, fairness, accountability, and transparency in ML.
+- **Supplementary Reading**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [arXiv](https://arxiv.org/abs/1602.04938)
+- **Case Study**: Explainable AI in Predicting Student Retention.
+- **Assignment**: Team proposal for an explainable AI project addressing a specific business problem. Due: End of the course.
 
-#### Mini-Case: Predictive analytics to prevent customer churn in a retail business
+## Plagiarism Policy
 
-**Case introduction:**.
-Introduces a retail company struggling with the problem of customer churn. The company collects customer data including purchase history, demographic information and online activity.
+Refer to the [plagiarism policy](https://www.unibo.it/en/teaching/enrolment-transfer-and-final-examination/final-examination-and-guarantee-of-originality/guarantee-of-originality/guarantee-of-originality) details page for the University of Bologna.
 
-**Aims:**
+## Disclaimer
 
-1. To predict which customers are likely to leave in the near future.
-2. Understand the key factors contributing to customer churn.
-
-### Lecture 2: Data-driven business models and unsupervised learning
-
-#### Reinforcement of concepts from From Data to Value
-
-- Data pre-processing: Explain techniques such as data cleaning and normalisation.
-- Feature Engineering: Discuss how optimal feature selection improves model performance.
-
-#### Business Analytics Tools
-
-- **Programming Languages**: A brief comparison of Python and R in the context of machine learning applications in business.
-- **Libraries**: Introduction to libraries designed for machine learning tasks, with a particular focus on scikit-learn, PyTorch from Meta, and TensorFlow from Google. Highlighting the unique strengths and typical use cases of each.
-- **GUI tools**: Briefly introduce GUI tools such as WEKA, Orange3, and Google's Teachable Machine, and discuss their usefulness for rapid prototyping or for those less familiar with programming.
-  
-- **Hands-on Demo**: Depending on the expected skill level of the attendees, a live coding session or a GUI-based demonstration could be conducted. The choice of tool for the demo would depend on its relevance to the customer profiling mini-case discussed later in the session.
-
-#### Mini-Case: Customer profiling in a BMW dealership
-
-- Introducing the case: Provide context for the study, outline the problem statement and the business implications of customer profiling.
-- Literature review: Summarise the methodology and findings of the selected research case on customer profiling in a BMW dealership.
-- Algorithmic approach: Explain the unsupervised algorithms, possibly k-means clustering or hierarchical clustering, used in the study for customer segmentation.
-- Business Insights: Discuss how the dealership could use these profiles for targeted marketing, inventory planning, and customer relationship management.
-
-### Lecture 3: Machine Learning in Decision Making and Ethical Considerations
-
-#### Introductory Concepts
-
-- Decision trees and ensemble methods: Introduction and business applications.
-- Cost-benefit analysis: How machine learning informs decisions based on predicted outcomes and associated costs.
-
-#### Ethical implications of machine learning
-
-- Fairness, accountability and transparency: Discuss ethical considerations when implementing machine learning models in business settings.
-
-#### Mini-Case: Ethical Implications of Student Retention Models
-
-- **Case Introduction**: Outline your personal study focused on student retention, setting the context and problem statement.
-- **Methodological approach**: Brief description of the algorithms or techniques used in your study.
-- **Ethical Concerns**: Discuss the ethical implications of different interventions - from individual to contextual - and their different impacts on student retention.
-- **Discussion**: Facilitate a conversation about how similar ethical considerations might arise in business scenarios, especially when machine learning models directly impact human behaviour or outcomes.
+The information in this syllabus may be subject to moderate changes. Any modifications will be communicated to students.
