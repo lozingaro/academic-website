@@ -29,17 +29,13 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
 
 - **Materiale Supplementare:** Per una comprensione più approfondita e per esercitazioni pratiche, consulta i [Gists](https://gist.github.com/) contenenti [notebook Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html), utili per seguire le lezioni in laboratorio e per esercizi autonomi.
 
-Per organizzare efficacemente le sezioni riguardanti le specifiche lezioni del corso, ogni lezione può essere presentata come un'entità separata, con una breve descrizione e un link al corrispondente Notebook Python ospitato su GitHub Gist. Ecco una proposta per la strutturazione di queste sezioni:
-
----
-
 ## Dettagli delle Lezioni e Risorse Correlate
 
 ### Lezione 1: Introduzione
 
 - **Data:** 5 dicembre 2023
 - **Argomenti Trattati:** Introduzione al problema, proposta e metodo.
-- **Notebook Python:** [Introduzione all'IA](https://gist.github.com/link-alla-lezione-1)
+- **Notebook Python:** <script src="https://gist.github.com/lozingaro/1c6ba2b614f990d702e96f6da5c81e08.js"></script>
 
 ### Materiali Aggiuntivi e Risorse di Apprendimento
 
