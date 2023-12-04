@@ -73,9 +73,4 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 
 ## Extra content for the course
 
-A set of `Python` notebooks that can be used as a starting point for teaching machine learning:
-
-- [Linear Regression with Gradient Descent](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/linear-regression-w-gradient-descent.ipynb)
-- [The Neural Network](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/nn-rulez.ipynb)
-- [The Perceptron](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/percettrone.ipynb)
-- [PyTorch Basics Tutorial](https://vscode.dev/github/lozingaro/lozingaro.github.io/blob/main/assets/src/pytorch_classification_framework.ipynb)
+<script src="https://gist.github.com/lozingaro/4062dd8d358156bca329f9cc3379d4ef.js"></script>
