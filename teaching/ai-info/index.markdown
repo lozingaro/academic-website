@@ -4,73 +4,53 @@ title: Intelligenza Artificiale
 permalink: /teaching/ai-info/
 ---
 
-Welcome to the Artificial Intelligence (AI) project page for the Master's degree program in Computer Science at the University of Bologna.
+## Pagina ufficiale del corso
 
-- [Group Management](#group-management)
-- [Project Structure](#project-structure)
-- [Evaluation Process](#evaluation-process)
-- [Report Guidelines](#report-guidelines)
-- [Implementation](#implementation)
-- [Submission](#submission)
-- [Demo](#demo)
-- [Project Discussion](#project-discussion)
-- [Extra content for the course](#extra-content-for-the-course)
+- [Programma del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/479022).
+- Materiale su [virtuale.unibo.it](https://virtuale.unibo.it/course/view.php?id=55088).
 
-## Group Management
+## Course Overview
 
-- Each group consists of 2 to 3 members. Exceptional cases (e.g., groups consisting of 1 member) can be discussed with the tutor.
-- To participate in the exam, communicate your group composition via email to [me](mailto:stefano.zingaro@unibo.it).
-- Email subject: **GRUPPO AI**
-- Include: Group name, member names, IDs (matricola), contact email.
+Al termine del modulo, la/lo studentessa/e è in grado di applicare il metodo scientifico sperimentale per confermate/confutare una tesi di partenza sfruttando algoritmi di Intelligenza Artificiale.
 
-For those seeking a group, visit the [group list page](groups) for contact info and existing group details.
+## Libro di testo
 
-## Project Structure
+Non esistono libri di testo obbligatori per il modulo.
+Viene consigliata la consultazione (gratuita) del seguente testo:
 
-- Projects can be proposed by groups or course instructors.
-- Instructors' proposals are **just** general guidelines (problems, tasks, datasets).
-- Check the [proposals page](proposals) for instructor-proposed projects.
+```bibtex
+@book{zhang2023dive,
+    title={Dive into Deep Learning},
+    author={Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.},
+    publisher={Cambridge University Press},
+    note={\url{https://D2L.ai}},
+    year={2023}
+}
+```
 
-## Evaluation Process
+Il testo è disponibile gratuitamente online al link [https://d2l.ai/](https://d2l.ai/).
 
-- Two components: written report and code implementation.
-- Evaluation through an oral exam discussing the project.
-- All group members participate in discussing the project.
-- Evaluation is sufficient if a correct experimental approach is followed. Grade depends on the effort and quality of the work.
+## Laboratorio
 
-## Report Guidelines
+- The laboratory takes place in the same room as the lectures, with laptops provided for students.
+- It is recommended to install Python via [Thonny](https://thonny.org/), a self-contained Python environment.
+- All course and lab materials are available on [Moodle](https://virtuale.unibo.it/).
 
-- No length limits, 12pt font, any preferred format (e.g., `lateX`, `docx`).
-- Follow the [report template](../report) structure.
-- Submit as a PDF file named `REPORT_AI.pdf`.
+## Esame
 
-## Implementation
+L'esame consiste in una discussione di gruppo circa lo sviluppo del progetto.
+L'esame è valido sia per il modulo I che per il modulo II.
+Maggiori informazioni sono disponibili nella [pagina dedicata al progetto](project).
 
-- Use preferred technologies for development, such as Java, Python or MiniZinc.
-- Use `git` for project management.
-- Store code on [GitLab](http://gitlab.com):
-  1. Request access to the [AI Lab CS LM group](https://gitlab.com/ai_lab_cs_lm/2023_2024).
-  2. Fork the [provided template repository](https://gitlab.com/ai_lab_cs_lm/2023_2024/ai_course_template.git).
-  3. Manage --> Members --> Invite members --> Add username `@dezingaro` --> Select role `Reporter` --> Invite.
+## Contenuti utili per il corso
 
-## Submission
+Durante le lezioni, verranno presentati i concetti in forma di laboratorio.
+Il contenuto delle lezioni viene messo a disposizione degli studenti come [Gists](https://gist.github.com/) di [notebook Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) scritti in Python.
 
-1. Create a `Tag` named **Consegna** on GitLab.
-2. Notify [me](mailto:stefano.zingaro@unibo.it) with subject: **CONSEGNA AI - GROUP NAME** to arrange the project discussion.
+### Lezione del 5 dicembre 2024
 
-## Demo
+<script src="https://gist.github.com/lozingaro/1c6ba2b614f990d702e96f6da5c81e08.js"></script>
 
-- Prepare a script for automated testing.
-- Can include screenshots or additional material.
-- Integration with code is optional.
-- Useful for further publication of the project on the web, e.g. on [GitHub](http://github.com).
-
-## Project Discussion
-
-- Evaluation includes report analysis and code implementation.
-- Exam date based on GitLab `Tag` creation.
-- Exam date and details will be scheduled after submission.
-
-## Extra content for the course
+## Contenuti extra per il corso
 
 <script src="https://gist.github.com/lozingaro/4062dd8d358156bca329f9cc3379d4ef.js"></script>

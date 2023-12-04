@@ -10,7 +10,7 @@ permalink: /teaching/07276
 
 ## Course Overview
 
-The Informatica course is part of the Laurea in Matematica degree and consists of the main course (taught by Prof. Simone Martini) along with a laboratory course. For students of Filosofia, the course is adapted from the CdL in Matematica and is held in the second semester. Students are not required to take the programming test, but they are welcome to attend the laboratory.
+The Informatica course is part of the Laurea in Matematica degree and consists of the main course  along with a laboratory course. The course is taught in Italian.
 
 ## Textbooks
 
@@ -45,7 +45,7 @@ The two parts must be completed in the same examination session.
 
 ### Programming Test
 
-- Conducted on EOL.unibo.it with PC access.
+- Conducted on [eol.unibo.it](https://eol.unibo.it) with PC access.
 - First part includes coding exercises with automated tests. Score between 0 and 10 is assigned immediately. If the score is below 5, the exam ends. Otherwise, the student proceeds to the second part.
 - The second part involves coding exercises evaluated by the instructor and includes the written exam.
 - Total duration: 2.5 hours.
@@ -57,8 +57,3 @@ The two parts must be completed in the same examination session.
 - Total duration: 1 hour.
 
 Final grade is determined by summing the scores of the programming test (5-10), the written exam (13-24), and potential lab bonus (0-1). If the total is 32 or more, the grade is 30Lode.
-
-<!-- ## Previous Exam Materials
-
-- [Past exam questions with solutions](link_to_exam_materials)
-- Note: The exams are from a slightly different program and format but similar in difficulty. -->

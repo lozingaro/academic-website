@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modello di report
-permalink: /teaching/report
+permalink: /teaching/ai-info/report
 ---
 
 ## 1. Introduzione
