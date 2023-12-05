@@ -34,14 +34,18 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
 ### Lezione 1: Introduzione
 
 - **Data:** 5 dicembre 2023
-- **Argomenti Trattati:** Introduzione al problema, proposta e metodo.
-- **Notebook Python:** <script src="https://gist.github.com/lozingaro/1c6ba2b614f990d702e96f6da5c81e08.js"></script>
+- **Argomenti Trattati:** Introduzione al problema, discussione della proposta basata su regole e di quella basata sui dati. Implementazione dei metodi e approcci discussi.
+- **Notebooks Jupyter:**
+  - [Proposta Basata su Regole](https://gist.github.com/lozingaro/07349dcdcedc2b40d46c7ecdf3430b4a).
+  - [Proposta Basata sui Dati - Frequentista](https://gist.github.com/lozingaro/e6be8a9f046d12086168c3fc3e51658b).
+  - [Proposta Basata sui Dati - Connettivista](https://gist.github.com/lozingaro/50ec8a39e8c4c5749779cc893bfed83c).
 
 ### Materiali Aggiuntivi e Risorse di Apprendimento
 
 - Per ulteriori approfondimenti e risorse di studio, consulta la [pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/479022) e la piattaforma [Virtuale Unibo](https://virtuale.unibo.it/course/view.php?id=55088).
 
-<!-- <script src="https://gist.github.com/lozingaro/4062dd8d358156bca329f9cc3379d4ef.js"></script> -->
+- **Notebooks Jupyter:**
+  - [Il percettrone di F. Rosenblatt](https://gist.github.com/lozingaro/4062dd8d358156bca329f9cc3379d4ef).
 
 ## Esame
 
