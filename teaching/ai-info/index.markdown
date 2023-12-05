@@ -39,6 +39,7 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
   - [Proposta Basata su Regole](https://gist.github.com/lozingaro/07349dcdcedc2b40d46c7ecdf3430b4a).
   - [Proposta Basata sui Dati - Frequentista](https://gist.github.com/lozingaro/e6be8a9f046d12086168c3fc3e51658b).
   - [Proposta Basata sui Dati - Connettivista](https://gist.github.com/lozingaro/50ec8a39e8c4c5749779cc893bfed83c).
+  - [Dataset di nomi per approcci data-driven](https://gist.github.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc).
 
 ### Materiali Aggiuntivi e Risorse di Apprendimento
 
