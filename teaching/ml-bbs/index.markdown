@@ -59,7 +59,7 @@ Office Hours: By appointment
 - **Date**: December 19, 2023 – 18:30 – 21:30
 - **Location**: Online - Microsoft Teams
 - **Content**: Decision trees and ensemble methods, introduction to explainability in machine learning, fairness, accountability, and transparency in ML.
-- **Supplementary Reading**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [arXiv](https://arxiv.org/abs/1602.04938)
+- **Supplementary Reading**: "Why Should I Trust You?": [Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938).
 - **Guest Speaker**: Mirko Savasta, Head of Quant Research @ Axyon AI
 - **Assignment**: Team proposal for an explainable AI project addressing a specific business problem. Due: End of the course.
 
