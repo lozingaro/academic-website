@@ -51,7 +51,6 @@ Office Hours: By appointment
 - **Date**: December 14, 2023 – 18:30 – 21:30
 - **Location**: Online - Microsoft Teams
 - **Content**: Business Analytics Tools, practical application of ML in business analytics, case study analysis and group discussion, Machine Learning Tools Workshop.
-- **Guest Speaker**: Mirko Savasta, Head of Quant Research @ Axyon AI
 - **Case Study**: Customer Profiling in a BMW Car Dealership.
 - **Assignment**: Analysis of the BMW dealership case study. Due: Start of Lecture 3.
 
@@ -61,7 +60,7 @@ Office Hours: By appointment
 - **Location**: Online - Microsoft Teams
 - **Content**: Decision trees and ensemble methods, introduction to explainability in machine learning, fairness, accountability, and transparency in ML.
 - **Supplementary Reading**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [arXiv](https://arxiv.org/abs/1602.04938)
-- **Case Study**: Explainable AI in Predicting Student Retention.
+- **Guest Speaker**: Mirko Savasta, Head of Quant Research @ Axyon AI
 - **Assignment**: Team proposal for an explainable AI project addressing a specific business problem. Due: End of the course.
 
 ## Plagiarism Policy
