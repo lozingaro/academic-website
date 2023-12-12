@@ -47,6 +47,13 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
   - [Proposta Basata sui Dati - parte seconda](https://gist.github.com/lozingaro/50ec8a39e8c4c5749779cc893bfed83c).
   - [Dataset di nomi](https://gist.github.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc).
 
+---
+
+- **Data:** 12 dicembre 2023
+- **Argomenti Trattati:** Laboratorio di metodo sperimentale per l'approccio basato sui dati.
+- **Notebooks Jupyter:**
+  - [Proposta Basata sui Dati - parte terza](https://gist.github.com/lozingaro/e29e5fd4b58138b15be271c21da95894).
+
 ### Materiali Aggiuntivi e Risorse di Apprendimento
 
 - Per ulteriori approfondimenti e risorse di studio, consulta la [pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/479022) e la piattaforma [Virtuale Unibo](https://virtuale.unibo.it/course/view.php?id=55088).
