@@ -48,4 +48,4 @@ Permalink: /teaching/ml-bbs/case-study-retail/
 - **Learning Takeaways**: What did you learn about the role of machine learning in solving real-world business problems?
 - **Real-World Application**: Consider how this approach can be applied in different retail or e-commerce environments.
 
-Compare your answers with the [Case Study Solution](analysis/case-study-retail-solution.md).
+Compare your answers with the [Case Study Solution](case-study-retail-solution).
