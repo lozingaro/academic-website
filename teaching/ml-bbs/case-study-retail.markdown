@@ -12,8 +12,8 @@ Permalink: /teaching/ml-bbs/case-study-retail/
 
 #### Understanding the Business Problem
 
-- **Contextualizing the Challenge**: In the context of a UK-based online retailer specializing in unique gift items, many of which are wholesalers, discuss potential challenges in customer retention. What factors might influence customer loyalty in this sector?
-- **Problem Presentation**: How might you frame the problem of customer retention in a data-driven way? What types of data would be crucial for understanding this trend?
+- **Contextualizing the Challenge**: In the context of a UK-based online retailer specializing in unique gift items, many of which are wholesalers, discuss potential challenges in customer profiling. What factors might influence customer loyalty in this sector?
+- **Problem Presentation**: How might you frame the problem of customer profiling in a data-driven way? What types of data would be crucial for understanding trends?
   - **Hypothetical Example**: Imagine a scenario where an online retailer observes a decline in repeat purchases over several months. How might they frame this problem in a data-driven way? Consider what types of customer data could be crucial for understanding this trend, like frequency of purchases, average transaction value, or the diversity of products purchased.
   - **Abstract Approach**: Without diving into the specific dataset yet, brainstorm how you might use data to uncover patterns or indicators of customer loyalty or attrition in an online retail setting.
 
@@ -25,18 +25,18 @@ Permalink: /teaching/ml-bbs/case-study-retail/
 
 #### Data Exploration and Problem Identification
 
-- **Customer Behavior Analysis**: Analyze transaction patterns to identify signs of potential customer loss.
-- **Key Variables**: Identify key variables in the data set that may influence customer retention (e.g., purchase frequency, order value).
+- **Customer Behavior Analysis**: Analyze patterns to identify signs of potential customer loss (or any other task you depicted in the previous step).
+- **Key Variables**: Identify key variables in the data set that may influence customer retention  (e.g., purchase frequency, order value).
 
 #### Data Representation and Model Selection
 
 - **Data Preparation**: Discuss how you would prepare this data set for a machine learning model (data cleaning, feature engineering).
-- **Model Selection**: Propose an appropriate machine learning model for predicting customer retention based on this data set.
+- **Model Selection**: Propose an appropriate machine learning model for predicting customer behaviour based on this data set. *What kind of problem is this? What kind of model would you use? What are the pros and cons of this approach?*
 
 #### Implementing the Solution
 
 - **Training and Testing the Model**: Outlines the steps for training and testing the model.
-- **Interpreting Results**: How will you interpret the model's predictions about customer retention?
+- **Interpreting Results**: How will you interpret the model's predictions? *What are the potential risks of this approach? How might you mitigate these risks?*
 
 #### Business Insights and Decisions
 
@@ -46,6 +46,5 @@ Permalink: /teaching/ml-bbs/case-study-retail/
 #### Reflection
 
 - **Learning Takeaways**: What did you learn about the role of machine learning in solving real-world business problems?
-- **Real-World Application**: Consider how this approach can be applied in different retail or e-commerce environments.
-
-Compare your answers with the [Case Study Solution](case-study-retail-solution).
+- **Real-World Application**: Consider how this approach can be applied in your business or industry. What are the potential benefits and risks of this approach?
+- **Compare your answers**: The instructor prepared a quick [analysis](case-study-retail-solution) that can be used to compare your ideas with an actual implementation.
