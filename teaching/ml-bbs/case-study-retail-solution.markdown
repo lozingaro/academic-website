@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: html
 Title: Lecture 1 - Introduction to ML for Business
 Permalink: /teaching/ml-bbs/case-study-retail-solution/
 ---
@@ -67,30 +67,32 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 |----------------------------------------------------------------------------*/
 
 /*
- * Mozilla scrollbar styling
+
+* Mozilla scrollbar styling
  */
 
-/* use standard opaque scrollbars for most nodes */
+/*use standard opaque scrollbars for most nodes*/
 [data-jp-theme-scrollbars='true'] {
   scrollbar-color: rgb(var(--jp-scrollbar-thumb-color))
     var(--jp-scrollbar-background-color);
 }
 
 /* for code nodes, use a transparent style of scrollbar. These selectors
- * will match lower in the tree, and so will override the above */
+
+* will match lower in the tree, and so will override the above */
 [data-jp-theme-scrollbars='true'] .CodeMirror-hscrollbar,
 [data-jp-theme-scrollbars='true'] .CodeMirror-vscrollbar {
   scrollbar-color: rgba(var(--jp-scrollbar-thumb-color), 0.5) transparent;
 }
 
-/* tiny scrollbar */
+/*tiny scrollbar*/
 
 .jp-scrollbar-tiny {
   scrollbar-color: rgba(var(--jp-scrollbar-thumb-color), 0.5) transparent;
   scrollbar-width: thin;
 }
 
-/* tiny scrollbar */
+/*tiny scrollbar*/
 
 .jp-scrollbar-tiny::-webkit-scrollbar,
 .jp-scrollbar-tiny::-webkit-scrollbar-corner {
@@ -114,7 +116,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Lumino
+
+* Lumino
  */
 
 .lm-ScrollBar[data-orientation='horizontal'] {
@@ -203,8 +206,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -227,20 +231,22 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .lm-AccordionPanel[data-orientation='horizontal'] > .lm-AccordionPanel-title {
-  /* Title is rotated for horizontal accordion panel using CSS */
+  /*Title is rotated for horizontal accordion panel using CSS*/
   display: block;
   transform-origin: top left;
   transform: rotate(-90deg) translate(-100%);
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -332,8 +338,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -405,8 +412,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -464,8 +472,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -503,8 +512,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -550,8 +560,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -605,8 +616,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -657,7 +669,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   flex-direction: row;
   box-sizing: border-box;
   overflow: hidden;
-  touch-action: none; /* Disable native Drag/Drop */
+  touch-action: none; /*Disable native Drag/Drop*/
 }
 
 .lm-TabBar-tabIcon,
@@ -711,8 +723,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -733,8 +746,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -796,13 +810,14 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 | Distributed under the terms of the Modified BSD License.
 |----------------------------------------------------------------------------*/
 
-/* This file was auto-generated by ensureUiComponents() in @jupyterlab/buildutils */
+/*This file was auto-generated by ensureUiComponents() in @jupyterlab/buildutils*/
 
 /**
- * (DEPRECATED) Support for consuming icons as CSS background images
+
+* (DEPRECATED) Support for consuming icons as CSS background images
  */
 
-/* Icons urls */
+/*Icons urls*/
 
 :root {
   --jp-icon-add-above: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEzN18xOTQ5MikiPgo8cGF0aCBjbGFzcz0ianAtaWNvbjMiIGQ9Ik00Ljc1IDQuOTMwNjZINi42MjVWNi44MDU2NkM2LjYyNSA3LjAxMTkxIDYuNzkzNzUgNy4xODA2NiA3IDcuMTgwNjZDNy4yMDYyNSA3LjE4MDY2IDcuMzc1IDcuMDExOTEgNy4zNzUgNi44MDU2NlY0LjkzMDY2SDkuMjVDOS40NTYyNSA0LjkzMDY2IDkuNjI1IDQuNzYxOTEgOS42MjUgNC41NTU2NkM5LjYyNSA0LjM0OTQxIDkuNDU2MjUgNC4xODA2NiA5LjI1IDQuMTgwNjZINy4zNzVWMi4zMDU2NkM3LjM3NSAyLjA5OTQxIDcuMjA2MjUgMS45MzA2NiA3IDEuOTMwNjZDNi43OTM3NSAxLjkzMDY2IDYuNjI1IDIuMDk5NDEgNi42MjUgMi4zMDU2NlY0LjE4MDY2SDQuNzVDNC41NDM3NSA0LjE4MDY2IDQuMzc1IDQuMzQ5NDEgNC4zNzUgNC41NTU2NkM0LjM3NSA0Ljc2MTkxIDQuNTQzNzUgNC45MzA2NiA0Ljc1IDQuOTMwNjZaIiBmaWxsPSIjNjE2MTYxIiBzdHJva2U9IiM2MTYxNjEiIHN0cm9rZS13aWR0aD0iMC43Ii8+CjwvZz4KPHBhdGggY2xhc3M9ImpwLWljb24zIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTExLjUgOS41VjExLjVMMi41IDExLjVWOS41TDExLjUgOS41Wk0xMiA4QzEyLjU1MjMgOCAxMyA4LjQ0NzcyIDEzIDlWMTJDMTMgMTIuNTUyMyAxMi41NTIzIDEzIDEyIDEzTDIgMTNDMS40NDc3MiAxMyAxIDEyLjU1MjMgMSAxMlY5QzEgOC40NDc3MiAxLjQ0NzcxIDggMiA4TDEyIDhaIiBmaWxsPSIjNjE2MTYxIi8+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwXzEzN18xOTQ5MiI+CjxyZWN0IGNsYXNzPSJqcC1pY29uMyIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAxIDEwIDEuNTU1NjYpIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==);
@@ -906,7 +921,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   --jp-icon-yaml: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDIyIDIyIj4KICA8ZyBjbGFzcz0ianAtaWNvbi1jb250cmFzdDIganAtaWNvbi1zZWxlY3RhYmxlIiBmaWxsPSIjRDgxQjYwIj4KICAgIDxwYXRoIGQ9Ik03LjIgMTguNnYtNS40TDMgNS42aDMuM2wxLjQgMy4xYy4zLjkuNiAxLjYgMSAyLjUuMy0uOC42LTEuNiAxLTIuNWwxLjQtMy4xaDMuNGwtNC40IDcuNnY1LjVsLTIuOS0uMXoiLz4KICAgIDxjaXJjbGUgY2xhc3M9InN0MCIgY3g9IjE3LjYiIGN5PSIxNi41IiByPSIyLjEiLz4KICAgIDxjaXJjbGUgY2xhc3M9InN0MCIgY3g9IjE3LjYiIGN5PSIxMSIgcj0iMi4xIi8+CiAgPC9nPgo8L3N2Zz4K);
 }
 
-/* Icon CSS class declarations */
+/*Icon CSS class declarations*/
 
 .jp-AddAboveIcon {
   background-image: var(--jp-icon-add-above);
@@ -1310,7 +1325,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 |----------------------------------------------------------------------------*/
 
 /**
- * (DEPRECATED) Support for consuming icons as CSS background images
+
+* (DEPRECATED) Support for consuming icons as CSS background images
  */
 
 .jp-Icon,
@@ -1329,7 +1345,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /**
- * (DEPRECATED) Support for specific CSS icon sizes
+
+* (DEPRECATED) Support for specific CSS icon sizes
  */
 
 .jp-Icon-16 {
@@ -1386,10 +1403,11 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 |----------------------------------------------------------------------------*/
 
 /**
- * Support for icons as inline SVG HTMLElements
+
+* Support for icons as inline SVG HTMLElements
  */
 
-/* recolor the primary elements of an icon */
+/*recolor the primary elements of an icon*/
 .jp-icon0[fill] {
   fill: var(--jp-inverse-layout-color0);
 }
@@ -1430,7 +1448,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-inverse-layout-color4);
 }
 
-/* recolor the accent elements of an icon */
+/*recolor the accent elements of an icon*/
 .jp-icon-accent0[fill] {
   fill: var(--jp-layout-color0);
 }
@@ -1471,7 +1489,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-layout-color4);
 }
 
-/* set the color of an icon to transparent */
+/*set the color of an icon to transparent*/
 .jp-icon-none[fill] {
   fill: none;
 }
@@ -1480,7 +1498,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: none;
 }
 
-/* brand icon colors. Same for light and dark */
+/*brand icon colors. Same for light and dark*/
 .jp-icon-brand0[fill] {
   fill: var(--jp-brand-color0);
 }
@@ -1521,7 +1539,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-brand-color4);
 }
 
-/* warn icon colors. Same for light and dark */
+/*warn icon colors. Same for light and dark*/
 .jp-icon-warn0[fill] {
   fill: var(--jp-warn-color0);
 }
@@ -1554,7 +1572,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-warn-color3);
 }
 
-/* icon colors that contrast well with each other and most backgrounds */
+/*icon colors that contrast well with each other and most backgrounds*/
 .jp-icon-contrast0[fill] {
   fill: var(--jp-icon-contrast-color0);
 }
@@ -1630,7 +1648,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   fill: var(--jp-inspector-icon-color, var(--jp-inverse-layout-color3));
 }
 
-/* CSS for icons in selected filebrowser listing items */
+/*CSS for icons in selected filebrowser listing items*/
 .jp-DirListing-item.jp-mod-selected .jp-icon-selectable[fill] {
   fill: #fff;
 }
@@ -1639,11 +1657,12 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   fill: var(--jp-brand-color1);
 }
 
-/* stylelint-disable selector-max-class, selector-max-compound-selectors */
+/*stylelint-disable selector-max-class, selector-max-compound-selectors*/
 
 /**
+
 * TODO: come up with non css-hack solution for showing the busy icon on top
-*  of the close icon
+* of the close icon
 * CSS for complex behavior of close icon of tabs in the main area tabbar
 */
 .lm-DockPanel-tabBar
@@ -1662,25 +1681,25 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   fill: var(--jp-inverse-layout-color3);
 }
 
-/* stylelint-enable selector-max-class, selector-max-compound-selectors */
+/*stylelint-enable selector-max-class, selector-max-compound-selectors*/
 
-/* CSS for icons in status bar */
-#jp-main-statusbar .jp-mod-selected .jp-icon-selectable[fill] {
+/*CSS for icons in status bar*/
+# jp-main-statusbar .jp-mod-selected .jp-icon-selectable[fill] {
   fill: #fff;
 }
 
-#jp-main-statusbar .jp-mod-selected .jp-icon-selectable-inverse[fill] {
+# jp-main-statusbar .jp-mod-selected .jp-icon-selectable-inverse[fill] {
   fill: var(--jp-brand-color1);
 }
 
-/* special handling for splash icon CSS. While the theme CSS reloads during
+/*special handling for splash icon CSS. While the theme CSS reloads during
    splash, the splash icon can loose theming. To prevent that, we set a
-   default for its color variable */
+   default for its color variable*/
 :root {
   --jp-warn-color0: var(--md-orange-700);
 }
 
-/* not sure what to do with this one, used in filebrowser listing */
+/*not sure what to do with this one, used in filebrowser listing*/
 .jp-DragIcon {
   margin-right: 4px;
 }
@@ -1691,10 +1710,11 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 |----------------------------------------------------------------------------*/
 
 /**
- * Support for alt colors for icons as inline SVG HTMLElements
+
+* Support for alt colors for icons as inline SVG HTMLElements
  */
 
-/* alt recolor the primary elements of an icon */
+/*alt recolor the primary elements of an icon*/
 .jp-icon-alt .jp-icon0[fill] {
   fill: var(--jp-layout-color0);
 }
@@ -1735,7 +1755,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-layout-color4);
 }
 
-/* alt recolor the accent elements of an icon */
+/*alt recolor the accent elements of an icon*/
 .jp-icon-alt .jp-icon-accent0[fill] {
   fill: var(--jp-inverse-layout-color0);
 }
@@ -1786,14 +1806,16 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /**
- * Support for hover colors for icons as inline SVG HTMLElements
+
+* Support for hover colors for icons as inline SVG HTMLElements
  */
 
 /**
- * regular colors
+
+* regular colors
  */
 
-/* recolor the primary elements of an icon */
+/*recolor the primary elements of an icon*/
 .jp-icon-hover :hover .jp-icon0-hover[fill] {
   fill: var(--jp-inverse-layout-color0);
 }
@@ -1834,7 +1856,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-inverse-layout-color4);
 }
 
-/* recolor the accent elements of an icon */
+/*recolor the accent elements of an icon*/
 .jp-icon-hover :hover .jp-icon-accent0-hover[fill] {
   fill: var(--jp-layout-color0);
 }
@@ -1875,7 +1897,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-layout-color4);
 }
 
-/* set the color of an icon to transparent */
+/*set the color of an icon to transparent*/
 .jp-icon-hover :hover .jp-icon-none-hover[fill] {
   fill: none;
 }
@@ -1885,10 +1907,11 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 }
 
 /**
- * inverse colors
+
+* inverse colors
  */
 
-/* inverse recolor the primary elements of an icon */
+/*inverse recolor the primary elements of an icon*/
 .jp-icon-hover.jp-icon-alt :hover .jp-icon0-hover[fill] {
   fill: var(--jp-layout-color0);
 }
@@ -1929,7 +1952,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   stroke: var(--jp-layout-color4);
 }
 
-/* inverse recolor the accent elements of an icon */
+/*inverse recolor the accent elements of an icon*/
 .jp-icon-hover.jp-icon-alt :hover .jp-icon-accent0-hover[fill] {
   fill: var(--jp-inverse-layout-color0);
 }
@@ -2026,7 +2049,7 @@ body.lm-mod-override-cursor .jp-IFrame::before {
   width: 100%;
 }
 
-/* stylelint-disable selector-max-type */
+/*stylelint-disable selector-max-type*/
 
 .jp-FormGroup-content fieldset .jp-inputFieldWrapper input,
 .jp-FormGroup-content fieldset .jp-inputFieldWrapper select,
@@ -2079,10 +2102,10 @@ body.lm-mod-override-cursor .jp-IFrame::before {
   background-color: var(--jp-border-color2);
 }
 
-/* stylelint-enable selector-max-type */
+/*stylelint-enable selector-max-type*/
 
 .jp-FormGroup-content .checkbox .field-description {
-  /* Disable default description field for checkbox:
+  /*Disable default description field for checkbox:
    because other widgets do not have description fields,
    we add descriptions to each widget on the field level.
   */
@@ -2106,7 +2129,7 @@ body.lm-mod-override-cursor .jp-IFrame::before {
   margin-right: 0.5em;
 }
 
-/* RJSF ARRAY style */
+/*RJSF ARRAY style*/
 
 .jp-arrayFieldWrapper legend {
   font-size: var(--jp-content-font-size2);
@@ -2147,18 +2170,18 @@ button.jp-ArrayOperationsButton.jp-mod-styled:disabled {
   opacity: 0.5;
 }
 
-/* RJSF form validation error */
+/*RJSF form validation error*/
 
 .jp-FormGroup-content .validationErrors {
   color: var(--jp-error-color0);
 }
 
-/* Hide panel level error as duplicated the field level error */
+/*Hide panel level error as duplicated the field level error*/
 .jp-FormGroup-content .panel.errors {
   display: none;
 }
 
-/* RJSF normal content (settings-editor) */
+/*RJSF normal content (settings-editor)*/
 
 .jp-FormGroup-contentNormal {
   display: flex;
@@ -2192,7 +2215,7 @@ button.jp-ArrayOperationsButton.jp-mod-styled:disabled {
 }
 
 .jp-FormGroup-contentNormal .field-array-of-string .array-item {
-  /* Display `jp-ArrayOperations` buttons side-by-side with content except
+  /*Display `jp-ArrayOperations` buttons side-by-side with content except
     for small screens where flex-wrap will place them one below the other.
   */
   display: flex;
@@ -2205,7 +2228,7 @@ button.jp-ArrayOperationsButton.jp-mod-styled:disabled {
   margin-top: 2px;
 }
 
-/* RJSF compact content (metadata-form) */
+/*RJSF compact content (metadata-form)*/
 
 .jp-FormGroup-content.jp-FormGroup-contentCompact {
   width: 100%;
@@ -2251,8 +2274,9 @@ button.jp-ArrayOperationsButton.jp-mod-styled:disabled {
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .jp-SidePanel {
@@ -2316,7 +2340,7 @@ button.jp-ArrayOperationsButton.jp-mod-styled:disabled {
 }
 
 .lm-AccordionPanel[data-orientation='horizontal'] > .jp-AccordionPanel-title {
-  /* Title is rotated for horizontal accordion panel using CSS */
+  /*Title is rotated for horizontal accordion panel using CSS*/
   display: block;
   transform-origin: top left;
   transform: rotate(-90deg) translate(-100%);
@@ -2593,7 +2617,7 @@ select.jp-mod-styled[multiple] {
 }
 
 .jp-switch[aria-checked='true'] .jp-switch-track::before {
-  /* track width (35) - margins (3 + 3) - thumb width (10) */
+  /*track width (35) - margins (3 + 3) - thumb width (10)*/
   left: 19px;
 }
 
@@ -2606,7 +2630,7 @@ select.jp-mod-styled[multiple] {
 :root {
   --jp-private-toolbar-height: calc(
     28px + var(--jp-border-width)
-  ); /* leave 28px for content */
+  ); /*leave 28px for content*/
 }
 
 .jp-Toolbar {
@@ -2623,7 +2647,7 @@ select.jp-mod-styled[multiple] {
   overflow-x: hidden;
 }
 
-/* Toolbar items */
+/*Toolbar items*/
 
 .jp-Toolbar > .jp-Toolbar-item.jp-Toolbar-spacer {
   flex-grow: 1;
@@ -2648,9 +2672,9 @@ select.jp-mod-styled[multiple] {
   height: 100%;
 }
 
-/* Toolbar buttons */
+/*Toolbar buttons*/
 
-/* This is the div we use to wrap the react component into a Widget */
+/*This is the div we use to wrap the react component into a Widget*/
 div.jp-ToolbarButton {
   color: transparent;
   border: none;
@@ -2700,14 +2724,14 @@ button.jp-ToolbarButtonComponent .jp-ToolbarButtonComponent-label {
   font-family: var(--jp-ui-font-family);
 }
 
-#jp-main-dock-panel[data-mode='single-document']
+# jp-main-dock-panel[data-mode='single-document']
   .jp-MainAreaWidget
   > .jp-Toolbar.jp-Toolbar-micro {
   padding: 0;
   min-height: 0;
 }
 
-#jp-main-dock-panel[data-mode='single-document']
+# jp-main-dock-panel[data-mode='single-document']
   .jp-MainAreaWidget
   > .jp-Toolbar {
   border: none;
@@ -2715,8 +2739,9 @@ button.jp-ToolbarButtonComponent .jp-ToolbarButtonComponent-label {
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .jp-WindowedPanel-outer {
@@ -2740,14 +2765,14 @@ button.jp-ToolbarButtonComponent .jp-ToolbarButtonComponent-label {
 | Distributed under the terms of the Modified BSD License.
 |----------------------------------------------------------------------------*/
 
-/* Sibling imports */
+/*Sibling imports*/
 
 body {
   color: var(--jp-ui-font-color1);
   font-size: var(--jp-ui-font-size1);
 }
 
-/* Disable native link decoration styles everywhere outside of dialog boxes */
+/*Disable native link decoration styles everywhere outside of dialog boxes*/
 a {
   text-decoration: unset;
   color: unset;
@@ -2758,7 +2783,7 @@ a:hover {
   color: unset;
 }
 
-/* Accessibility for links inside dialog box text */
+/*Accessibility for links inside dialog box text*/
 .jp-Dialog-content a {
   text-decoration: revert;
   color: var(--jp-content-link-color);
@@ -2768,14 +2793,14 @@ a:hover {
   text-decoration: revert;
 }
 
-/* Styles for ui-components */
+/*Styles for ui-components*/
 .jp-Button {
   color: var(--jp-ui-font-color2);
   border-radius: var(--jp-border-radius);
   padding: 0 12px;
   font-size: var(--jp-ui-font-size1);
 
-  /* Copy from blueprint 3 */
+  /*Copy from blueprint 3*/
   display: inline-flex;
   flex-direction: row;
   border: none;
@@ -2803,7 +2828,7 @@ a:hover {
   padding: 0 7px;
 }
 
-/* Use our own theme for hover styles */
+/*Use our own theme for hover styles*/
 .jp-Button.jp-mod-minimal:hover {
   background-color: var(--jp-layout-color2);
 }
@@ -2899,8 +2924,8 @@ input::placeholder {
   cursor: not-allowed;
 }
 
-/* Use our own theme for hover and option styles */
-/* stylelint-disable-next-line selector-max-type */
+/*Use our own theme for hover and option styles */
+/* stylelint-disable-next-line selector-max-type*/
 .jp-HTMLSelect.jp-DefaultStyle select:hover,
 .jp-HTMLSelect.jp-DefaultStyle select > option {
   background-color: var(--jp-layout-color2);
@@ -3074,7 +3099,8 @@ select {
   background: var(--jp-layout-color1);
 
   /* This is needed so that all font sizing of children done in ems is
-   * relative to this base size */
+
+* relative to this base size */
   font-size: var(--jp-ui-font-size1);
 }
 
@@ -3338,7 +3364,8 @@ select {
   border-radius: var(--jp-border-radius);
 
   /* This is needed so that all font sizing of children done in ems is
-   * relative to this base size */
+
+* relative to this base size */
   font-size: var(--jp-ui-font-size1);
   color: var(--jp-ui-font-color1);
   resize: both;
@@ -3456,8 +3483,9 @@ button.jp-Dialog-close-button {
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .jp-Input-Boolean-Dialog {
@@ -3497,13 +3525,15 @@ button.jp-Dialog-close-button {
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /**
- * google-material-color v1.2.6
- * https://github.com/danlevan/google-material-color
+
+* google-material-color v1.2.6
+* <https://github.com/danlevan/google-material-color>
  */
 :root {
   --md-red-50: #ffebee;
@@ -3778,7 +3808,7 @@ button.jp-Dialog-close-button {
 |----------------------------------------------------------------------------*/
 
 :root {
-  /* This is the padding value to fill the gaps between lines containing spans with background color. */
+  /*This is the padding value to fill the gaps between lines containing spans with background color.*/
   --jp-private-code-span-padding: calc(
     (var(--jp-code-line-height) - 1) * var(--jp-code-font-size) / 2
   );
@@ -3816,7 +3846,7 @@ button.jp-Dialog-close-button {
   color: var(--jp-content-link-color);
 }
 
-/* console foregrounds and backgrounds */
+/*console foregrounds and backgrounds*/
 .jp-RenderedText pre .ansi-black-fg {
   color: #3e424d;
 }
@@ -3993,7 +4023,7 @@ button.jp-Dialog-close-button {
   line-height: var(--jp-content-line-height);
 }
 
-/* Left-justify outputs.*/
+/*Left-justify outputs.*/
 .jp-OutputArea-output.jp-RenderedLatex {
   padding: var(--jp-code-padding);
   text-align: left;
@@ -4009,7 +4039,7 @@ button.jp-Dialog-close-button {
   font-size: var(--jp-content-font-size1);
   line-height: var(--jp-content-line-height);
 
-  /* Give a bit more R padding on Markdown text to keep line lengths reasonable */
+  /*Give a bit more R padding on Markdown text to keep line lengths reasonable*/
   padding-right: 20px;
 }
 
@@ -4040,7 +4070,7 @@ button.jp-Dialog-close-button {
   color: var(--jp-content-link-color);
 }
 
-/* Headings */
+/*Headings*/
 
 .jp-RenderedHTMLCommon h1,
 .jp-RenderedHTMLCommon h2,
@@ -4097,9 +4127,9 @@ button.jp-Dialog-close-button {
   font-size: var(--jp-content-font-size0);
 }
 
-/* Lists */
+/*Lists*/
 
-/* stylelint-disable selector-max-type, selector-max-compound-selectors */
+/*stylelint-disable selector-max-type, selector-max-compound-selectors*/
 
 .jp-RenderedHTMLCommon ul:not(.list-inline),
 .jp-RenderedHTMLCommon ol:not(.list-inline) {
@@ -4150,7 +4180,7 @@ button.jp-Dialog-close-button {
   margin-bottom: 0;
 }
 
-/* stylelint-enable selector-max-type, selector-max-compound-selectors */
+/*stylelint-enable selector-max-type, selector-max-compound-selectors*/
 
 .jp-RenderedHTMLCommon hr {
   color: var(--jp-border-color2);
@@ -4180,7 +4210,7 @@ button.jp-Dialog-close-button {
   padding: 1px 5px;
 }
 
-/* Tables */
+/*Tables*/
 
 .jp-RenderedHTMLCommon table {
   border-collapse: collapse;
@@ -4247,7 +4277,7 @@ button.jp-Dialog-close-button {
   -moz-force-broken-image-icon: 1;
 }
 
-/* Restrict to direct children as other images could be nested in other content. */
+/*Restrict to direct children as other images could be nested in other content.*/
 .jp-RenderedHTMLCommon > img {
   display: block;
   margin-left: 0;
@@ -4255,7 +4285,7 @@ button.jp-Dialog-close-button {
   margin-bottom: 1em;
 }
 
-/* Change color behind transparent images if they need it... */
+/*Change color behind transparent images if they need it...*/
 [data-jp-theme-light='false'] .jp-RenderedImage img.jp-needs-light-background {
   background-color: var(--jp-inverse-layout-color1);
 }
@@ -4380,17 +4410,19 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 /* Most direct children of .jp-RenderedHTMLCommon have a margin-bottom of 1.0.
- * At the bottom of cells this is a bit too much as there is also spacing
- * between cells. Going all the way to 0 gets too tight between markdown and
- * code cells.
+
+* At the bottom of cells this is a bit too much as there is also spacing
+* between cells. Going all the way to 0 gets too tight between markdown and
+* code cells.
  */
-.jp-RenderedHTMLCommon > *:last-child {
+.jp-RenderedHTMLCommon >*:last-child {
   margin-bottom: 0.5em;
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*-----------------------------------------------------------------------------
@@ -4417,8 +4449,9 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .jp-lineFormSearch {
@@ -4775,7 +4808,7 @@ h6:hover .jp-InternalAnchorLink {
   box-sizing: border-box;
   color: var(--jp-ui-font-color1);
 
-  /* height - 2 * (padding of wrapper) */
+  /*height - 2* (padding of wrapper) */
   line-height: calc(var(--jp-private-document-search-button-height) - 2px);
   width: 100%;
   height: 100%;
@@ -4813,7 +4846,7 @@ h6:hover .jp-InternalAnchorLink {
   border-radius: 0;
   height: auto;
 
-  /* Changed to auto to autogrow */
+  /*Changed to auto to autogrow*/
 }
 
 .cm-editor pre {
@@ -4829,7 +4862,7 @@ h6:hover .jp-InternalAnchorLink {
   cursor: text;
 }
 
-/* When zoomed out 67% and 33% on a screen of 1440 width x 900 height */
+/*When zoomed out 67% and 33% on a screen of 1440 width x 900 height*/
 @media screen and (min-width: 2138px) and (max-width: 4319px) {
   .jp-CodeMirrorEditor[data-type='inline'] .cm-cursor {
     border-left: var(--jp-code-cursor-width1) solid
@@ -4837,7 +4870,7 @@ h6:hover .jp-InternalAnchorLink {
   }
 }
 
-/* When zoomed out less than 33% */
+/*When zoomed out less than 33%*/
 @media screen and (min-width: 4320px) {
   .jp-CodeMirrorEditor[data-type='inline'] .cm-cursor {
     border-left: var(--jp-code-cursor-width2) solid
@@ -4861,7 +4894,7 @@ h6:hover .jp-InternalAnchorLink {
 
 .cm-searching,
 .cm-searching span {
-  /* `.cm-searching span`: we need to override syntax highlighting */
+  /*`.cm-searching span`: we need to override syntax highlighting*/
   background-color: var(--jp-search-unselected-match-background-color);
   color: var(--jp-search-unselected-match-color);
 }
@@ -4912,7 +4945,7 @@ h6:hover .jp-InternalAnchorLink {
   border-left: 1px dashed var(--jp-border-color2);
 }
 
-/* Styles for shared cursors (remote cursor locations and selected ranges) */
+/*Styles for shared cursors (remote cursor locations and selected ranges)*/
 .jp-CodeMirrorEditor .cm-ySelectionCaret {
   position: relative;
   border-left: 1px solid black;
@@ -5134,7 +5167,7 @@ h6:hover .jp-InternalAnchorLink {
   font-weight: 600;
 }
 
-/* increase specificity to override bundled default */
+/*increase specificity to override bundled default*/
 .jp-DirListing-content {
   flex: 1 1 auto;
   margin: 0;
@@ -5154,7 +5187,7 @@ h6:hover .jp-InternalAnchorLink {
   color: var(--jp-ui-inverse-font-color0);
 }
 
-/* Style the directory listing content when a user drops a file to upload */
+/*Style the directory listing content when a user drops a file to upload*/
 .jp-DirListing.jp-mod-native-drop .jp-DirListing-content {
   outline: 5px dashed rgba(128, 128, 128, 0.5);
   outline-offset: -10px;
@@ -5173,13 +5206,14 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 .jp-DirListing-checkboxWrapper {
-  /* Increases hit area of checkbox. */
+  /*Increases hit area of checkbox.*/
   padding: 4px;
 }
 
 .jp-DirListing-header
   .jp-DirListing-checkboxWrapper
-  + .jp-DirListing-headerItem {
+
+* .jp-DirListing-headerItem {
   padding-left: 4px;
 }
 
@@ -5193,7 +5227,7 @@ h6:hover .jp-InternalAnchorLink {
   visibility: visible;
 }
 
-/* For devices that support hovering, hide checkboxes until hovered, selected...
+/*For devices that support hovering, hide checkboxes until hovered, selected...
 */
 @media (hover: hover) {
   .jp-DirListing-checkboxWrapper {
@@ -5329,13 +5363,13 @@ h6:hover .jp-InternalAnchorLink {
   border: var(--jp-border-width) solid transparent;
   opacity: var(--jp-cell-prompt-opacity);
 
-  /* Right align prompt text, don't wrap to handle large prompt numbers */
+  /*Right align prompt text, don't wrap to handle large prompt numbers*/
   text-align: right;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 
-  /* Disable text selection */
+  /*Disable text selection*/
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -5363,7 +5397,8 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 /**
- * Prompt overlay.
+
+* Prompt overlay.
  */
 
 .jp-OutputArea-promptOverlay {
@@ -5385,7 +5420,8 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 /**
- * Isolated output.
+
+* Isolated output.
  */
 .jp-OutputArea-output.jp-mod-isolated {
   width: 100%;
@@ -5412,7 +5448,7 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   background: transparent;
 }
 
-/* pre */
+/*pre*/
 
 .jp-OutputArea-output pre {
   border: none;
@@ -5425,14 +5461,14 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   white-space: pre-wrap;
 }
 
-/* tables */
+/*tables*/
 
 .jp-OutputArea-output.jp-RenderedHTMLCommon table {
   margin-left: 0;
   margin-right: 0;
 }
 
-/* description lists */
+/*description lists*/
 
 .jp-OutputArea-output dl,
 .jp-OutputArea-output dt,
@@ -5470,14 +5506,15 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
 }
 
 /* Hide the gutter in case of
- *  - nested output areas (e.g. in the case of output widgets)
- *  - mirrored output areas
+
+* - nested output areas (e.g. in the case of output widgets)
+* - mirrored output areas
  */
 .jp-OutputArea .jp-OutputArea .jp-OutputArea-prompt {
   display: none;
 }
 
-/* Hide empty lines in the output area, for instance due to cleared widgets */
+/*Hide empty lines in the output area, for instance due to cleared widgets*/
 .jp-OutputArea-prompt:empty {
   padding: 0;
   border: 0;
@@ -5494,7 +5531,8 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
 }
 
 /* Text output with the Out[] prompt needs a top padding to match the
- * alignment of the Out[] prompt itself.
+
+* alignment of the Out[] prompt itself.
  */
 .jp-OutputArea-executeResult .jp-RenderedText.jp-OutputArea-output {
   padding-top: var(--jp-code-padding);
@@ -5520,10 +5558,10 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   width: 42%;
   min-width: 200px;
 
-  /* make sure input baseline aligns with prompt */
+  /*make sure input baseline aligns with prompt*/
   vertical-align: baseline;
 
-  /* padding + margin = 0.5em between prompt and cursor */
+  /*padding + margin = 0.5em between prompt and cursor*/
   padding: 0 0.25em;
   margin: 0 0.25em;
   flex: 0 0 70%;
@@ -5579,7 +5617,7 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   }
 }
 
-/* Trimmed outputs warning */
+/*Trimmed outputs warning*/
 .jp-TrimmedOutputs > a {
   margin: 10px;
   text-decoration: none;
@@ -5637,14 +5675,14 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   list-style-type: none;
 }
 
-/* stylelint-disable-next-line selector-max-type */
+/*stylelint-disable-next-line selector-max-type */
 .jp-TableOfContents li > ol {
-  /* Align left border with triangle icon center */
+  /* Align left border with triangle icon center*/
   padding-left: 11px;
 }
 
 .jp-TableOfContents-content {
-  /* left margin for the active heading indicator */
+  /*left margin for the active heading indicator*/
   margin: 0 0 0 var(--jp-private-toc-active-width);
   padding: 0;
   background-color: var(--jp-layout-color1);
@@ -5687,7 +5725,7 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   background-color: var(--jp-layout-color3);
 }
 
-/* Active heading indicator */
+/*Active heading indicator*/
 
 .jp-tocItem-heading::before {
   content: ' ';
@@ -5729,7 +5767,7 @@ body.lm-mod-override-cursor .jp-OutputArea-output.jp-mod-isolated::before {
   width: 100%;
   box-sizing: border-box;
 
-  /* height: 100% doesn't work because the height of its parent is computed from content */
+  /*height: 100% doesn't work because the height of its parent is computed from content*/
   position: absolute;
   top: 0;
   bottom: 0;
@@ -5760,7 +5798,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
 | Header/Footer
 |----------------------------------------------------------------------------*/
 
-/* Hidden by zero height by default */
+/*Hidden by zero height by default*/
 .jp-CellHeader,
 .jp-CellFooter {
   height: 0;
@@ -5781,7 +5819,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
 | Input
 |----------------------------------------------------------------------------*/
 
-/* All input areas */
+/*All input areas*/
 .jp-InputArea {
   display: table;
   table-layout: fixed;
@@ -5794,7 +5832,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
   overflow: hidden;
   vertical-align: top;
 
-  /* This is the non-active, default styling */
+  /*This is the non-active, default styling*/
   border: var(--jp-border-width) solid var(--jp-cell-editor-border-color);
   border-radius: 0;
   background: var(--jp-cell-editor-background);
@@ -5813,13 +5851,13 @@ Note: input and output wrappers have "display: block" propery in print mode.
   font-size: var(--jp-code-font-size);
   border: var(--jp-border-width) solid transparent;
 
-  /* Right align prompt text, don't wrap to handle large prompt numbers */
+  /*Right align prompt text, don't wrap to handle large prompt numbers*/
   text-align: right;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 
-  /* Disable text selection */
+  /*Disable text selection*/
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -5941,11 +5979,11 @@ Note: input and output wrappers have "display: block" propery in print mode.
   padding: 0;
   margin: 0;
 
-  /* Added to reveal the box-shadow on the input and output collapsers. */
+  /*Added to reveal the box-shadow on the input and output collapsers.*/
   overflow: visible;
 }
 
-/* Only input/output areas inside cells */
+/*Only input/output areas inside cells*/
 .jp-Cell-inputArea,
 .jp-Cell-outputArea {
   flex: 1 1 auto;
@@ -5956,7 +5994,8 @@ Note: input and output wrappers have "display: block" propery in print mode.
 |----------------------------------------------------------------------------*/
 
 /* Make the output collapser disappear when there is not output, but do so
- * in a manner that leaves it in the layout and preserves its width.
+
+* in a manner that leaves it in the layout and preserves its width.
  */
 .jp-Cell.jp-mod-noOutputs .jp-Cell-outputCollapser {
   border: none !important;
@@ -5971,7 +6010,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
 | Output
 |----------------------------------------------------------------------------*/
 
-/* Put a space between input and output when there IS output */
+/*Put a space between input and output when there IS output*/
 .jp-Cell:not(.jp-mod-noOutputs) .jp-Cell-outputWrapper {
   margin-top: 5px;
 }
@@ -6035,7 +6074,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
   overflow: auto;
 }
 
-/* collapseHeadingButton (show always if hiddenCellsButton is _not_ shown) */
+/*collapseHeadingButton (show always if hiddenCellsButton is *not* shown)*/
 .jp-collapseHeadingButton {
   display: flex;
   min-height: var(--jp-cell-collapser-min-height);
@@ -6098,7 +6137,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
   background-position-y: top;
 }
 
-/* collapseHeadingButton (show only on (hover,active) if hiddenCellsButton is shown) */
+/*collapseHeadingButton (show only on (hover,active) if hiddenCellsButton is shown)*/
 .jp-Notebook.jp-mod-showHiddenCellsButton .jp-collapseHeadingButton {
   display: none;
 }
@@ -6109,7 +6148,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
   display: flex;
 }
 
-/* showHiddenCellsButton (only show if jp-mod-showHiddenCellsButton is set, which
+/*showHiddenCellsButton (only show if jp-mod-showHiddenCellsButton is set, which
 is a consequence of the showHiddenCellsButton option in Notebook Settings)*/
 .jp-Notebook.jp-mod-showHiddenCellsButton .jp-showHiddenCellsButton {
   margin-left: calc(var(--jp-cell-prompt-width) + 2 * var(--jp-code-padding));
@@ -6171,7 +6210,7 @@ cell outputs.
 .jp-NotebookPanel-toolbar {
   padding: var(--jp-notebook-toolbar-padding);
 
-  /* disable paint containment from lumino 2.0 default strict CSS containment */
+  /*disable paint containment from lumino 2.0 default strict CSS containment*/
   contain: style size !important;
 }
 
@@ -6280,17 +6319,19 @@ cell outputs.
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 /*
- * Execution indicator
+
+* Execution indicator
  */
 .jp-tocItem-content::after {
   content: '';
 
-  /* Must be identical to form a circle */
+  /*Must be identical to form a circle*/
   width: 12px;
   height: 12px;
   background: none;
@@ -6317,8 +6358,9 @@ cell outputs.
 }
 
 /*
- * Copyright (c) Jupyter Development Team.
- * Distributed under the terms of the Modified BSD License.
+
+* Copyright (c) Jupyter Development Team.
+* Distributed under the terms of the Modified BSD License.
  */
 
 .jp-Notebook-footer {
@@ -6345,7 +6387,7 @@ cell outputs.
   border-color: var(--jp-cell-editor-active-border-color);
 }
 
-/* For devices that support hovering, hide footer until hover */
+/*For devices that support hovering, hide footer until hover*/
 @media (hover: hover) {
   .jp-Notebook-footer {
     opacity: 0;
@@ -6383,7 +6425,7 @@ cell outputs.
 | Notebook
 |----------------------------------------------------------------------------*/
 
-/* stylelint-disable selector-max-class */
+/*stylelint-disable selector-max-class*/
 
 .jp-NotebookPanel {
   display: block;
@@ -6436,7 +6478,7 @@ cell outputs.
 |   - No outputs
 |----------------------------------------------------------------------------*/
 
-/* Command or edit modes */
+/*Command or edit modes*/
 
 .jp-Notebook .jp-Cell:not(.jp-mod-active) .jp-InputPrompt {
   opacity: var(--jp-cell-prompt-not-active-opacity);
@@ -6448,12 +6490,12 @@ cell outputs.
   color: var(--jp-cell-prompt-not-active-font-color);
 }
 
-/* cell is active */
+/*cell is active*/
 .jp-Notebook .jp-Cell.jp-mod-active .jp-Collapser {
   background: var(--jp-brand-color1);
 }
 
-/* cell is dirty */
+/*cell is dirty*/
 .jp-Notebook .jp-Cell.jp-mod-dirty .jp-InputPrompt {
   color: var(--jp-warn-color1);
 }
@@ -6467,20 +6509,20 @@ cell outputs.
   background: var(--jp-warn-color1);
 }
 
-/* collapser is hovered */
+/*collapser is hovered*/
 .jp-Notebook .jp-Cell .jp-Collapser:hover {
   box-shadow: var(--jp-elevation-z2);
   background: var(--jp-brand-color1);
   opacity: var(--jp-cell-collapser-not-active-hover-opacity);
 }
 
-/* cell is active and collapser is hovered */
+/*cell is active and collapser is hovered*/
 .jp-Notebook .jp-Cell.jp-mod-active .jp-Collapser:hover {
   background: var(--jp-brand-color0);
   opacity: 1;
 }
 
-/* Command mode */
+/*Command mode*/
 
 .jp-Notebook.jp-mod-commandMode .jp-Cell.jp-mod-selected {
   background: var(--jp-notebook-multiselected-color);
@@ -6491,7 +6533,7 @@ cell outputs.
   background: transparent;
 }
 
-/* Edit mode */
+/*Edit mode*/
 
 .jp-Notebook.jp-mod-editMode .jp-Cell.jp-mod-active .jp-InputArea-editor {
   border: var(--jp-border-width) solid var(--jp-cell-editor-active-border-color);
@@ -6578,7 +6620,7 @@ cell outputs.
   color: var(--jp-ui-font-color1);
   background: var(--jp-layout-color1);
 
-  /* This is needed so that all font sizing of children done in ems is
+  /*This is needed so that all font sizing of children done in ems is
     * relative to this base size */
   font-size: var(--jp-ui-font-size1);
   overflow: auto;
@@ -6698,7 +6740,7 @@ cell outputs.
 }
 
 .jp-mod-sideBySide.jp-Notebook .jp-CodeCell .jp-Cell-outputWrapper {
-  /* overwrite the default margin (no vertical separation needed in side by side move */
+  /*overwrite the default margin (no vertical separation needed in side by side move*/
   margin-top: 0;
   grid-area: output;
 }
@@ -6842,12 +6884,13 @@ all of MD as it is not optimized for dense, information rich UIs.
 */
 
 :root {
-  /* Elevation
+  /*Elevation
    *
-   * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
+
+* We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
    *
-   * https://github.com/material-components/material-components-web
-   * https://material-components-web.appspot.com/elevation.html
+   * <https://github.com/material-components/material-components-web>
+   * <https://material-components-web.appspot.com/elevation.html>
    */
 
   --jp-shadow-base-lightness: 0;
@@ -6898,8 +6941,9 @@ all of MD as it is not optimized for dense, information rich UIs.
     0 24px 38px 3px var(--jp-shadow-penumbra-color),
     0 9px 46px 8px var(--jp-shadow-ambient-color);
 
-  /* Borders
+  /*Borders
    *
+
    * The following variables, specify the visual styling of borders in JupyterLab.
    */
 
@@ -6911,8 +6955,9 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-inverse-border-color: var(--md-grey-600);
   --jp-border-radius: 2px;
 
-  /* UI Fonts
+  /*UI Fonts
    *
+
    * The UI font CSS variables are used for the typography all of the JupyterLab
    * user interface elements that are not directly user generated content.
    *
@@ -6923,7 +6968,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-ui-font-scale-factor: 1.2;
   --jp-ui-font-size0: 0.83333em;
-  --jp-ui-font-size1: 13px; /* Base font size */
+  --jp-ui-font-size1: 13px; /*Base font size*/
   --jp-ui-font-size2: 1.2em;
   --jp-ui-font-size3: 1.44em;
   --jp-ui-font-family: system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI',
@@ -6931,17 +6976,19 @@ all of MD as it is not optimized for dense, information rich UIs.
     'Segoe UI Symbol';
 
   /*
+
    * Use these font colors against the corresponding main layout colors.
    * In a light theme, these go from dark to light.
    */
 
-  /* Defaults use Material Design specification */
+  /*Defaults use Material Design specification*/
   --jp-ui-font-color0: rgba(0, 0, 0, 1);
   --jp-ui-font-color1: rgba(0, 0, 0, 0.87);
   --jp-ui-font-color2: rgba(0, 0, 0, 0.54);
   --jp-ui-font-color3: rgba(0, 0, 0, 0.38);
 
   /*
+
    * Use these against the brand/accent/warn/error colors.
    * These will typically go from light to darker, in both a dark and light theme.
    */
@@ -6951,8 +6998,9 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-ui-inverse-font-color2: rgba(255, 255, 255, 0.7);
   --jp-ui-inverse-font-color3: rgba(255, 255, 255, 0.5);
 
-  /* Content Fonts
+  /*Content Fonts
    *
+
    * Content font variables are used for typography of user generated content.
    *
    * The font sizing here is done assuming that the body font size of --jp-content-font-size1
@@ -6963,20 +7011,20 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-content-line-height: 1.6;
   --jp-content-font-scale-factor: 1.2;
   --jp-content-font-size0: 0.83333em;
-  --jp-content-font-size1: 14px; /* Base font size */
+  --jp-content-font-size1: 14px; /*Base font size*/
   --jp-content-font-size2: 1.2em;
   --jp-content-font-size3: 1.44em;
   --jp-content-font-size4: 1.728em;
   --jp-content-font-size5: 2.0736em;
 
-  /* This gives a magnification of about 125% in presentation mode over normal. */
+  /*This gives a magnification of about 125% in presentation mode over normal.*/
   --jp-content-presentation-font-size1: 17px;
   --jp-content-heading-line-height: 1;
   --jp-content-heading-margin-top: 1.2em;
   --jp-content-heading-margin-bottom: 0.8em;
   --jp-content-heading-font-weight: 500;
 
-  /* Defaults use Material Design specification */
+  /*Defaults use Material Design specification*/
   --jp-content-font-color0: rgba(0, 0, 0, 1);
   --jp-content-font-color1: rgba(0, 0, 0, 0.87);
   --jp-content-font-color2: rgba(0, 0, 0, 0.54);
@@ -6987,27 +7035,29 @@ all of MD as it is not optimized for dense, information rich UIs.
     'Segoe UI Emoji', 'Segoe UI Symbol';
 
   /*
+
    * Code Fonts
    *
    * Code font variables are used for typography of code and other monospaces content.
    */
 
   --jp-code-font-size: 13px;
-  --jp-code-line-height: 1.3077; /* 17px for 13px base */
-  --jp-code-padding: 5px; /* 5px for 13px base, codemirror highlighting needs integer px value */
+  --jp-code-line-height: 1.3077; /*17px for 13px base */
+  --jp-code-padding: 5px; /* 5px for 13px base, codemirror highlighting needs integer px value*/
   --jp-code-font-family-default: menlo, consolas, 'DejaVu Sans Mono', monospace;
   --jp-code-font-family: var(--jp-code-font-family-default);
 
-  /* This gives a magnification of about 125% in presentation mode over normal. */
+  /*This gives a magnification of about 125% in presentation mode over normal.*/
   --jp-code-presentation-font-size: 16px;
 
-  /* may need to tweak cursor width if you change font size */
+  /*may need to tweak cursor width if you change font size*/
   --jp-code-cursor-width0: 1.4px;
   --jp-code-cursor-width1: 2px;
   --jp-code-cursor-width2: 4px;
 
-  /* Layout
+  /*Layout
    *
+
    * The following are the main layout colors use in JupyterLab. In a light
    * theme these would go from light to dark.
    */
@@ -7018,8 +7068,9 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-layout-color3: var(--md-grey-400);
   --jp-layout-color4: var(--md-grey-600);
 
-  /* Inverse Layout
+  /*Inverse Layout
    *
+
    * The following are the inverse layout colors use in JupyterLab. In a light
    * theme these would go from dark to light.
    */
@@ -7030,7 +7081,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-inverse-layout-color3: var(--md-grey-700);
   --jp-inverse-layout-color4: var(--md-grey-600);
 
-  /* Brand/accent */
+  /*Brand/accent*/
 
   --jp-brand-color0: var(--md-blue-900);
   --jp-brand-color1: var(--md-blue-700);
@@ -7042,7 +7093,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-accent-color2: var(--md-green-300);
   --jp-accent-color3: var(--md-green-100);
 
-  /* State colors (warn, error, success, info) */
+  /*State colors (warn, error, success, info)*/
 
   --jp-warn-color0: var(--md-orange-900);
   --jp-warn-color1: var(--md-orange-700);
@@ -7061,7 +7112,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-info-color2: var(--md-cyan-300);
   --jp-info-color3: var(--md-cyan-100);
 
-  /* Cell specific styles */
+  /*Cell specific styles*/
 
   --jp-cell-padding: 5px;
   --jp-cell-collapser-width: 8px;
@@ -7080,20 +7131,22 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-cell-prompt-not-active-font-color: var(--md-grey-700);
 
   /* A custom blend of MD grey and blue 600
-   * See https://meyerweb.com/eric/tools/color-blend/#546E7A:1E88E5:5:hex */
+
+   * See <https://meyerweb.com/eric/tools/color-blend/#546E7A:1E88E5:5:hex> */
   --jp-cell-inprompt-font-color: #307fc1;
 
   /* A custom blend of MD grey and orange 600
-   * https://meyerweb.com/eric/tools/color-blend/#546E7A:F4511E:5:hex */
+
+   * <https://meyerweb.com/eric/tools/color-blend/#546E7A:F4511E:5:hex> */
   --jp-cell-outprompt-font-color: #bf5b3d;
 
-  /* Notebook specific styles */
+  /*Notebook specific styles*/
 
   --jp-notebook-padding: 10px;
   --jp-notebook-select-background: var(--jp-layout-color1);
   --jp-notebook-multiselected-color: var(--md-blue-50);
 
-  /* The scroll padding is calculated to fill enough space at the bottom of the
+  /*The scroll padding is calculated to fill enough space at the bottom of the
   notebook to show one single-line cell (with appropriate padding) at the top
   when the notebook is scrolled all the way to the bottom. We also subtract one
   pixel so that no scrollbar appears if we have just one single-line cell in the
@@ -7104,21 +7157,21 @@ all of MD as it is not optimized for dense, information rich UIs.
       var(--jp-code-padding) - var(--jp-cell-padding) - 1px
   );
 
-  /* Rendermime styles */
+  /*Rendermime styles*/
 
   --jp-rendermime-error-background: #fdd;
   --jp-rendermime-table-row-background: var(--md-grey-100);
   --jp-rendermime-table-row-hover-background: var(--md-light-blue-50);
 
-  /* Dialog specific styles */
+  /*Dialog specific styles*/
 
   --jp-dialog-background: rgba(0, 0, 0, 0.25);
 
-  /* Console specific styles */
+  /*Console specific styles*/
 
   --jp-console-padding: 10px;
 
-  /* Toolbar specific styles */
+  /*Toolbar specific styles*/
 
   --jp-toolbar-border-color: var(--jp-border-color1);
   --jp-toolbar-micro-height: 8px;
@@ -7127,11 +7180,11 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-toolbar-header-margin: 4px 4px 0 4px;
   --jp-toolbar-active-background: var(--md-grey-300);
 
-  /* Statusbar specific styles */
+  /*Statusbar specific styles*/
 
   --jp-statusbar-height: 24px;
 
-  /* Input field styles */
+  /*Input field styles*/
 
   --jp-input-box-shadow: inset 0 0 2px var(--md-blue-300);
   --jp-input-active-background: var(--jp-layout-color1);
@@ -7141,13 +7194,13 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-input-active-border-color: var(--jp-brand-color1);
   --jp-input-active-box-shadow-color: rgba(19, 124, 189, 0.3);
 
-  /* General editor styles */
+  /*General editor styles*/
 
   --jp-editor-selected-background: #d9d9d9;
   --jp-editor-selected-focused-background: #d7d4f0;
   --jp-editor-cursor-color: var(--jp-ui-font-color0);
 
-  /* Code mirror specific styles */
+  /*Code mirror specific styles*/
 
   --jp-mirror-editor-keyword-color: #008000;
   --jp-mirror-editor-atom-color: #88f;
@@ -7188,15 +7241,15 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-collaborator-color6: #e2b1ff;
   --jp-collaborator-color7: #ff9de6;
 
-  /* Vega extension styles */
+  /*Vega extension styles*/
 
   --jp-vega-background: white;
 
-  /* Sidebar-related styles */
+  /*Sidebar-related styles*/
 
   --jp-sidebar-min-width: 250px;
 
-  /* Search-related styles */
+  /*Search-related styles*/
 
   --jp-search-toggle-off-opacity: 0.5;
   --jp-search-toggle-hover-opacity: 0.8;
@@ -7208,13 +7261,13 @@ all of MD as it is not optimized for dense, information rich UIs.
   );
   --jp-search-unselected-match-color: var(--jp-ui-inverse-font-color0);
 
-  /* Icon colors that work well with light or dark backgrounds */
+  /*Icon colors that work well with light or dark backgrounds*/
   --jp-icon-contrast-color0: var(--md-purple-600);
   --jp-icon-contrast-color1: var(--md-green-600);
   --jp-icon-contrast-color2: var(--md-pink-600);
   --jp-icon-contrast-color3: var(--md-blue-600);
 
-  /* Button colors */
+  /*Button colors*/
   --jp-accept-color-normal: var(--md-blue-700);
   --jp-accept-color-hover: var(--md-blue-800);
   --jp-accept-color-active: var(--md-blue-900);
@@ -7225,7 +7278,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-reject-color-hover: var(--md-grey-700);
   --jp-reject-color-active: var(--md-grey-800);
 
-  /* File or activity icons and switch semantic variables */
+  /*File or activity icons and switch semantic variables*/
   --jp-jupyter-icon-color: #f37626;
   --jp-notebook-icon-color: #f37626;
   --jp-json-icon-color: var(--md-orange-700);
@@ -7337,7 +7390,7 @@ a.anchor-link {
     if (!diagrams.length) {
       return;
     }
-    const mermaid = (await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.0/mermaid.esm.min.mjs")).default;
+    const mermaid = (await import("<https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.0/mermaid.esm.min.mjs")).default>;
     const parser = new DOMParser();
 
     mermaid.initialize({
@@ -7797,10 +7850,10 @@ a.anchor-link {
 
 <span class="c1"># Total spending per customer</span>
 <span class="n">data_cleaned</span><span class="p">[</span><span class="s1">'TotalSpend'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="p">[</span><span class="s1">'Quantity'</span><span class="p">]</span> <span class="o">*</span> <span class="n">data_cleaned</span><span class="p">[</span><span class="s1">'Price'</span><span class="p">]</span>
-<span class="n">customer_spending</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'Customer ID'</span><span class="p">)[</span><span class="s1">'TotalSpend'</span><span class="p">]</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">customer_spending</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">[</span><span class="s1">'Customer ID'</span><span class="p">](</span><span class="s1">'TotalSpend'</span><span class="p">)</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
 
 <span class="c1"># Purchase frequency per customer</span>
-<span class="n">customer_frequency</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'Customer ID'</span><span class="p">)[</span><span class="s1">'Invoice'</span><span class="p">]</span><span class="o">.</span><span class="n">nunique</span><span class="p">()</span>
+<span class="n">customer_frequency</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">[</span><span class="s1">'Customer ID'</span><span class="p">](</span><span class="s1">'Invoice'</span><span class="p">)</span><span class="o">.</span><span class="n">nunique</span><span class="p">()</span>
 
 <span class="c1"># Average spending per invoice per customer</span>
 <span class="n">customer_avg_spend</span> <span class="o">=</span> <span class="n">customer_spending</span> <span class="o">/</span> <span class="n">customer_frequency</span>
@@ -7825,11 +7878,11 @@ a.anchor-link {
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/1225981214.py:4: SettingWithCopyWarning: 
+<pre>/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/1225981214.py:4: SettingWithCopyWarning:
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
-See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+See the caveats in the documentation: <https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy>
   data_cleaned['TotalSpend'] = data_cleaned['Quantity'] * data_cleaned['Price']
 </pre>
 </div>
@@ -8156,7 +8209,7 @@ The expanded dataset now includes:</p>
 
 <span class="c1"># Geographic information (Country) - This will be one-hot encoded later</span>
 <span class="c1"># For now, we include the country as it is</span>
-<span class="n">country_per_customer</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'Customer ID'</span><span class="p">)[</span><span class="s1">'Country'</span><span class="p">]</span><span class="o">.</span><span class="n">first</span><span class="p">()</span>
+<span class="n">country_per_customer</span> <span class="o">=</span> <span class="n">data_cleaned</span><span class="o">.</span><span class="n">groupby</span><span class="p">[</span><span class="s1">'Customer ID'</span><span class="p">](</span><span class="s1">'Country'</span><span class="p">)</span><span class="o">.</span><span class="n">first</span><span class="p">()</span>
 
 <span class="c1"># Merging the new features with the customer metrics</span>
 <span class="n">extended_features</span> <span class="o">=</span> <span class="n">customer_metrics</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span>
@@ -8190,17 +8243,17 @@ The expanded dataset now includes:</p>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/2185083128.py:6: SettingWithCopyWarning: 
+<pre>/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/2185083128.py:6: SettingWithCopyWarning:
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
-See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+See the caveats in the documentation: <https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy>
   data_cleaned['Month'] = data_cleaned['InvoiceDate'].dt.month
-/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/2185083128.py:7: SettingWithCopyWarning: 
+/var/folders/94/x3ml_gpx1fqdj4djb6rrt3640000gp/T/ipykernel_3674/2185083128.py:7: SettingWithCopyWarning:
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
-See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+See the caveats in the documentation: <https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy>
   data_cleaned['DayOfWeek'] = data_cleaned['InvoiceDate'].dt.dayofweek
 /opt/homebrew/Caskroom/miniforge/base/envs/notebook39/lib/python3.9/site-packages/sklearn/preprocessing/_encoders.py:975: FutureWarning: `sparse` was renamed to `sparse_output` in version 1.2 and will be removed in 1.4. `sparse_output` is ignored unless you leave `sparse` to its default value.
   warnings.warn(
@@ -8413,7 +8466,6 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">train_test_split</span>
-
 
 <span class="n">X</span> <span class="o">=</span> <span class="n">extended_features</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="s1">'SpendingCategory'</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 <span class="n">y</span> <span class="o">=</span> <span class="n">extended_features</span><span class="p">[</span><span class="s1">'SpendingCategory'</span><span class="p">]</span>
@@ -8634,7 +8686,6 @@ weighted avg       1.00      1.00      1.00      1188
 <span class="c1"># 1. Training the decision tree model</span>
 <span class="n">dt_classifier</span> <span class="o">=</span> <span class="n">DecisionTreeClassifier</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
 <span class="n">dt_classifier</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
-
 
 <span class="c1"># 2. Visualizing the decision tree</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span> <span class="mi">10</span><span class="p">))</span>
