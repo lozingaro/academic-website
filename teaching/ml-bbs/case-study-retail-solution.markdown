@@ -1,3 +1,9 @@
+---
+layout: page
+Title: Lecture 1 - Introduction to ML for Business
+Permalink: /teaching/ml-bbs/case-study-retail-solution/
+---
+
 <!DOCTYPE html>
 
 <html lang="en">
