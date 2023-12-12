@@ -43,7 +43,7 @@ Office Hours: By appointment
 - **Date**: December 12, 2023 – 18:30 – 21:30
 - **Location**: Online - Microsoft Teams
 - **Content**: Introduction to the course, overview of machine learning types and business applications, discussion of advanced learning paradigms and data representation, the role of machine learning in modern business decision-making.
-- **Case Study**: [Predictive Analytics for Customer Retention in a Retail Business](case-study-retail) and the solution [proposed by the instructor](analysis.pdf).
+- **Case Study**: [Predictive Analytics for Customer Retention in a Retail Business](case-study-retail).
 - **Assignment**: Individual reflection on how machine learning can impact the participant’s current business role. Due: Second lecture.
 
 ### Session 2: Machine Learning Tools and Techniques in Business
