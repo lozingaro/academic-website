@@ -4,15 +4,15 @@ Title: Lecture 1 - Introduction to ML for Business
 Permalink: /teaching/ml-bbs/case-study-retail/
 ---
 
-### Case Study Worksheet: Predictive Analytics for Customer Retention
+### Case Study Worksheet: Predictive Analytics
 
 **Name:**  
-**Date:** 12 December 2023
+**Date:** 12 December 2023  
 **Course:** Machine Learning
 
 #### Understanding the Business Problem
 
-- **Contextualizing the Challenge**: In the context of a UK-based online retailer specializing in unique gift items, many of which are wholesalers, discuss potential challenges in customer profiling. What factors might influence customer loyalty in this sector?
+- **Contextualizing the Challenge**: In the context of a UK-based online retailer specializing in unique gift items, many of which are wholesalers, discuss potential challenges in customer retention. What factors might influence customer loyalty in this sector?
 - **Problem Presentation**: How might you frame the problem of customer profiling in a data-driven way? What types of data would be crucial for understanding trends?
   - **Hypothetical Example**: Imagine a scenario where an online retailer observes a decline in repeat purchases over several months. How might they frame this problem in a data-driven way? Consider what types of customer data could be crucial for understanding this trend, like frequency of purchases, average transaction value, or the diversity of products purchased.
   - **Abstract Approach**: Without diving into the specific dataset yet, brainstorm how you might use data to uncover patterns or indicators of customer loyalty or attrition in an online retail setting.
