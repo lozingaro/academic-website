@@ -47,4 +47,4 @@ Permalink: /teaching/ml-bbs/case-study-retail/
 
 - **Learning Takeaways**: What did you learn about the role of machine learning in solving real-world business problems?
 - **Real-World Application**: Consider how this approach can be applied in your business or industry. What are the potential benefits and risks of this approach?
-- **Compare your answers**: The instructor prepared a quick [analysis](case-study-retail-solution) that can be used to compare your ideas with an actual implementation.
+<!-- - **Compare your answers**: The instructor prepared a quick [analysis](case-study-retail-solution) that can be used to compare your ideas with an actual implementation. -->
