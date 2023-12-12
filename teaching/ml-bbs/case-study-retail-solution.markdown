@@ -2,8 +2,6 @@
 layout: html
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
@@ -1682,11 +1680,14 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 /*stylelint-enable selector-max-class, selector-max-compound-selectors*/
 
 /*CSS for icons in status bar*/
+
 # jp-main-statusbar .jp-mod-selected .jp-icon-selectable[fill] {
+
   fill: #fff;
 }
 
 # jp-main-statusbar .jp-mod-selected .jp-icon-selectable-inverse[fill] {
+
   fill: var(--jp-brand-color1);
 }
 
@@ -2723,6 +2724,7 @@ button.jp-ToolbarButtonComponent .jp-ToolbarButtonComponent-label {
 }
 
 # jp-main-dock-panel[data-mode='single-document']
+
   .jp-MainAreaWidget
   > .jp-Toolbar.jp-Toolbar-micro {
   padding: 0;
@@ -2730,6 +2732,7 @@ button.jp-ToolbarButtonComponent .jp-ToolbarButtonComponent-label {
 }
 
 # jp-main-dock-panel[data-mode='single-document']
+
   .jp-MainAreaWidget
   > .jp-Toolbar {
   border: none;
@@ -6887,8 +6890,8 @@ all of MD as it is not optimized for dense, information rich UIs.
 
 * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
    *
-   * <https://github.com/material-components/material-components-web>
-   * <https://material-components-web.appspot.com/elevation.html>
+  * <https://github.com/material-components/material-components-web>
+  * <https://material-components-web.appspot.com/elevation.html>
    */
 
   --jp-shadow-base-lightness: 0;
@@ -6942,7 +6945,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   /*Borders
    *
 
-   * The following variables, specify the visual styling of borders in JupyterLab.
+  * The following variables, specify the visual styling of borders in JupyterLab.
    */
 
   --jp-border-width: 1px;
@@ -6956,8 +6959,8 @@ all of MD as it is not optimized for dense, information rich UIs.
   /*UI Fonts
    *
 
-   * The UI font CSS variables are used for the typography all of the JupyterLab
-   * user interface elements that are not directly user generated content.
+  * The UI font CSS variables are used for the typography all of the JupyterLab
+  * user interface elements that are not directly user generated content.
    *
    * The font sizing here is done assuming that the body font size of --jp-ui-font-size1
    * is applied to a parent element. When children elements, such as headings, are sized
@@ -7290,6 +7293,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-switch-true-position-color: var(--md-orange-900);
 }
 </style>
+
 <style type="text/css">
 /* Force rendering true colors when outputing to pdf */
 * {
