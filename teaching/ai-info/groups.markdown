@@ -13,6 +13,7 @@ permalink: /teaching/ai-info/groups
 | :--------------------------------------- | ------: |
 | sayonara                                 |       3 |
 | BiblioTeam                               |       2 |
+| A(I) - TEAM                              |       2 |
 
 ## Registered in 2022/23, not yet examined
 
