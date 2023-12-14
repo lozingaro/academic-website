@@ -29,7 +29,7 @@ It includes detailed information such as startup names, sectors, funding rounds,
 **Access the dataset**:
 To access this dataset, visit the [Kaggle link](https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase/data) provided.
 
-Here is an example of three dataset records.
+Here is an example of the dataset records.
 
 | name          | homepage_url          |  funding_total_usd    | status    | country_code   |
 |:--------------|:----------------------|:----------------------|:----------|:---------------|
@@ -39,104 +39,51 @@ Here is an example of three dataset records.
 
 ### Task Identification
 
-Given the task of profiling startups based on investment data, what analytical approaches would most effectively reveal patterns in funding and startup success?
+With the goal of profiling startups based on comprehensive investment data, consider the following areas of focus for your analysis:
 
-Evaluate the benefits of using machine learning methods versus traditional statistical techniques to analyze this investment data.
+- **Financial pattern analysis**: Drill down into funding_total_usd and different funding types (e.g., seed, venture) to uncover patterns in financial support and their correlation with startup success.
+- **Evaluate funding timelines**: Examine 'first_funding_at', 'last_funding_at' and funding round data to understand the impact of funding timelines on startup growth and sustainability.
+- **Assess startup viability**: Use 'status' and 'founded_year' to assess how company age and current status relate to investment attractiveness and success rates.
+- **Market Analysis**: Use 'market' and 'category_list' to determine which sectors are attracting more investment and why.
+
+#### Critical questions
+
+- *What financial benchmarks indicate promising investment opportunities?*
+- *How do funding patterns differ across markets, and what does this say about sector viability?*
+- *Can startup longevity and status be used as reliable predictors of investment success?*
 
 ### Data Exploration
 
-**Key Variables**:
-Identify key variables in the data set that may have a significant impact.
+Critically analyze the data set to identify any limitations that may affect our analysis.
 
-**Data Limitations**:
-Examine the data set for any limitations that could potentially affect our analysis. Specifically:
+Key areas of focus include:
 
-- Are there any instances of *missing values* within the data set?
-- Are the *missing values* associated with key variables that are critical to our analysis?
-- Do the values within the dataset *exhibit deviations from typical behavior* that could potentially affect our analysis?
+- **Missing value assessment**: Examine the extent of missing data. Are there significant gaps, especially in critical variables essential to our analysis?
+- **Relevance of missing data**: Determine whether the missing values relate to critical factors that could skew our understanding of startup investment.
+- **Data consistency check**: Examine the data set for anomalies or deviations from expected patterns that could affect the accuracy of our conclusions.
 
 ### Data Preparation for Machine Learning
 
-In the context of preparing the dataset for a machine learning model, please discuss the following key issues:
+To effectively prepare a machine learning model, consider these critical steps:
 
-- How would you handle missing data points?
-- Describe your strategy for *feature engineering*. Would you create derived metrics or new variables to improve the predictive performance of the model? If so, provide examples of these derived metrics and their relevance to the analysis.
+- **Handling missing data**: Discuss a strategy for handling missing data points. Options include data imputation, removing rows/columns with excessive missing values, or using models that can inherently handle missing data.
+- **Feature Engineering Tactics**: Explore the development of derived metrics or new variables that improve model predictability. For example, create aggregate variables (such as average funding amount per sector) or interaction terms (such as the ratio of seed funding to venture funding) that can provide deeper insights into investment patterns.
 
 ### Model selection
 
-In the context of predicting customer behavior using machine learning, please provide insights on the following:
+In case you adopt a supervised approach by using **regression**, address the following:
 
-**Classification model**:
-If you are treating the problem as a *classification task*, describe:
-
-- The features included in the training data set.
-- The algorithm used to train the model.
-- The target used for classification.
-
-**Regression model**:
-If you are considering a *regression approach*, describe
-
-- The features included in the training data set.
-- The algorithm used to train the model.
-- The target to be predicted by the regression model.
-
-**Clustering model**:
-In the case of a *clustering model*, explain:
-
-- The features used to cluster customers.
-- The algorithm used to train the model.
-- The nature of the clustering result. What does each cluster represent? How many clusters do you expect?
+- **Feature Inclusion**: Identify key features to include in your regression model.
+- **Algorithm Selection**: Select an appropriate regression algorithm. Options include linear regression for simplicity or more complex methods such as ridge or lasso regression to handle multicollinearity. Which best fit the problem?
+- **Prediction Target**: Define the specific target you want to predict.
 
 ### Model Evaluation
 
-**Training and Testing the Model**:
-Describe the process for training and testing the model. How will you allocate data (i.e. split) for *training and testing* ? Are there any special techniques you plan to use for *hyperparameter tuning*?
+**Train and test the model**:
+When profiling startups using investment data, provide a proper *dataset split* strategy, ensuring a representative balance. Chose a proper *hyperparameter tuning* techniques. Address data imbalance.
 
-**Interpreting Results**:
-Explain your approach to *interpreting the performance* of the model. What *metrics* will you use to evaluate the model's predictive ability (e.g. accuracy, precision, recall) and *why*?
+**Interpret the results**:
+Evaluate the model using metrics relevant to investment profiling, such as *precision*, *recall*, and *F1 score*, to measure both the accuracy and reliability of the predictions. *Which best fit the problem at hand?*
 
-### Business Insights
-
-**Customer Segmentation Based on Spending Behavior Metrics**:
-The instructor conducted an analysis of customer spending behavior in the dataset.
-This analysis involved deriving specific metrics from the data and using these metrics to classify customers into different segments. An example of the data used for this analysis is shown below.
-
-The metrics used for segmentation are as follows:
-
-- Total Spend: The total amount spent by each customer.
-- Frequency: The frequency of the customer's purchases.
-- AvgSpendPerInvoice: The average spend per invoice.
-- SpendCategory: A categorical label indicating whether a customer is a "high spender" or a "low spender.
-- UniqueStocks: The number of unique items purchased by each customer.
-
-|   Customer ID |   TotalSpend |   Frequency |   AvgSpendPerInvoice | SpendingCategory   |   UniqueStocks |
-|--------------:|-------------:|------------:|---------------------:|:-------------------|---------------:|
-|         12346 |       -64.68 |          17 |             -3.80471 | Low Spender        |             30 |
-|         12347 |      5633.32 |           8 |            704.165   | High Spender       |            126 |
-|         12348 |      2019.4  |           5 |            403.88    | High Spender       |             25 |
-|         12349 |      4404.54 |           5 |            880.908   | High Spender       |            139 |
-|         12350 |       334.4  |           1 |            334.4     | Low Spender        |             17 |
-
-**Rules for Classifying Customers**:
-The results of the analysis led to the formulation of rules for classifying customers into spending categories by using **a decision tree algorithm**.
-These rules were visually presented in the "Rules for Classifying Customers" figure, which provided a clear guideline for categorizing customers based on their spending behavior.
-
-![Rules for Classifying Customers](/Users/lozingaro/Developer/academic-website/teaching/ml-bbs/case-studies/docs/customer-profile-rules.png)
-
-**Feature Importance Ranking**:
-To determine whether a customer fell into the "high spender" or "low spender" category, the instructor used a feature importance ranking. This ranking was visually represented in the Feature Importance chart, which showed the importance of each metric in making this determination.
-
-![Feature Importance](/Users/lozingaro/Developer/academic-website/teaching/ml-bbs/case-studies/docs/customer-profile-feature-importance.png)
-
-**Derive business insights**:
-*What valuable business insights can be derived from the predictions generated by the model?*
-
-**Recommendations for Strategic Actions**:
-*Based on these insights, what specific strategic actions or initiatives can the store take to increase customer loyalty and drive business growth?*
-
-### References
-
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [IBISWorld](https://www.ibisworld.com/united-kingdom/market-research-reports/online-grocery-retailers-industry/)
-- [Journal of Retailing](https://www.journals.elsevier.com/journal-of-retailing)
-- [McKinsey & Company](https://www.mckinsey.com/)
+**Model limitations**:
+Recognize any assumptions inherent in your model and potential **biases** in the data set. For example, the model may assume linear relationships or overlook the impact of external economic factors on startup success.
