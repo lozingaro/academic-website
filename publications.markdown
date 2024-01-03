@@ -10,103 +10,109 @@ For a formal list of publications, please refer to:
 - [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zingaro:Stefano_Pio)
 
 This list includes:
+
 - Journal articles: `2`
 - In conference proceedings: `12`
 - Book chapters & others: `2`
 
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965) citation count: `73`  by `70` documents with _h-index_ `4`
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209341965) citation count: `86`  by `83` documents with _h-index_ `4`
 
-1.  **Ephemeral data handling in microservices with Tquery**  
-    *Saverio Giallorenzo, Fabrizio Montesi, Larisa Safina, Stefano Pio Zingaro*  
-    2022  
-    In *PEERJ COMPUTER SCIENCE*, PeerJ Inc.  
-    [Link](https://doi.org/10.7717/peerj-cs.1037)
+1. **Low-achievement risk assessment with machine learning**  
+    _Andrea Zanellati, Stefano Pio Zingaro, Maurizio Gabbrielli_  
+    2023  
+    In _Ital-IA 2023: 3rd National Conference on Artificial Intelligence_, CEUR Workshop Proceedings  
+    [Link](https://ceur-ws.org/Vol-3486/123.pdf)
 
-2.  **Student Low Achievement Prediction**  
-    *Andrea Zanellati, Stefano Pio Zingaro, Maurizio Gabbrielli*  
+2. **Student Low Achievement Prediction**  
+    _Andrea Zanellati, Stefano Pio Zingaro, Maurizio Gabbrielli_  
     2022  
-    In *Artificial Intelligence in Education*, Springer International Publishing  
+    In _Artificial Intelligence in Education_, Springer International Publishing  
     [Link](https://doi.org/10.1007/978-3-031-11644-5_76)
 
-3.  **Proactive-Reactive Global Scaling, with Analytics**  
-    *Lorenzo Bacchiani, Mario Bravetti, Maurizio Gabbrielli, Saverio Giallorenzo, Gianluigi Zavattaro, Stefano Pio Zingaro*  
+3. **Ephemeral data handling in microservices with Tquery**  
+    _Saverio Giallorenzo, Fabrizio Montesi, Larisa Safina, Stefano Pio Zingaro_  
     2022  
-    In *Service-Oriented Computing*, Springer Nature Switzerland  
+    In _PEERJ COMPUTER SCIENCE_, PeerJ Inc.  
+    [Link](https://doi.org/10.7717/peerj-cs.1037)
+
+4. **Proactive-Reactive Global Scaling, with Analytics**  
+    _Lorenzo Bacchiani, Mario Bravetti, Maurizio Gabbrielli, Saverio Giallorenzo, Gianluigi Zavattaro, Stefano Pio Zingaro_  
+    2022  
+    In _Service-Oriented Computing_, Springer Nature Switzerland  
     [Link](https://doi.org/10.1007/978-3-031-20984-0_16)
 
-4.  **The online course was great: I would attend it face-to-face: The good, the bad, and the ugly of IT in emergency remote teaching of CS1**  
-    *Michael Lodi, Marco Sbaraglia, Stefano Pio Zingaro, Simone Martini*  
+5. **The Good, The Bad, and The Ugly of a Synchronous Online CS1**  
+    _Marco Sbaraglia, Michael Lodi, Stefano Pio Zingaro, Simone Martini_  
     2021  
-    In *GoodIT 2021 - Proceedings of the 2021 Conference on Information Technology for Social Good*, ACM  
-    [Link](https://doi.org/10.1145/3462203.3475902)
-
-5. **Multimodal Side-Tuning for Document Classification**  
-    *Stefano Pio Zingaro, Giuseppe Lisanti, Maurizio Gabbrielli*  
-    2021  
-    In *Proceedings of the 25th International Conference on Pattern Recognition (ICPR)*  
-    [Link](https://doi.org/10.1109/ICPR48806.2021.9413208)
-
-6. **Informing predictive models against Students Dropout**  
-    *Andrea Zanellati, Stefano Pio Zingaro, Francesca Del Bonifro, Maurizio Gabbrielli, Olivia Levrini, Chiara Panciroli*  
-    2021  
-    In *Atti Convegno Nazionale DIDAMATiCA 2021*, AICA - Associazione Italiana per l'Informatica ed il Calcolo Automatico
-
-7. **The Good, The Bad, and The Ugly of a Synchronous Online CS1**  
-    *Marco Sbaraglia, Michael Lodi, Stefano Pio Zingaro, Simone Martini*  
-    2021  
-    In *ITiCSE '21: Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education*, ACM  
+    In _ITiCSE '21: Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education_, ACM  
     [Link](https://doi.org/10.1145/3456565.3460075)
 
-8.  **Predictive models for effective policy making against university dropout**  
-    *Stefano Pio Zingaro, Agnese Del Zozzo, Francesca Del Bonifro, Maurizio Gabbrielli*  
-    2020  
-    In *Form@re*, Erickson  
-    [Link](https://doi.org/10.13128/form-9767)
+6. **The online course was great: I would attend it face-to-face: The good, the bad, and the ugly of IT in emergency remote teaching of CS1**  
+    _Michael Lodi, Marco Sbaraglia, Stefano Pio Zingaro, Simone Martini_  
+    2021  
+    In _GoodIT 2021 - Proceedings of the 2021 Conference on Information Technology for Social Good_, ACM  
+    [Link](https://doi.org/10.1145/3462203.3475902)
 
-9.  **Student dropout prediction**  
-    *Francesca Del Bonifro, Maurizio Gabbrielli, Giuseppe Lisanti, Stefano Pio Zingaro*  
-    2020  
-    In *Lecture Notes in Computer Science*, Springer  
-    [Link](https://doi.org/10.1007/978-3-030-52237-7_11)
+7. **Multimodal Side-Tuning for Document Classification**  
+    _Stefano Pio Zingaro, Giuseppe Lisanti, Maurizio Gabbrielli_  
+    2021  
+    In _Proceedings of the 25th International Conference on Pattern Recognition (ICPR)_  
+    [Link](https://doi.org/10.1109/ICPR48806.2021.9413208)
 
-10.  **The Servers of Serverless Computing: A Formal Revisitation of Functions as a Service**  
-    *Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Davide Sangiorgi, Stefano Pio Zingaro*  
-    2020  
-    In *Recent Developments in the Design and Implementation of Programming Languages*, Dagstuhl  
-    [Link](https://doi.org/10.4230/OASIcs.Gabbrielli.5)
+8. **Informing predictive models against Students Dropout**  
+    _Andrea Zanellati, Stefano Pio Zingaro, Francesca Del Bonifro, Maurizio Gabbrielli, Olivia Levrini, Chiara Panciroli_  
+    2021  
+    In _Atti Convegno Nazionale DIDAMATiCA 2021_, AICA - Associazione Italiana per l'Informatica ed il Calcolo Automatico
 
-11. **(Non) parliamo di pensiero computazionale**  
-    *Michael Lodi, Simone Martini, Marco Sbaraglia, Stefano Pio Zingaro*  
-    2020  
-    In *Didattica della Matematica, disciplina scientifica per una scuola efficace*, Pitagora Editrice
-
-12. **Interoperability Challenges in Internet of Things Systems: a Service-Oriented Computing Approach**  
-    *Stefano Pio Zingaro*  
+9. **Interoperability Challenges in Internet of Things Systems: a Service-Oriented Computing Approach**  
+    _Stefano Pio Zingaro_  
     2020  
     PhD Thesis, Alma Mater Studiorum - Università di Bologna  
     [Link](http://amsdottorato.unibo.it/9088/)
 
-13. **No more, no less: A formal model for serverless computing**  
-    *Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti, Stefano Pio Zingaro*  
-    2019  
-    In *Lecture Notes in Computer Science*, Springer  
-    [Link](https://doi.org/10.1007/978-3-030-22397-7_9)
+10. **Predictive models for effective policy making against university dropout**  
+    _Stefano Pio Zingaro, Agnese Del Zozzo, Francesca Del Bonifro, Maurizio Gabbrielli_  
+    2020  
+    In _Form@re_, Erickson  
+    [Link](https://doi.org/10.13128/form-9767)
+
+11. **The Servers of Serverless Computing: A Formal Revisitation of Functions as a Service**  
+    _Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Davide Sangiorgi, Stefano Pio Zingaro_  
+    2020  
+    In _Recent Developments in the Design and Implementation of Programming Languages_, Dagstuhl  
+    [Link](https://doi.org/10.4230/OASIcs.Gabbrielli.5)
+
+12. **Student dropout prediction**  
+    _Francesca Del Bonifro, Maurizio Gabbrielli, Giuseppe Lisanti, Stefano Pio Zingaro_  
+    2020  
+    In _Lecture Notes in Computer Science_, Springer  
+    [Link](https://doi.org/10.1007/978-3-030-52237-7_11)
+
+13. **(Non) parliamo di pensiero computazionale**  
+    _Michael Lodi, Simone Martini, Marco Sbaraglia, Stefano Pio Zingaro_  
+    2020  
+    In _Didattica della Matematica, disciplina scientifica per una scuola efficace_, Pitagora Editrice
 
 14. **Ephemeral data handling in microservices**  
-    *Saverio Giallorenzo, Fabrizio Montesi, Larisa Safina, Stefano Pio Zingaro*  
+    _Saverio Giallorenzo, Fabrizio Montesi, Larisa Safina, Stefano Pio Zingaro_  
     2019  
-    In *Proceedings - 2019 IEEE International Conference on Services Computing (SCC)*, IEEE  
+    In _Proceedings - 2019 IEEE International Conference on Services Computing (SCC)_, IEEE  
     [Link](https://doi.org/10.1109/SCC.2019.00048)
 
 15. **Linguistic Abstractions for Interoperability of IoT Platforms**  
-    *Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Stefano Pio Zingaro*  
+    _Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Stefano Pio Zingaro_  
     2019  
-    In *Towards Integrated Web, Mobile, and IoT Technology*, Springer  
+    In _Towards Integrated Web, Mobile, and IoT Technology_, Springer  
     [Link](https://doi.org/10.1007/978-3-030-28430-5_5)
 
-16. **A Language-based Approach for Interoperability of IoT Platforms**  
-    *Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Stefano Pio Zingaro*  
-    2018  
-    In *Proceedings of the 51st Hawaii International Conference on System Sciences*, HICSS  
-    [Link](http://hdl.handle.net/10125/50603)
+16. **No more, no less: A formal model for serverless computing**  
+    _Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti, Stefano Pio Zingaro_  
+    2019  
+    In _Lecture Notes in Computer Science_, Springer  
+    [Link](https://doi.org/10.1007/978-3-030-22397-7_9)
 
+17. **A Language-based Approach for Interoperability of IoT Platforms**  
+    _Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Stefano Pio Zingaro_  
+    2018  
+    In _Proceedings of the 51st Hawaii International Conference on System Sciences_, HICSS  
+    [Link](http://hdl.handle.net/10125/50603)
