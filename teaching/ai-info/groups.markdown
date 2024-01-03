@@ -11,6 +11,7 @@ permalink: /teaching/ai-info/groups
 
 | Name                                     | Members |
 | :--------------------------------------- | ------: |
+| I Fusilli                                |       3 |
 | sayonara                                 |       3 |
 | BiblioTeam                               |       2 |
 | A(I) - TEAM                              |       2 |
