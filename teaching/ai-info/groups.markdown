@@ -16,6 +16,7 @@ permalink: /teaching/ai-info/groups
 | BiblioTeam                               |       2 |
 | A(I) - TEAM                              |       2 |
 | The Green Group                          |       1 |
+| I Pasticcini                             |       4 |
 
 ## Registered in 2022/23, not yet examined
 
