@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Academic Dropout
+permalink: /research/academic-risk/path-analysis
 ---
 
 ### Scientific Report on Student Course Sequence Analysis
