@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Prevenzione dell'abbandono della carriera accademica
-permalink: /research/academic-risk/draft
+title: Interventi per il successo accademico
+permalink: /research/academic-risk/report
 ---
 
-## Introduzione e Contesto
+## Introduzione e contesto
 
-Prevenire esiti non canonici nella carriera accademica presso l'Università di Bologna richiede la progettazione e l'implementazione di interventi mirati.
-L'obiettivo primario è ridurre il rischio di abbandono accademico, una problematica che incide significativamente non solo sulle studentesse e sugli studenti ma anche sull'economia dell'ateneo.
+Il completamento del percorso di studi costituisce un obiettivo cruciale per gli studenti universitari. Gli atenei, nell'ambito dei loro sforzi per massimizzare le iscrizioni e le lauree e contemporaneamente minimizzare i casi di abbandono, adottano strategie operative a vari livelli.
+In questo contesto, l'Università di Bologna si dedica attivamente alla progettazione e implementazione di interventi specifici volti a prevenire esiti non canonici nella carriera accademica degli studenti.
+Questi sforzi sono guidati dall'obiettivo primario di ridurre il rischio di abbandono accademico, una problematica di rilevanza cruciale che influisce significativamente non solo sul percorso individuale degli studenti, ma anche sull'intero tessuto economico e sociale dell'ateneo.
 
 L'abbandono accademico può generare conseguenze come ritardi nella definizione del percorso di studi o nella scelta della carriera professionale, oltre a complicare la gestione delle risorse da parte dell'amministrazione universitaria.
 Interventi preventivi possono attutire questo impatto negativo.
@@ -22,7 +23,7 @@ Questi esiti non canonici possono portare a un discontinuo negli studi, con impa
 Un efficace orientamento all'ingresso può ridurre la frequenza di tali esiti, così come un orientamento in itinere può diminuire il rischio di interruzione della carriera accademica.
 L'implementazione di corsi di rafforzamento mirati può inoltre facilitare il passaggio di carriera o il trasferimento, minimizzando il rischio di interruzione degli studi.
 
-## Obiettivi del Progetto
+## Obiettivi del progetto
 
 Il progetto mira a identificare i fattori che influenzano l'abbandono della carriera accademica e a progettare interventi efficaci per mitigare questo rischio.
 Questo obiettivo si concentra sulla comprensione delle dinamiche che portano a esiti quali l'interruzione, il passaggio, e il trasferimento di corso, evidenziando la discrepanza tra le aspettative delle studentesse e degli studenti e la realtà accademica.
@@ -45,3 +46,21 @@ Questa rappresentazione mira a catturare le varie sfaccettature e le dinamiche s
 In secondo luogo, il progetto si prefigge di stabilire la rilevanza di ciascun fattore in relazione alle diverse situazioni.
 Attraverso questo approccio, sarà possibile elaborare una mappa o un protocollo che correla la condizione reale di ogni studente con l'efficacia degli interventi proposti.
 Questa mappa servirà come strumento fondamentale per guidare le decisioni e le azioni dell'ateneo nella gestione e prevenzione del rischio.
+
+## Revisione della letteratura
+
+La ricerca recente nel campo del *dropout* accademico universitario ha evidenziato diverse strategie efficaci per la prevenzione e l'intervento.
+Secondo Duckenfield (1990) e Prevatt (2003), alcuni degli approcci più efficaci includono il coinvolgimento dei genitori, l'educazione della prima infanzia, l'istruzione individualizzata e i programmi di potenziamento accademico.
+Questi elementi sono cruciali per creare un ambiente di supporto che incoraggi la persistenza degli studenti nel percorso accademico.
+
+Ortiz-Lozano (2018) enfatizza l'importanza dell'identificazione precoce degli studenti a rischio, sottolineando l'utilizzo di dati sul rendimento accademico per prevedere e prevenire potenziali abbandoni.
+La capacità di identificare gli studenti a rischio in una fase iniziale permette di intervenire tempestivamente con strategie mirate.
+
+Sullivan (2016), d'altra parte, sottolinea una lacuna nelle strategie basate sulla ricerca per gli studenti con disturbi emotivi, evidenziando la necessità di ulteriori studi e interventi focalizzati su questo gruppo.
+Questo suggerisce che, mentre sono stati fatti progressi significativi in alcune aree, rimangono ancora sfide da affrontare, in particolare per studenti con esigenze specifiche.
+
+Complessivamente, questi studi indicano che un approccio multiforme, che combina l'identificazione precoce, il supporto accademico e il coinvolgimento dei genitori, è essenziale per prevenire efficacemente l'abbandono accademico nelle università.
+Questo approccio olistico consente di affrontare una varietà di fattori che possono contribuire all'abbandono, garantendo un supporto più completo agli studenti.
+
+## Metodologia
+
