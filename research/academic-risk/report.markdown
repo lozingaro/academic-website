@@ -49,18 +49,53 @@ Questa mappa servirà come strumento fondamentale per guidare le decisioni e le 
 
 ## Revisione della letteratura
 
-La ricerca recente nel campo del *dropout* accademico universitario ha evidenziato diverse strategie efficaci per la prevenzione e l'intervento.
-Secondo Duckenfield (1990) e Prevatt (2003), alcuni degli approcci più efficaci includono il coinvolgimento dei genitori, l'educazione della prima infanzia, l'istruzione individualizzata e i programmi di potenziamento accademico.
-Questi elementi sono cruciali per creare un ambiente di supporto che incoraggi la persistenza degli studenti nel percorso accademico.
+Studi recenti hanno identificato i fattori chiave legati all'abbandono accademico nel contesto universitario.
+Truța (2018) sottolinea l'importanza dell'impegno accademico, in particolare di quello psicologico, nel predire l'intenzione di abbandonare gli studi.
+Questo aspetto evidenzia la necessità di una comprensione più approfondita degli aspetti psicologici che influenzano la decisione degli studenti di continuare o interrompere gli studi.
 
-Ortiz-Lozano (2018) enfatizza l'importanza dell'identificazione precoce degli studenti a rischio, sottolineando l'utilizzo di dati sul rendimento accademico per prevedere e prevenire potenziali abbandoni.
-La capacità di identificare gli studenti a rischio in una fase iniziale permette di intervenire tempestivamente con strategie mirate.
+Bernardo (2016) sottolinea l'influenza di diversi fattori come la vocazione, lo status economico e l'adattamento sociale e accademico sui tassi di abbandono.
+Questi fattori indicano che le decisioni degli studenti sono influenzate da una combinazione di fattori personali, economici e ambientali.
 
-Sullivan (2016), d'altra parte, sottolinea una lacuna nelle strategie basate sulla ricerca per gli studenti con disturbi emotivi, evidenziando la necessità di ulteriori studi e interventi focalizzati su questo gruppo.
-Questo suggerisce che, mentre sono stati fatti progressi significativi in alcune aree, rimangono ancora sfide da affrontare, in particolare per studenti con esigenze specifiche.
+Ortiz-Lozano (2018) sottolinea la necessità di identificare precocemente gli studenti a rischio, concentrandosi sui dati relativi ai risultati scolastici.
+Questo approccio consente di intervenire in modo proattivo prima che gli studenti decidano di abbandonare gli studi.
 
-Complessivamente, questi studi indicano che un approccio multiforme, che combina l'identificazione precoce, il supporto accademico e il coinvolgimento dei genitori, è essenziale per prevenire efficacemente l'abbandono accademico nelle università.
-Questo approccio olistico consente di affrontare una varietà di fattori che possono contribuire all'abbandono, garantendo un supporto più completo agli studenti.
+Tuttavia, Sullivan (2016) evidenzia una lacuna nella letteratura, in particolare per quanto riguarda la prevenzione e l'intervento per gli studenti con disturbi emotivi.
+Questa osservazione suggerisce la necessità di ulteriori ricerche e interventi mirati a sostenere questo specifico gruppo di studenti.
+
+In sintesi, questi studi suggeriscono che un approccio multifattoriale, che includa l'identificazione precoce, il supporto accademico e interventi mirati, è fondamentale per affrontare l'abbandono accademico in ambito universitario.
 
 ## Metodologia
 
+### Rappresentazione dei Dati
+
+In questa sottosezione, verrà descritta la metodologia impiegata per la raccolta e la rappresentazione dei dati. Saranno specificate le fonti dei dati, i criteri di selezione e le tecniche di normalizzazione. Si enfatizzerà l'importanza di una rappresentazione dei dati accurata e coerente per garantire l'affidabilità delle analisi successive.
+
+### Metodi di Analisi e Predizione
+
+Questa parte si concentrerà sui modelli e gli algoritmi utilizzati per analizzare e prevedere il drop-out accademico. Si discuteranno le tecniche di machine learning, le analisi statistiche e i modelli predittivi che saranno impiegati, fornendo dettagli sui loro punti di forza e sulle loro applicazioni specifiche nel contesto del progetto.
+
+### Valutazione dell'Efficacia degli Interventi
+
+Verranno descritti i metodi utilizzati per valutare l'efficacia degli interventi proposti. Si definiranno le metriche di successo, come il miglioramento del tasso di ritenzione e la progressione accademica, e si illustreranno i metodi per la raccolta e l'analisi dei dati post-intervento.
+
+### Risultati Preliminari
+
+In questa sezione, verranno presentati i risultati preliminari già ottenuti, come l'analisi di rilevanza dei fattori all'atto di iscrizione. Questo fornirà una base di dati empirici su cui costruire e giustificare le fasi successive del progetto.
+
+### Considerazioni Etiche e di Privacy
+
+Si affronteranno le questioni etiche e di privacy legate alla raccolta e all'analisi dei dati degli studenti, assicurando che tutte le procedure rispettino le normative vigenti e le migliori pratiche in termini di protezione dei dati personali.
+
+### Limitazioni e Sfide
+
+Verranno riconosciute le potenziali limitazioni e sfide della metodologia proposta, come la possibile variabilità dei dati o le sfide nell'interpretazione dei risultati. Questa sezione contribuirà a fornire un quadro realistico e onesto del progetto.
+
+## Riferimenti bibliografici
+
+1. Truța, C., Pârv, L., & Topala, I.R. (2018). Academic Engagement and Intention to Drop Out: Levers for Sustainability in Higher Education. Sustainability.
+
+2. Bernardo, A.B., Esteban, M., Fernández, E., Cervero, A., Tuero, E., & Solano, P.A. (2016). Comparison of Personal, Social and Academic Variables Related to University Drop-out and Persistence. Frontiers in Psychology, 7.
+
+3. Ortiz-Lozano, J.M., Rua-Vieites, A., Bilbao-Calabuig, P., & Casadesús-Fa, M. (2018). University student retention: Best time and data to identify undergraduate students at risk of dropout. Innovations in Education and Teaching International, 57, 74 - 85.
+
+4. Sullivan, A.L., & Sadeh, S.S. (2016). Does the Empirical Literature Inform Prevention of Dropout among Students with Emotional Disturbance? A Systematic Review and Call to Action. Exceptionality, 24, 251 - 262.
