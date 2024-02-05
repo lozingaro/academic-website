@@ -50,7 +50,8 @@ Questa mappa servirà come strumento fondamentale per guidare le decisioni e le 
 ## Revisione della letteratura
 
 Studi recenti hanno identificato i fattori chiave legati all'abbandono accademico nel contesto universitario.
-Truța (2018) sottolinea l'importanza dell'impegno accademico, in particolare di quello psicologico, nel predire l'intenzione di abbandonare gli studi.
+Truța (2018) sottolinea l'importanza dell'impegno, qui inteso come grado di partecipazione nella vita accademica.
+In particolare, l'impegno psicologico, misurato come livello di dedizione allo studio, è rilevante nel predire l'intenzione di abbandonare precocemente gli studi.
 Questo aspetto evidenzia la necessità di una comprensione più approfondita degli aspetti psicologici che influenzano la decisione degli studenti di continuare o interrompere gli studi.
 
 Bernardo (2016) sottolinea l'influenza di diversi fattori come la vocazione, lo status economico e l'adattamento sociale e accademico sui tassi di abbandono.
@@ -66,29 +67,110 @@ In sintesi, questi studi suggeriscono che un approccio multifattoriale, che incl
 
 ## Metodologia
 
-### Rappresentazione dei Dati
+La presente sezione descrive l'approccio metodologico adottato per indagare il fenomeno dell'abbandono accademico all'interno dell'Università di Bologna, delineando le strategie utilizzate per la raccolta e l'analisi dei dati, nonché per la valutazione dell'efficacia degli interventi proposti.
+Il nostro approccio si basa su una solida rappresentazione dei dati, metodologie di analisi avanzate, valutazioni critiche degli interventi e una chiara comprensione delle limitazioni dello studio.
 
-In questa sottosezione, verrà descritta la metodologia impiegata per la raccolta e la rappresentazione dei dati. Saranno specificate le fonti dei dati, i criteri di selezione e le tecniche di normalizzazione. Si enfatizzerà l'importanza di una rappresentazione dei dati accurata e coerente per garantire l'affidabilità delle analisi successive.
+### Rappresentazione dei dati
 
-### Metodi di Analisi e Predizione
+La rappresentazione dei dati costituisce un pilastro fondamentale nella nostra analisi del fenomeno di successo o insuccesso accademico.
+Guidati dalla letteratura esistente, abbiamo delineato un quadro iniziale che incorpora una varietà di fattori, che spaziano da quelli psicologici a quelli socio-economici e performativi, tutti focalizzati sulla relazione tra studentessa/e e il corso di studi selezionato.
+Questa rappresentazione iniziale funge da base per la nostra esplorazione, consentendoci di indagare oltre i fattori già noti considerando gli elementi istituzionali, quali l'organizzazione dei corsi e il livello di innovazione della didattica.
+Quest'approccio mira a espandere la nostra comprensione del fenomeno, integrando il focus sull'individuo **abbandonante** con quello del corso **abbandonato**.
 
-Questa parte si concentrerà sui modelli e gli algoritmi utilizzati per analizzare e prevedere il drop-out accademico. Si discuteranno le tecniche di machine learning, le analisi statistiche e i modelli predittivi che saranno impiegati, fornendo dettagli sui loro punti di forza e sulle loro applicazioni specifiche nel contesto del progetto.
+Abbiamo quindi definito vari insiemi di fattori che caratterizzeranno la nostra rappresentazione complessiva.
+Il primo gruppo di insiemi offre una *fotografia* statica dell'insuccesso accademico, includendo dati sia relativi alla/o studentessa/e sia all'istituzione.
+Questi dati comprendono informazioni personali raccolte all'atto di iscrizione, come età, genere, situazione economica e provenienza geografica, con una distinzione tra provenienza *micro* e *macro* utile per analizzare l'efficacia di politiche territoriali mirate.
 
-### Valutazione dell'Efficacia degli Interventi
+Un secondo insieme di dati descrive il *background* educativo dello studente, includendo il tipo di istituzione scolastica frequentata precedentemente (primaria, secondaria di primo e secondo grado) e i risultati ottenuti, siano queste la votazione finale oppure i dati delle prove INVALSI.
+Queste informazioni forniscono un contesto essenziale per comprendere il percorso educativo pregresso dello studente.
 
-Verranno descritti i metodi utilizzati per valutare l'efficacia degli interventi proposti. Si definiranno le metriche di successo, come il miglioramento del tasso di ritenzione e la progressione accademica, e si illustreranno i metodi per la raccolta e l'analisi dei dati post-intervento.
+Il secondo gruppo di insiemi si focalizza sulla relazione tra lo studente e il contesto accademico.
+Elementi come la motivazione alla scelta del corso, le capacità organizzative dello studente, i feedback sui corsi, i risultati degli esami di ingresso (TOLC) e di quelli successivi (appelli di esame conseguiti e falliti), la gestione dei crediti formativi obbligatori (OFA) e l'esito al termine del primo anno accademico, sono tutti fattori che contribuiscono a delineare la dinamica tra la/o studentessa/e e l'università in una visione temporale del percorso accademico.
 
-### Risultati Preliminari
+Questa rappresentazione multidimensionale, arricchita da un approccio esplorativo e informata dalla letteratura di settore, costituisce la base su cui costruiremo la nostra analisi.
+L'obiettivo è di elaborare un quadro complesso che tenga conto sia delle caratteristiche individuali degli studenti sia degli aspetti istituzionali, per identificare strategie efficaci di prevenzione dell'abbandono accademico.
 
-In questa sezione, verranno presentati i risultati preliminari già ottenuti, come l'analisi di rilevanza dei fattori all'atto di iscrizione. Questo fornirà una base di dati empirici su cui costruire e giustificare le fasi successive del progetto.
+### Metodi di Analisi e risultati preliminari
 
-### Considerazioni Etiche e di Privacy
+Successivamente, descriveremo i metodi di analisi impiegati, con particolare attenzione a quelli statistici e computazionali, come l'applicazione di modelli predittivi e tecniche di machine learning. Presenteremo alcuni risultati preliminari interessanti ottenuti dalla fase iniziale di analisi, che gettano luce sui fattori critici di successo e insuccesso accademico.
+
+### Valutazione dell'efficacia degli interventi
+
+Illustreremo inoltre come viene valutata l'efficacia degli interventi proposti, definendo metriche specifiche di successo e descrivendo il design sperimentale adottato per misurare l'impatto delle strategie di prevenzione e supporto implementate.
+
+### Limitazioni e sfide, considerazioni etiche e di privacy
+
+Verranno riconosciute le potenziali limitazioni e sfide della metodologia proposta, come la possibile variabilità dei dati o le sfide nell'interpretazione dei risultati. Questa sezione contribuirà a fornire un quadro realistico e onesto del progetto.
 
 Si affronteranno le questioni etiche e di privacy legate alla raccolta e all'analisi dei dati degli studenti, assicurando che tutte le procedure rispettino le normative vigenti e le migliori pratiche in termini di protezione dei dati personali.
 
-### Limitazioni e Sfide
+Per organizzare la sezione dedicata all'organizzazione temporale del progetto, includeremo la descrizione dei "working package" (WP), gli obiettivi principali e secondari per ciascuno di essi, e una tabella GANTT. Ecco una bozza strutturata per facilitare la comprensione e la pianificazione del progetto:
 
-Verranno riconosciute le potenziali limitazioni e sfide della metodologia proposta, come la possibile variabilità dei dati o le sfide nell'interpretazione dei risultati. Questa sezione contribuirà a fornire un quadro realistico e onesto del progetto.
+## Organizzazione Temporale del Progetto
+
+Il progetto è strutturato in diversi "working package" (WP), ciascuno mirato a raggiungere specifici obiettivi chiave e sottoobiettivi, con il contributo sinergico di un Professore ordinario, un ricercatore e un assegnista di ricerca.
+
+### Working Package 1: Rappresentazione dei Dati e Preparazione
+
+- **Obiettivi Chiave**: Definire e preparare la rappresentazione dei dati da utilizzare nelle analisi.
+- **Sotto Obiettivi**:
+  - Raccolta e normalizzazione dei dati.
+  - Definizione delle variabili di interesse basate sulla letteratura e su fattori istituzionali.
+- **Periodo**: Gennaio - Febbraio 2024.
+
+### Working Package 2: Analisi dei Dati e Risultati Preliminari
+
+- **Obiettivi Chiave**: Analizzare i dati raccolti per identificare pattern e risultati preliminari.
+- **Sotto Obiettivi**:
+  - Implementazione di modelli predittivi.
+  - Analisi dei fattori chiave relativi al successo/insuccesso accademico.
+- **Periodo**: Marzo - Maggio 2024.
+
+### Working Package 3: Valutazione dell'Efficacia degli Interventi
+
+- **Obiettivi Chiave**: Valutare l'efficacia degli interventi basati sui risultati analitici.
+- **Sotto Obiettivi**:
+  - Sviluppo e implementazione di interventi pilota.
+  - Misurazione dell'impatto degli interventi sul successo accademico.
+- **Periodo**: Giugno - Settembre 2024.
+
+### Working Package 4: Analisi Finale e Pubblicazione dei Risultati
+
+- **Obiettivi Chiave**: Condurre un'analisi finale dei dati e degli interventi; preparare i risultati per la pubblicazione.
+- **Sotto Obiettivi**:
+  - Analisi complessiva dell'impatto degli interventi.
+  - Redazione di articoli e report finali.
+- **Periodo**: Ottobre - Dicembre 2024.
+
+### Tabella GANTT
+
+La seguente tabella GANTT illustra la distribuzione temporale delle attività previste nei diversi working package, con il coinvolgimento del Professore ordinario, del ricercatore e dell'assegnista di ricerca.
+
+| WP/Mese            | Gen | Feb | Mar | Apr | Mag | Giu | Lug | Ago | Set | Ott | Nov | Dic |
+|--------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **WP1**            |  X  |  X  |     |     |     |     |     |     |     |     |     |     |
+| **WP2**            |     |  X  |  X  |  X  |  X  |     |     |     |     |     |     |     |
+| **WP3**            |     |     |     |     |  X  |  X  |  X  |  X  |  X  |     |     |     |
+| **WP4**            |     |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
+
+**Legenda**:
+
+- **X**: Periodo di attiva partecipazione al WP.
+- **Professore ordinario**: Supervisione e indirizzo strategico in tutti i WP.
+- **Ricercatore a tempo determinato**: Focalizzazione su WP2 e WP4 per l'analisi dei dati e la preparazione dei risultati.
+- **Assegnista di ricerca**: Impegno prevalente in WP1 e WP3 per la preparazione
+
+## Risorse e Budget
+
+Stima le risorse necessarie, inclusi il personale, le tecnologie, e il budget.
+
+## Impatto Atteso e Valutazione
+
+Definisci come misurerai l'impatto del progetto e come questo contribuirà alla riduzione del drop-out accademico all'Università di Bologna.
+
+## Conclusione
+
+Riassumi l'importanza del progetto e il suo potenziale impatto positivo sull'istruzione e sul benessere degli studenti.
 
 ## Riferimenti bibliografici
 
