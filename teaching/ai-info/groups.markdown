@@ -12,11 +12,15 @@ permalink: /teaching/ai-info/groups
 | Name                                     | Members |
 | :--------------------------------------- | ------: |
 | I Fusilli                                |       3 |
-| sayonara                                 |       3 |
 | BiblioTeam                               |       2 |
 | A(I) - TEAM                              |       2 |
 | The Green Group                          |       1 |
 | I Pasticcini                             |       4 |
+| Hey I                                    |       2 |
+
+## Exam session 2023/24
+
+| sayonara                                 |       3 |
 
 ## Registered in 2022/23, not yet examined
 
