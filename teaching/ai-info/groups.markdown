@@ -17,6 +17,7 @@ permalink: /teaching/ai-info/groups
 | The Green Group                          |       1 |
 | I Pasticcini                             |       4 |
 | Hey I                                    |       2 |
+| AI-uto | 2 |
 
 ## Exam session 2023/24
 
