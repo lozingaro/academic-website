@@ -1,10 +1,10 @@
-# git 
+# versioning
 git pull
 git add -A
 git commit -am "update website"
 git push
 
-# jekyll 
+# build 
 bundle exec jekyll clean
 bundle exec jekyll build 
 
