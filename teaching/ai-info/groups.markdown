@@ -7,7 +7,7 @@ permalink: /teaching/ai-info/groups
 **The color of your group name is <span style="color:red">red</span>?** Then, you have not correctly added the user `dezingaro` as `Reporter` of the project on `GitLab`, or there are problems with the registration of your group. If this is the case, please, [contact me](mailto:stefano.zingaro@unibo.it) as soon as possible.
 {: .notice--warning}
 
-## Registered in 2023/24, not yet examined
+## Registered in 2023/24
 
 | Name                                     | Members |
 | :--------------------------------------- | ------: |
@@ -19,10 +19,8 @@ permalink: /teaching/ai-info/groups
 | Hey I                                    |       2 |
 | AI-uto                                   |       2 |
 | il partito dei lavoratori                |       2 |
-
-## Exam session 2023/24
-
 | sayonara                                 |       3 |
+| A Hi                                     |       2 |
 
 ## Registered in 2022/23, not yet examined
 
