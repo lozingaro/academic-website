@@ -4,59 +4,59 @@ title: Modello di report
 permalink: /teaching/ai-info/report
 ---
 
-## 1. Introduzione
+## 1. Introduction
 
-### Descrizione del Problema
+### Problem Description
 
-- Motivazione del problema e rilevanza.
-- Pubblico interessato dal problema.
-- Benefici di una soluzione.
+- Motivation for the problem and its relevance.
+- Target audience interested in the problem.
+- Benefits of a proposed solution.
 
-### Soluzione Proposta
+### Proposed Solution
 
-- Approccio alla soluzione.
-- Sfide informatiche affrontate.
-- `[extra]` Rassegna della letteratura[^1].
-- Divisione dei compiti nel gruppo.
-- Risultati ottenuti in sintesi.
+- Approach to the solution.
+- Computational challenges faced.
+- `[extra]` Literature Review[^1].
+- Task distribution within the group.
+- Summary of achieved results.
 
-## 2. Metodo Proposto
+## 2. Proposed Method
 
-### Scelta della Soluzione
+### Solution Choice
 
-- Alternativi considerati e giustificazione della scelta.
-- Metodologia per la misurazione delle performance.
+- Alternative solutions considered and justification for the chosen approach.
+- Methodology for performance measurement.
 
-## 3. Risultati Sperimentali
+## 3. Experimental Results
 
-### Dimostrazione e Tecnologie
+### Demonstration and Technologies
 
-- Istruzioni per la dimostrazione.
-- Tecnologie e versioni usate (riproducibilità).
+- Instructions for the demonstration.
+- Technologies and versions used (for reproducibility).
 
-### Risultati
+### Results
 
-- Risultati della configurazione migliore.
-- Studio di ablazione: confronto tra configurazioni.
-- `[extra]` Studio di comparazione con letteratura[^1].
+- Results of the best configuration.
+- Ablation Study: Comparison across configurations.
+- `[extra]` Comparative Study with Literature[^1].
 
-## 4. Discussione e Conclusioni
+## 4. Discussion and Conclusions
 
-### Discussione dei Risultati
+### Results Discussion
 
-- Analisi delle performance rispetto alle aspettative.
+- Analysis of performance in relation to expectations.
 
-### Validità del Metodo
+### Method Validity
 
-- Valutazione se il metodo rispetta le aspettative.
+- Evaluation if the method meets expectations.
 
-### Limitazioni e Maturità
+### Limitations and Maturity
 
-- Limiti di applicabilità e bias.
-- Maturità tecnologica della soluzione.
+- Limits of applicability and biases.
+- Technological maturity of the solution.
 
-### Lavori Futuri
+### Future Works
 
-- Proposte per avanzare il progetto.
+- Proposals to advance the project.
 
-[^1]: Voci `[extra]` obbligatorie per gruppi con più di due membri.
+[^1]: `[extra]` sections mandatory for groups with more than two members.

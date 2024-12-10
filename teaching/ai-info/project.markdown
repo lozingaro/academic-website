@@ -48,8 +48,8 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 - Use preferred technologies for development, such as Java, Python or MiniZinc.
 - Use `git` for project management.
 - Store code on [GitLab](http://gitlab.com):
-  1. Request access to the [AI Lab CS LM group](https://gitlab.com/ai_lab_cs_lm/2023_2024).
-  2. Fork the [provided template repository](https://gitlab.com/ai_lab_cs_lm/2023_2024/ai_course_template.git).
+  1. Request access to the [AI Lab CS LM group](https://gitlab.com/ai_lab_cs_lm/2024_2025).
+  2. Fork the [provided template repository](https://gitlab.com/ai_lab_cs_lm/2024_2025/ai_course_template).
   3. Manage --> Members --> Invite members --> Add username `@dezingaro` --> Select role `Reporter` --> Invite.
 
 ## Submission
