@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Istruzioni per il progetto
+title: Instructions for developing the project
 permalink: /teaching/ai-info/project
 ---
 
 Welcome to the Artificial Intelligence (AI) project page for the Master's degree program in Computer Science at the University of Bologna.
 
-- [Group Management](#group-management)
-- [Project Structure](#project-structure)
-- [Evaluation Process](#evaluation-process)
-- [Report Guidelines](#report-guidelines)
+- [Group management](#group-management)
+- [Project structure](#project-structure)
+- [Evaluation process](#evaluation-process)
+- [Report guidelines](#report-guidelines)
 - [Implementation](#implementation)
 - [Submission](#submission)
 - [Demo](#demo)
-- [Project Discussion](#project-discussion)
+- [Project discussion](#project-discussion)
 
-## Group Management
+## Group management
 
 - Each group consists of 2 to 3 members. Exceptional cases (e.g., groups consisting of 1 member) can be discussed with the tutor.
 - To participate in the exam, communicate your group composition via email to [me](mailto:stefano.zingaro@unibo.it).
@@ -24,20 +24,20 @@ Welcome to the Artificial Intelligence (AI) project page for the Master's degree
 
 For those seeking a group, visit the [group list page](groups) for contact info and existing group details.
 
-## Project Structure
+## Project structure
 
-- Projects can be proposed by groups or course instructors.
+- Projects can be proposed by groups or course instructors (encouraged).
 - Instructors' proposals are **just** general guidelines (problems, tasks, datasets).
-- Check the [proposals page](proposals) for instructor-proposed projects.
+<!-- - Check the [proposals page](proposals) for instructor-proposed projects. -->
 
-## Evaluation Process
+## Evaluation process
 
-- Two components: written report and code implementation.
+- Two components: **written report** and **code implementation**.
 - Evaluation through an oral exam discussing the project.
 - All group members participate in discussing the project.
 - Evaluation is sufficient if a correct experimental approach is followed. Grade depends on the effort and quality of the work.
 
-## Report Guidelines
+## Report guidelines
 
 - No length limits, 12pt font, any preferred format (e.g., `lateX`, `docx`).
 - Follow the [report template](report) structure.
@@ -64,7 +64,7 @@ For those seeking a group, visit the [group list page](groups) for contact info 
 - Integration with code is optional.
 - Useful for further publication of the project on the web, e.g. on [GitHub](http://github.com).
 
-## Project Discussion
+## Project discussion
 
 - Evaluation includes report analysis and code implementation.
 - Exam date based on GitLab `Tag` creation.
