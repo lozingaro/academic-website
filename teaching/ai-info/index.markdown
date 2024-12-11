@@ -33,7 +33,7 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
 
 - **Data:** 11 dicembre 2024
 - **Argomenti trattati:** Introduzione al problema, discussione della proposta basata su regole e di quella basata sui dati. Implementazione dei metodi e approcci discussi.
-- **Dati:** [names.txt](https://gist.github.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc)
+- **Dati:** [names.txt](https://gist.githubusercontent.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc/raw/1b56698032da7b6f770d0e60a723a7d20860a87a/names.txt)
 
 <!-- - **Notebooks jupyter:**
   - [Proposta Basata su Regole](https://gist.github.com/lozingaro/07349dcdcedc2b40d46c7ecdf3430b4a).
