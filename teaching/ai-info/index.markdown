@@ -33,24 +33,24 @@ Questo modulo è focalizzato sull'applicazione del metodo scientifico sperimenta
 
 - **Data:** 11 dicembre 2024
 - **Argomenti trattati:** Introduzione al problema, discussione della proposta basata su regole e di quella basata sui dati. Implementazione dei metodi e approcci discussi.
-
+- **Dati:** [names.txt](https://gist.github.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc)
 <!-- - **Notebooks jupyter:**
   - [Proposta Basata su Regole](https://gist.github.com/lozingaro/07349dcdcedc2b40d46c7ecdf3430b4a).
-  - [Proposta Basata sui Dati - parte prima](https://gist.github.com/lozingaro/e6be8a9f046d12086168c3fc3e51658b). -->
+  - [Proposta Basata sui Dati](https://gist.github.com/lozingaro/e6be8a9f046d12086168c3fc3e51658b). -->
 
----
+<!-- ---
 
 - **Data:** 17 dicembre 2024
-- **Argomenti Trattati:** Laboratorio di metodo sperimentale per l'approccio basato sui dati.
+- **Argomenti Trattati:** Laboratorio di metodo sperimentale per l'approccio basato sui dati. -->
 
 <!-- - **Notebooks Jupyter:**
   - [Proposta Basata sui Dati - parte seconda](https://gist.github.com/lozingaro/50ec8a39e8c4c5749779cc893bfed83c).
   - [Dataset di nomi](https://gist.github.com/lozingaro/e9a0152c0b6e44b8de83d5c3bbc58dcc). -->
 
----
+<!-- ---
 
 - **Data:** 18 dicembre 2024
-- **Argomenti Trattati:** Laboratorio di metodo sperimentale per l'approccio basato sui dati.
+- **Argomenti Trattati:** Laboratorio di metodo sperimentale per l'approccio basato sui dati. -->
 
 <!-- - **Notebooks Jupyter:**
   - [Proposta Basata sui Dati - parte terza](https://gist.github.com/lozingaro/e29e5fd4b58138b15be271c21da95894). -->
